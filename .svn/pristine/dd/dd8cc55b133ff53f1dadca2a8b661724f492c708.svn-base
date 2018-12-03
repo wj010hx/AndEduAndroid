@@ -1,0 +1,39 @@
+---
+Help: 我的礼品卡-打开、激活
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 我的礼品卡-打开、激活
+!3 测试步骤
+
+1.进入个人中心
+2.进入我的礼品卡
+3.点击礼品卡说明
+4.点击激活
+
+!3 期望结果
+
+3.显示礼品卡说明内容
+4.显示激活对话框
+
+!3 作者和日期
+王杰  20180621
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='我的礼品卡']|
+|wait|3|seconds|
+|click on |//*[@text='礼品卡说明']|
+|wait|3|seconds|
+|$property=|get attr|enabled   |by xpath|(//*[@class='android.view.View'])[1]|
+|check|text|TRUE|is part of|$property|true|
+|click on textview|激活|
+|wait|3|seconds|
+|check|get attr|text   |by xpath|//*[@resource-id='com.cmcc.andedu_phone:id/send']|激活|
+

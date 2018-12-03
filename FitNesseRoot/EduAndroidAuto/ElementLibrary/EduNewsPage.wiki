@@ -1,0 +1,9 @@
+---
+Help: 教育资讯
+---
+论文大赛标题
+!define lunwenTitle {(//*[@resource-id='com.cmcc.andedu_phone:id/activity_center_list_title'])[1]}
+
+
+电脑大赛标题
+!define diannaoTitle {(//*[@resource-id='com.cmcc.andedu_phone:id/activity_center_list_title'])[2]}

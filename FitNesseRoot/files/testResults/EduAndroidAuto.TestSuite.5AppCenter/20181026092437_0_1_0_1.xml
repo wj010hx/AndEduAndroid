@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>EduAndroidAuto.TestSuite.5AppCenter</rootPath>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.5AppCenter.5-11JiaBoFJ</name>
+    <date>2018-10-26T09:24:37+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.5AppCenter.5-11JiaBoFJ?pageHistory&amp;resultDate=20181026092437</pageHistoryLink>
+    <counts>
+      <right>3</right>
+      <wrong>2</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>88576</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"D:\Program Files\Java\jdk1.8.0_65\bin\java" -cp D:\Automation\AndEduAndroid\lib\fitnesse-standalone.jar;D:/Automation/AndEduAndroid/lib/java-client-1.2.1.jar;D:/Automation/AndEduAndroid/lib/junit-4.10.jar;D:/Automation/AndEduAndroid/lib/selenium-java-2.44.0.jar;D:/Automation/AndEduAndroid/lib/selenium-server-standalone-2.44.0.jar;D:/Automation/AndEduAndroid/lib/AutomationDriver.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>1</exitCode>
+    <stdOut>=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Radio] --&gt; Ӧ��
+[Assert Element Exists] By Label --&gt; Ӧ��
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Assert Enable] AssertUIObjectEnabledByLabel --&gt; Ӧ��
+[Wait 2 Seconds]
+[Open App In App Center With Bottom] &gt;&gt;&gt; �Ӳ��ּ��Ķ�
+[swipeToFindTextViewAndClickOn(): Function In]
+[Assert Element Exists] By Label --&gt; �Ӳ��ּ��Ķ�
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.61 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: df8ca9f1-6b2b-4029-ae4c-d89d3bbeb614
+[swipeToFindTextViewAndClickOn(): execute in while]
+[Swipe to UP]
+[Assert Element Exists] By Label --&gt; �����Ƽ�
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.55 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: df8ca9f1-6b2b-4029-ae4c-d89d3bbeb614
+[swipeToFindTextViewAndClickOn(): Swipe once]
+[Assert Element Exists] By Label --&gt; �Ӳ��ּ��Ķ�
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: df8ca9f1-6b2b-4029-ae4c-d89d3bbeb614
+[swipeToFindTextViewAndClickOn(): execute in while]
+[Swipe to UP]
+[Assert Element Exists] By Label --&gt; �����Ƽ�
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.59 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: df8ca9f1-6b2b-4029-ae4c-d89d3bbeb614
+[swipeToFindTextViewAndClickOn(): Swipe once]
+[Assert Element Exists] By Label --&gt; �Ӳ��ּ��Ķ�
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: df8ca9f1-6b2b-4029-ae4c-d89d3bbeb614
+[swipeToFindTextViewAndClickOn(): execute in while]
+[Swipe to UP]
+[Assert Element Exists] By Label --&gt; �����Ƽ�
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.51 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: df8ca9f1-6b2b-4029-ae4c-d89d3bbeb614
+[swipeToFindTextViewAndClickOn(): Swipe once]
+[Assert Element Exists] By Label --&gt; �Ӳ��ּ��Ķ�
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.85 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: df8ca9f1-6b2b-4029-ae4c-d89d3bbeb614
+[swipeToFindTextViewAndClickOn(): execute in while]
+[Swipe to UP]
+[Assert Element Exists] By Label --&gt; �����Ƽ�
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.29 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: df8ca9f1-6b2b-4029-ae4c-d89d3bbeb614
+[swipeToFindTextViewAndClickOn(): Swipe once]
+[Assert Element Exists] By Label --&gt; �Ӳ��ּ��Ķ�
+[Assert Element Exists] By Label &lt;-- FOUND!
+[swipeToFindTextViewAndClickOn(): End while]
+[Assert Element Exists] By Label --&gt; �Ӳ��ּ��Ķ�
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On Textview] --&gt; ����Ӧ��
+[Assert Element Exists] By Label --&gt; ����Ӧ��
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.37 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: df8ca9f1-6b2b-4029-ae4c-d89d3bbeb614
+[Assert Element Exists] By ID --&gt; ����Ӧ��
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.33 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: df8ca9f1-6b2b-4029-ae4c-d89d3bbeb614
+getCurrentDateStamp��[2018-10-26]
+getCurrentDateTimeWithoutFormat��[20181026092555]
+[Get Screenshot To File] D:\2018-10-26\ERR_20181026092555_clickOnTextView=����Ӧ��.png]
+[ERROR] ScreenShot --&gt; D:\2018-10-26\ERR_20181026092555_clickOnTextView=����Ӧ��.png
+[Wait Seconds] Step was skipped!
+[Switch To Webview] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Get Text Of] Step was skipped!
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+</stdOut>
+    <stdErr></stdErr>
+    <exception>Could not send/receive data with SUT</exception>
+    <exception>fitnesse.testsystems.slim.SlimCommunicationException: Could not send/receive data with SUT</exception>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>1</wrong>
+    <ignores>0</ignores>
+    <exceptions>1</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>94452</totalRunTimeInMillis>
+</suiteResults>
+

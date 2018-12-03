@@ -1,0 +1,61 @@
+---
+Help: 学通数学-免费试用、内部包月、点播
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-学通数学免费试用、内部包月/点播
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证学通数学免费试用、内部包月/点播功能正常
+
+!3 作者和日期
+王杰  20180320
+
+**!
+
+内部包月
+!|script|
+|swipFindAppAndTry|学通数学|
+|wait|3|seconds|
+|switch to native |
+|wait|10|seconds|
+|click on textview|关闭   |
+|wait|1|seconds|
+|click on textview|确定   |
+|wait|1|seconds|
+|click on textview|免费试用   |
+|wait|10|seconds|
+|switch to webview|
+|wait|3|seconds|
+|wait for element|${XTSX_funnyMath}|Enabled|
+|wait|3|seconds|
+|click on|${XTSX_funnyMath}|
+|wait|3|seconds|
+|wait for element|${QKT_gotoPay}|Enabled|
+|wait|3|seconds|
+|click on|${QKT_gotoPay}|
+|AppBaoYueCheck|
+
+内部点播
+!|script|
+|ReturnThreeTimes|
+|wait for element|${XTSX_funnyMath}|Enabled|
+|click on|${XTSX_funnyMath}|
+|wait|3|seconds|
+|wait for element|${QKT_dianBoFee}|Enabled|
+|click on|${QKT_dianBoFee}|
+|wait|3|seconds|
+|wait for element|${QKT_gotoPay}|Enabled|
+|click on|${QKT_gotoPay}|
+|AppDianBoCheck|

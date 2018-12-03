@@ -1,0 +1,4 @@
+---
+Help: 保存值到变量
+---
+|$content=|get attr|text   |by xpath|(//*[@resource-id=''])[1]|

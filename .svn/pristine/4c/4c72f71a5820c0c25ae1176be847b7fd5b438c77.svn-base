@@ -1,0 +1,33 @@
+---
+Help: 家校互动-查看通讯录
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 查看通讯录
+!3 测试步骤
+
+1.校讯通用户进入家校互动首页
+2.点击通讯录
+
+!3 期望结果
+
+1.通讯录列表正确显示(验证通讯录姓名长度不为0)
+
+
+!3 作者和日期
+王杰  20180619
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='家校互动']|
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[2]|
+|wait|10|seconds|
+|$msg=|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/home_address_item_name'])[1]|
+|check not|get text length|$msg|0|

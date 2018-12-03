@@ -1,0 +1,56 @@
+---
+Help: 班级相册-上传照片
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 相册-创建
+!3 测试步骤
+
+1.校讯通教师用户进入家校互动首页
+2.点击班级空间
+3.点击相册
+4.拍照上传
+
+!3 期望结果
+
+照片上传成功(验证相册内的照片数不为0)
+
+!3 作者和日期
+王杰  20180620
+
+**!
+
+**上传照片至第一个相册**
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='家校互动']|
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]|
+|wait|10|seconds|
+|click on |//*[@text='相册']|
+|wait|3|seconds|
+|$beforeUploadCount= |get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/album_count'])[1]|
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/album_cover'])[1]|
+|wait|3|seconds|
+|click on imageview|common_title_right       |
+|wait|3|seconds|
+|click on |//*[@text='拍照']|
+|wait|4|seconds|
+|click on |//*[@resource-id='com.meizu.media.camera:id/shutter_btn']|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.meizu.media.camera:id/btn_done']|
+|wait|5|seconds|
+|click on imageview|common_title_left      |
+|wait|3|seconds|
+|check not|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/album_count'])[1]|$beforeUploadCount|
+
+
+
+
+
+

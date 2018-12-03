@@ -1,0 +1,8 @@
+---
+Help: 客户端统一支付页面包月订购流程验证
+---
+!|scenario          |AppBaoYueCheck  |
+|wait|8|seconds|
+|click on|${surePayBtn}|
+|wait|3|seconds|
+|wait for element|${lastSurePayBtn}|Present|

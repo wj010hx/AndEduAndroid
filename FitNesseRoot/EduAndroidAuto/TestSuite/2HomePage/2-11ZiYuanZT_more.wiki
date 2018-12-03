@@ -1,0 +1,40 @@
+---
+Help: 资源专题-更多
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 打开资源专题-更多
+
+!3 测试步骤
+
+1. 打开资源专题-更多
+
+
+!3 期望结果
+
+正确跳转至资源专题首页
+
+!3 作者和日期
+王杰  2018012
+
+**!
+
+!|script|
+|click on radio|首页    |
+|swipe |1500|pixel from center to up  |
+|wait|3|seconds|
+|swipe |1500|pixel from center to up  |
+|wait|3|seconds|
+|swipe |1500|pixel from center to up  |
+|wait|3|seconds|
+|click on textview|更多      |
+|wait|5|seconds|
+|switch to webview|
+|$dateText=|get text of|${ziyuanDate}|
+|check|text|年|is part of|$dateText|true|
+
+
+

@@ -1,0 +1,40 @@
+---
+Help: 报哪儿-免费试用、内部包月
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-报哪儿免费试用、内部包月
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证报哪儿免费试用、内部包月功能正常
+
+!3 作者和日期
+王杰  20180319
+
+**!
+
+!|script|
+|open app|报哪儿|in app center with bottom|最新推荐|
+|wait|3|seconds|
+|click on textview|免费试用   |
+|wait|10|seconds|
+|switch to webview|
+|wait|2|seconds|
+|click on|${tianZhiYuan}|
+|wait|3|seconds|
+|click on|${confirmBtn}|
+|wait|3|seconds|
+|click on|${surePayBtn}|
+|wait|3|seconds|
+|wait for element|${lastSurePayBtn}|Present|  

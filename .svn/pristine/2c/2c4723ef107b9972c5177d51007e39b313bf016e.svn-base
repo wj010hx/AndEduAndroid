@@ -1,0 +1,33 @@
+---
+Help: 资源-考点精讲
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 打开资源-考点精讲
+
+!3 测试步骤
+
+1. 打开资源-考点精讲
+
+
+
+!3 期望结果
+
+正确跳转至考点精讲首页(详细功能、订购在应用中心实现)
+
+!3 作者和日期
+王杰  20180613
+
+**!
+
+!|script|
+|click on radio|资源    |
+|wait|10|seconds|
+|click on |//*[@text='考点精讲']    |
+|wait|3|seconds|
+|switch to webview|
+|wait|3|seconds|
+|check|get text of |${年级全部}|全部|

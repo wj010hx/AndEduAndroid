@@ -1,0 +1,9 @@
+---
+Help: 滑动屏幕找到应用,进入应用介绍页
+---
+!|scenario          |swipFindApp  |appName|
+|set swipe speed|1300       |
+|open app|@appName|in app center with bottom|最新推荐|
+|wait|2|seconds|
+|click on textview|@appName   |
+|wait|2|seconds|

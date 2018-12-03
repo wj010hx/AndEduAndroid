@@ -1,0 +1,57 @@
+---
+Help: 同步习题-收藏
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 打开收藏某个同步习题
+
+!3 测试步骤
+
+1. 打开资源-习题
+2.点击取消收藏
+3.点击收藏
+4.去个人中心查看收藏结果
+
+
+
+!3 期望结果
+
+收藏成功
+
+!3 作者和日期
+王杰  20180614
+
+**!
+!|script|
+|click on radio|资源    |
+|wait|10|seconds|
+|click on |//*[@text='同步习题']    |
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/tv_name'])[1]    |
+|wait|3|seconds|
+|$title=|get attr|text   |by xpath|//*[@resource-id='com.cmcc.andedu_phone:id/common_title_middle']|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']   |
+|wait|3|seconds|
+|click on textview|收藏      |
+|check |is toast with string|收藏成功|true|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']   |
+|wait|3|seconds|
+|click on textview|收藏      |
+|check |is toast with string|取消收藏成功|true|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_left']   |
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_left']   |
+|wait|3|seconds|
+|click on radio|首页     |
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/main_center']   |
+|wait|3|seconds|
+|click on |//*[@text='我的收藏']    |
+|wait|3|seconds|
+|check not|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/store_item_title'])[1] |$title|

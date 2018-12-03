@@ -1,0 +1,49 @@
+---
+Help: 个人中心-打开应用订单、继续支付
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 个人中心-打开应用订单
+!3 测试步骤
+
+1.进入个人中心
+2.进入应用订单
+3.切换已完成/待支付/处理中/处理失败标签
+
+!3 期望结果
+
+按状态显示订单列表
+
+!3 作者和日期
+王杰  20180726
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='应用订单']|
+|wait|3|seconds|
+|click on |//*[@text='处理中']|
+|wait|3|seconds|
+|click on |//*[@text='处理失败']|
+|wait|3|seconds|
+|click on |//*[@text='已完成']|
+|wait|3|seconds|
+|click on |//*[@text='待支付']|
+|wait|3|seconds|
+|$content=|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/item_order_name'])[1]|
+|check not|get text length|$content|0|
+
+***继续支付第一个应用订单***
+!|script|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/item_order_status_doing'])[1]|
+|wait|3|seconds|
+|click on |//*[@text='去支付']|
+|wait|4|seconds|
+|switch to webview|
+|wait|3|seconds|
+|AppDianBoCheck|

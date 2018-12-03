@@ -1,0 +1,56 @@
+---
+Help: 家校互动-互联网切换成校讯通用户进入
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 互联网切换成校讯通用户进入家校互动首页
+!3 测试步骤
+
+1.校讯通用户进入家校互动首页
+
+!3 期望结果
+
+正确显示家校互动首页
+
+
+!3 作者和日期
+王杰  20180619
+
+**!
+
+互联网改成校讯通用户登录
+!|script|
+|click on radio|首页      |
+|wait|5|seconds|
+|click on imageview|center_person_image       |
+|wait|5|seconds|
+|click on textview|设置   |
+|wait|5|seconds|
+|click on textview|退出登录   |
+|wait|5|seconds|
+|click on textview|确定   |
+|wait|5|seconds|
+|click on textview|点击登录   |
+|wait|5|seconds|
+
+**!
+切换账号登录
+|login_XXT|
+|username|password|
+|15210210011|123456|
+
+!|script|
+|click on imageview|common_title_left       |
+|wait|5|seconds|
+|click on imageview|center_person_image       |
+|wait|5|seconds|
+|click on |//*[@text='家校互动']|
+|wait|5|seconds|
+|check |get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[7]|办公短信|
+
+
+
+

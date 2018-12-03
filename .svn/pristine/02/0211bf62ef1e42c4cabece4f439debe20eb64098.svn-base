@@ -1,0 +1,42 @@
+---
+Help: 互联网、校讯通登录
+---
+校讯通账号从登录页登录
+!|scenario          |login_XXT  |username| |password|
+|click on |//*[@text='账号登录']|
+|wait|3|seconds|
+|type  |@username|into|edu_login_number|
+|wait|3|seconds|
+|type  |@password|into|edu_login_password|
+|wait|3|seconds|
+|click on edittext|edu_login_number|
+|wait|3|seconds|
+|click on edittext|edu_login_password|
+|wait|3|seconds|
+|type  |wnyzm|into|edu_login_picture_et|
+|wait|3|seconds|
+|press back|
+|wait|3|seconds|
+|click on button|edu_login_button   |
+|wait|5|seconds|
+
+互联网账号从登录页登录
+!|scenario          |login_HLW  |username| |password|
+|click on |//*[@text='账号登录']|
+|wait|3|seconds|
+|click on edittext|edu_login_number    |
+|wait|3|seconds|
+|type  |@username|into|edu_login_number|
+|wait|3|seconds|
+|click on edittext|edu_login_password    |
+|wait|3|seconds|
+|type  |@password|into|edu_login_password|
+|wait|3|seconds|
+|click on edittext|edu_login_picture_et    |
+|wait|3|seconds|
+|type  |wnyzm|into|edu_login_picture_et|
+|wait|3|seconds|
+|press back|
+|wait|3|seconds|
+|click on button|edu_login_button   |
+|wait|5|seconds|

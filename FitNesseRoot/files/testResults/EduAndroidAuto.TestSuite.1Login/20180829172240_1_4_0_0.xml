@@ -1,0 +1,430 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>EduAndroidAuto.TestSuite.1Login</rootPath>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.1Login.1-1LoginLogout_hlw</name>
+    <date>2018-08-29T17:22:40+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.1Login.1-1LoginLogout_hlw?pageHistory&amp;resultDate=20180829172240</pageHistoryLink>
+    <counts>
+      <right>16</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>58437</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.1Login.1-2LoginLogout_xxt</name>
+    <date>2018-08-29T17:23:39+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.1Login.1-2LoginLogout_xxt?pageHistory&amp;resultDate=20180829172339</pageHistoryLink>
+    <counts>
+      <right>11</right>
+      <wrong>5</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>58070</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.1Login.1-3QQLogin</name>
+    <date>2018-08-29T17:24:37+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.1Login.1-3QQLogin?pageHistory&amp;resultDate=20180829172437</pageHistoryLink>
+    <counts>
+      <right>3</right>
+      <wrong>6</wrong>
+      <ignores>0</ignores>
+      <exceptions>1</exceptions>
+    </counts>
+    <runTimeInMillis>42603</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.1Login.1-4WeiXinLogin</name>
+    <date>2018-08-29T17:25:19+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.1Login.1-4WeiXinLogin?pageHistory&amp;resultDate=20180829172519</pageHistoryLink>
+    <counts>
+      <right>3</right>
+      <wrong>5</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>42057</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.1Login.1-5WeiBoLogin</name>
+    <date>2018-08-29T17:26:01+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.1Login.1-5WeiBoLogin?pageHistory&amp;resultDate=20180829172601</pageHistoryLink>
+    <counts>
+      <right>3</right>
+      <wrong>5</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>42844</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"D:\Program Files\Java\jdk1.8.0_65\bin\java" -cp D:\Automation\AndEduAndroid\lib\fitnesse-standalone.jar;D:/Automation/AndEduAndroid/lib/java-client-1.2.1.jar;D:/Automation/AndEduAndroid/lib/junit-4.10.jar;D:/Automation/AndEduAndroid/lib/selenium-java-2.44.0.jar;D:/Automation/AndEduAndroid/lib/selenium-server-standalone-2.44.0.jar;D:/Automation/AndEduAndroid/lib/AutomationDriver.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut>[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Radio] --&gt; ��ҳ
+AssertUIObjectExistsByLabel --&gt; ��ҳ
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+AssertUIObjectEnabledByLabel --&gt; ��ҳ
+[Wait 1 Seconds]
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ����
+AssertUIObjectExistsByLabel --&gt; ����
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �˳���¼
+AssertUIObjectExistsByLabel --&gt; �˳���¼
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On Textview] --&gt; ȷ��
+AssertUIObjectExistsByLabel --&gt; ȷ��
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �����¼
+AssertUIObjectExistsByLabel --&gt; �����¼
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 2 Seconds]
+[Type Into] 18811603122 --&gt; edu_login_number
+AssertUIObjectExistsByID --&gt; edu_login_number
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] qwer1314 --&gt; edu_login_password
+AssertUIObjectExistsByID --&gt; edu_login_password
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; edu_login_number
+AssertUIObjectExistsByID --&gt; edu_login_number
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; edu_login_password
+AssertUIObjectExistsByID --&gt; edu_login_password
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Type Into] wnyzm --&gt; edu_login_picture_et
+AssertUIObjectExistsByID --&gt; edu_login_picture_et
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Button] --&gt; edu_login_button
+AssertUIObjectExistsByID --&gt; edu_login_button
+AssertUIObjectExistsByID &lt;-- FOUND!
+AssertUIObjectEnabledByID --&gt; edu_login_button
+[Wait 5 Seconds]
+[Click On Imageview] --&gt; common_title_left
+AssertUIObjectExistsByID --&gt; common_title_left
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Radio] --&gt; Ӧ��
+AssertUIObjectExistsByLabel --&gt; Ӧ��
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+AssertUIObjectEnabledByLabel --&gt; Ӧ��
+[Wait 2 Seconds]
+[Click On Textview] --&gt; �ҵ�
+AssertUIObjectExistsByLabel --&gt; �ҵ�
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On Button] --&gt; common_title_right_btn
+AssertUIObjectExistsByID --&gt; common_title_right_btn
+AssertUIObjectExistsByID &lt;-- FOUND!
+AssertUIObjectEnabledByID --&gt; common_title_right_btn
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Radio] --&gt; ��ҳ
+AssertUIObjectExistsByLabel --&gt; ��ҳ
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+AssertUIObjectEnabledByLabel --&gt; ��ҳ
+[Wait 1 Seconds]
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ����
+AssertUIObjectExistsByLabel --&gt; ����
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �˳���¼
+AssertUIObjectExistsByLabel --&gt; �˳���¼
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On Textview] --&gt; ȷ��
+AssertUIObjectExistsByLabel --&gt; ȷ��
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �����¼
+AssertUIObjectExistsByLabel --&gt; �����¼
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 2 Seconds]
+[Type Into] 15210210011 --&gt; edu_login_number
+AssertUIObjectExistsByID --&gt; edu_login_number
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] 123456 --&gt; edu_login_password
+AssertUIObjectExistsByID --&gt; edu_login_password
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; edu_login_number
+AssertUIObjectExistsByID --&gt; edu_login_number
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; edu_login_password
+AssertUIObjectExistsByID --&gt; edu_login_password
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Type Into] wnyzm --&gt; edu_login_picture_et
+AssertUIObjectExistsByID --&gt; edu_login_picture_et
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Button] --&gt; edu_login_button
+AssertUIObjectExistsByID --&gt; edu_login_button
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.21 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: b6e92a1c-d08d-4a0a-be72-709faf1b74e3
+AssertUIObjectExistsByLabel --&gt; edu_login_button
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.87 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: b6e92a1c-d08d-4a0a-be72-709faf1b74e3
+[Wait Seconds] Step was skipped!
+[Click On Imageview] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Click On Radio] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Click On Textview] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Click On Button] Step was skipped!
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Click On Radio] --&gt; ��ҳ
+AssertUIObjectExistsByLabel --&gt; ��ҳ
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+AssertUIObjectEnabledByLabel --&gt; ��ҳ
+[Wait 1 Seconds]
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ����
+AssertUIObjectExistsByLabel --&gt; ����
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �˳���¼
+AssertUIObjectExistsByLabel --&gt; �˳���¼
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.93 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: dcaa29fe-4562-423e-a2ea-b06f6f2205ab
+AssertUIObjectExistsByID --&gt; �˳���¼
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: dcaa29fe-4562-423e-a2ea-b06f6f2205ab
+[Wait Seconds] Step was skipped!
+[Click On Textview] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Click On Textview] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Click On] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Click On] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Get Attr By Xpath] Step was skipped!
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Radio] --&gt; ��ҳ
+AssertUIObjectExistsByLabel --&gt; ��ҳ
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+AssertUIObjectEnabledByLabel --&gt; ��ҳ
+[Wait 1 Seconds]
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ����
+AssertUIObjectExistsByLabel --&gt; ����
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �˳���¼
+AssertUIObjectExistsByLabel --&gt; �˳���¼
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: 69a5dae5-6fc7-4a9b-9c5f-fd7b01f96c95
+AssertUIObjectExistsByID --&gt; �˳���¼
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.15 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: 69a5dae5-6fc7-4a9b-9c5f-fd7b01f96c95
+[Wait Seconds] Step was skipped!
+[Click On Textview] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Click On Textview] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Click On] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Get Attr By Xpath] Step was skipped!
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Radio] --&gt; ��ҳ
+AssertUIObjectExistsByLabel --&gt; ��ҳ
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+AssertUIObjectEnabledByLabel --&gt; ��ҳ
+[Wait 1 Seconds]
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ����
+AssertUIObjectExistsByLabel --&gt; ����
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �˳���¼
+AssertUIObjectExistsByLabel --&gt; �˳���¼
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.40 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: 6df22d09-c68e-480d-a411-81ec3c58bf37
+AssertUIObjectExistsByID --&gt; �˳���¼
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.43 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: 6df22d09-c68e-480d-a411-81ec3c58bf37
+[Wait Seconds] Step was skipped!
+[Click On Textview] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Click On Textview] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Click On] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Get Attr By Xpath] Step was skipped!
+[Close App] Test End.
+</stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>1</right>
+    <wrong>4</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>244707</totalRunTimeInMillis>
+</suiteResults>
+

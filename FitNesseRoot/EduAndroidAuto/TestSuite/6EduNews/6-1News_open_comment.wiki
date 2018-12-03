@@ -1,0 +1,43 @@
+---
+Help: 资讯评论
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 打开、评论某个资讯
+
+!3 测试步骤
+
+1. 打开资讯
+2.点击某个新闻
+3.评论新闻
+
+
+!3 期望结果
+
+评论成功(评论数+1)
+
+!3 作者和日期
+王杰  20180614
+
+**!
+
+!|script|
+|click on radio|资讯    |
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/news_title'])[5]    |
+|wait|3|seconds|
+|$commentBeroreCount=|get attr|text   |by xpath|//*[@resource-id='com.cmcc.andedu_phone:id/news_comment_count']|
+|wait|3|seconds|
+|click on edittext|input_comment|
+|wait|3|seconds|
+|type  |共享时代已经来临，赞|into|input_comment|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/tv_send_comment']   |
+|wait|3|seconds|
+|click on |(//*[@class='android.view.View'])[2] |
+|wait|3|seconds|
+|check not|get attr|text   |by xpath|//*[@resource-id='com.cmcc.andedu_phone:id/news_comment_count']|$commentBeroreCount|
+

@@ -1,0 +1,40 @@
+---
+Help: 我的群组-删除
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 我的群组-删除
+!3 测试步骤
+
+1.进入消息-好友-我的群组
+2.删除某个群组
+
+!3 期望结果
+
+1.删除成功
+
+!3 作者和日期
+王杰  20180625
+
+**!
+
+!|script|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/main_message']|
+|wait|3|seconds|
+|click on textview|好友|
+|wait|3|seconds|
+|click on textview|我的群组|
+|wait|3|seconds|
+|click on |//*[@text='自动化测试群组']    |
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/ll_right_image']|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/joinOutGroup']|
+|wait|3|seconds|
+|click on textview|狠心解散|
+|wait|3|seconds|
+|check|get attr|text   |by xpath|//*[@resource-id='com.cmcc.andedu_phone:id/tv_push']|群组已经被解散!|
+

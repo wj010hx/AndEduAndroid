@@ -1,0 +1,41 @@
+---
+Help: 首页-直播课堂业务-包月订购
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+首页-直播课堂业务-包月订购
+!3 测试步骤
+
+1.进入客户端首页
+2.点击某个收费直播课程
+3.点击直播课堂业务包月
+4.点击立即购买
+5.选择课程付费-话费支付并支付
+
+!3 期望结果
+
+5.正确跳转至话费支付确认页
+
+!3 作者和日期
+王杰  20180727
+
+**!
+
+!|script|
+|wait|10|seconds|
+|swipe up         |
+|wait|2|seconds|
+|click on |${homePageLiveIMG}|
+|wait|10|seconds|
+|switch to webview|
+|wait|3|seconds|
+|click on |${buyLiveNow}|
+|wait|3|seconds|
+|click on |${mobilePay}|
+|wait|1|seconds|
+|click on |${nextStep}|
+|wait|3|seconds|
+|AppBaoYueCheck|

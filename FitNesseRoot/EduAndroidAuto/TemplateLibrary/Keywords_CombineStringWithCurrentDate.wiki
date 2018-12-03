@@ -1,0 +1,4 @@
+---
+Help: 连接目标字符串和当前日期时间
+---
+|$newstring=|combine string||with current date|

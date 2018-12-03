@@ -1,0 +1,8 @@
+---
+Help: 首页
+---
+*****名师导学*****
+!define 开启新频道 {//div[@class='new_channel']//a}
+
+*****考点精讲*****
+!define 年级全部 {(//div[@class='slide-nav-left'])[1]//span}

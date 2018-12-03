@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>EduAndroidAuto.TestSuite.2HomePage</rootPath>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"D:\Program Files\Java\jdk1.8.0_65\bin\java" -cp D:\Automation\AndEduAndroid\lib\fitnesse-standalone.jar;D:/Automation/AndEduAndroid/lib/java-client-1.2.1.jar;D:/Automation/AndEduAndroid/lib/junit-4.10.jar;D:/Automation/AndEduAndroid/lib/selenium-java-2.44.0.jar;D:/Automation/AndEduAndroid/lib/selenium-server-standalone-2.44.0.jar;D:/Automation/AndEduAndroid/lib/AutomationDriver.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>1</exitCode>
+    <stdOut>=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2560)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2560
+[Click On Textview] --&gt; ����
+[Assert Element Exists] By Label --&gt; ����
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 2 Seconds]
+[Switch To Webview]
+[Set Webview --&gt; WEBVIEW_com.cmcc.andedu_phone ]
+</stdOut>
+    <stdErr></stdErr>
+    <exception>Could not send/receive data with SUT</exception>
+    <exception>fitnesse.testsystems.slim.SlimCommunicationException: Could not send/receive data with SUT</exception>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>1</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>111799</totalRunTimeInMillis>
+</suiteResults>
+

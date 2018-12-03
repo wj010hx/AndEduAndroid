@@ -1,0 +1,38 @@
+---
+Help: 资源切换年级
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于切换资源标题栏的学段年级教材信息
+
+!3 测试步骤
+
+1. 打开资源
+2.点击标题栏下拉框
+3.选择学段年级教材等信息
+4.点击完成
+
+
+
+!3 期望结果
+
+正确显示筛选结果
+
+!3 作者和日期
+王杰  20180613
+
+**!
+
+!|script|
+|click on radio|资源    |
+|wait|10|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/iv_icon']     |
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/rb_primary']     |
+|wait|3|seconds|
+|click on textview|数学      |
+|wait|3|seconds|
+|click on textview|完成     |

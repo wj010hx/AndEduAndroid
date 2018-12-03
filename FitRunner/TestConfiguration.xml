@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<testConfig>
+
+	<!-- Fitnesse Server Name/IP -->
+  <TestServer>
+		http://localhost
+  </TestServer>
+  
+  <!-- Fitnesse Server Port -->
+  <ServerPort>
+		9500
+  </ServerPort>
+
+	<!-- Define full pathname of test result -->
+  <ResultPath>
+		D:/Automation/AndEduAndroid/FitRunner/TestResult
+  </ResultPath>
+  
+  <Aut>http://edu.10086.cn/</Aut>
+  <!-- Executed Before Tests -->
+  <SetupTest suite="EduAndroidAuto.BeforeTest" name="BeforeTest" run="false"></SetupTest>
+  
+  <!-- Executed After Tests -->
+  <TearDownTest suite="EduAndroidAuto.AfterTest" name="AfterTest" run="false"></TearDownTest>
+
+
+  
+  <!-- Suite:2HomePage -->
+	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-11ZiYuanZT_more"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-12ZhiBo_more"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-13AppRecom_open"></Test> 
+	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-14SearchSmart"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-15SearchResult"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-17ZiYuanZT_smartRecommend"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-18MyGroup_create"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-19MyGroup_delete"></Test>
+  	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-1RecommendNews"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-22LiveApp_BaoYue"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-23LiveApp_DianBo"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-2IndexMXZY"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-3IndexMSDX"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-4IndexKDJJ"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.2HomePage" name="2-5IndexMSYK"></Test>
+	
+	<!-- Suite:4Resources -->
+  	<Test suite="EduAndroidAuto.TestSuite.4Resources" name="4-0ChangeGrade"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.4Resources" name="4-10JiaoAn_open"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.4Resources" name="4-11KeJian_open"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.4Resources" name="4-12SuCai_open"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.4Resources" name="4-2ZiYuan_MSYK"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.4Resources" name="4-3ZiYuan_MSDX"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.4Resources" name="4-4TongBuWK_detail"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.4Resources" name="4-5TongBuWK_comment"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.4Resources" name="4-6TongBuWK_VideoPlay"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.4Resources" name="4-7TongBuXT_open"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.4Resources" name="4-8TongBuXT_collect"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.4Resources" name="4-9TongBuXT_share"></Test>
+	
+  <!-- Suite:6EduNews -->
+  	<Test suite="EduAndroidAuto.TestSuite.6EduNews" name="6-1News_open_comment"></Test>
+	
+  <!-- Suite:7Personal -->
+  	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-1MyCode_save"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-2MyNickname_alter"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-3MyAppOrder_open"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-6MyStudyRecord_open"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-7MyStudyRecord_detail"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-10Mycollection_open"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-11Mycollection_add"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-12Mycollection_delete"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-9MyGiftcard_open_activity"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-13MyDynamicState_creat_delete"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-14MyPhotoAlbum_creat"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-15MyPhotoAlbum_upload"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-16MyPhotoAlbum_delete"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-17MyLog_open"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-18MyNetdisk_open"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-19TeachbooksSettings"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-20ClearCache"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-21CheckAppVersion"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-22ServiceTerm_open"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-23Feedback_open"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-24MyProfilephoto_change"></Test>
+	
+	<!-- Suite:3Interaction 
+	<Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-00JiaXiaoHD_hlwEnter"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.1Login" name="1-6Logout"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.1Login" name="1-8Login_xxt"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-01JiaXiaoHD_xxtEnter"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-4SendNoticeMsg"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-5SendHomeworkMsg"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-6SendCommentMsg"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-7SendTimingMsg"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-8ClassLinkbook_open"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-10ClassCircle_creat_comment_zan"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-14PublicNotice_send"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-15PublicNotice_open"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-16PublicNotice_delete"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-17ClassPhotoAlbum_creat"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-18ClassPhotoAlbum_upload"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-19ClassPhotoAlbum_delete"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-20ClassNetdisk_open"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-21ExamManage_open"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-23ScoreManage_open"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-24OfficialMsg_open"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-25SendOfficialMsg"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-26ClassSchedule_open"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.1Login" name="1-6Logout"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.1Login" name="1-7Login_hlw"></Test>-->
+	
+	<!-- Suite:5AppCenter -->
+    <Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-11JiaBoFJ"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-12YuZhiTongTch"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-13XueTongSXTch"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-14HuDongZWSXTch"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-15MiaoBiZW"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-17XueTongSX"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-18HuDongZW"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-19YuZhiTong"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-1MingShiDX"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-21eFuDao"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-29KuaiLeXT"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-2ZhangShangGK"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-30YouManFen"></Test>
+	<!--<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-34App_AiXiongBao_Stu"></Test>-->
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-35JiaZhangXT"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-36KouDaiWD"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-37AiXiongBaoParents"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-6ChengZhangBS"></Test>
+	<!--以下两用例互联网切换至校讯通账号
+	<Test suite="EduAndroidAuto.TestSuite.1Login" name="1-6Logout"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.1Login" name="1-8Login_xxt"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-7HuaTengTongBuKT"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-8YouJiaCZT"></Test>-->
+	
+
+	<!-- 切换互联网账号密码，放在最后 
+	<Test suite="EduAndroidAuto.TestSuite.1Login" name="1-6Logout"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.1Login" name="1-7Login_hlw"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-MyPassword_change"></Test>-->
+    <!-- Suite:1Login -->
+	<!-- <Test suite="EduAndroidAuto.TestSuite.1Login" name="1-4LoginLogout_xxt"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.1Login" name="1-5LoginLogout_hlw"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.1Login" name="1-1QQLogin"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.1Login" name="1-2WeiXinLogin"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.1Login" name="1-3WeiBoLogin"></Test>-->
+  
+	<!-- Mail Configure -->
+	<MailConfig sendprotocol="smtp" smtphost="smtp.qq.com" smtpport="465" auth="true" passcode="hlafbzcwyniabcfj" send="true">和教育Android自动化巡检报告</MailConfig>
+	<From name="Jenkins">2011779015@qq.com</From>
+	<To>
+		wangjie_qt@chinamobile.com
+	</To>
+	<Cc>
+		wangjie_qt@chinamobile.com
+	</Cc>
+	<Bcc></Bcc>
+
+</testConfig>

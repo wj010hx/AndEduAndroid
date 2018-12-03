@@ -1,0 +1,35 @@
+---
+Help: 校讯通用户登录退出和教育客户端
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 校讯通登录退出和教育客户端
+
+!3 测试步骤
+
+1. 退出已登录用户
+2. 输入校讯通用户名密码
+3. 登录
+4. 点击应用-我的-编辑。如未成功登录，会触发登录
+
+
+!3 期望结果
+
+登录、退出功能正常
+
+!3 作者和日期
+王杰  20180509
+
+**!
+切换账号登录
+|changeUser|
+|username|password|
+|23897010017|111111aaa|
+
+!|script|
+|click on textview|我的      |
+|wait|2|seconds|
+|click on button|common_title_right_btn    |

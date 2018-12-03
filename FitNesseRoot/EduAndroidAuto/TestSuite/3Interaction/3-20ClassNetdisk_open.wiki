@@ -1,0 +1,36 @@
+---
+Help: 班级网盘-查看
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 打开班级网盘
+!3 测试步骤
+
+1.校讯通教师用户进入家校互动首页
+2.点击班级空间
+3.点击网盘
+
+!3 期望结果
+
+班级网盘列表正确显示
+
+!3 作者和日期
+王杰  20180620
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='家校互动']|
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]|
+|wait|10|seconds|
+|click on |//*[@text='网盘']|
+|wait|3|seconds|
+|$content=|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/cloud_load_cishu'])[1]|
+|wait|3|seconds|
+|check|text|次|is part of|$content|true|

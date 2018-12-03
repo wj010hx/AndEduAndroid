@@ -1,0 +1,54 @@
+---
+Help: 爱熊宝家长-试用、内部包月、点播
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-爱熊宝家长免费试用、内部包月/点播
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证爱熊宝家长免费试用、内部包月/点播功能正常
+
+!3 作者和日期
+王杰  20180320
+账号18811603122或者13021281818
+**!
+
+内部包月
+!|script|
+|open app|爱熊宝家长|in app center with bottom|最新推荐|
+|click on textview|免费试用   |
+|wait|3|seconds|
+|click on textview|关闭   |
+|click on textview|确定   |
+|click on textview|免费试用   |
+|wait|2|seconds|
+|click on textview|关闭   |
+|click on textview|确定   |
+|click on textview|免费试用   |
+|wait|5|seconds|
+|switch to webview|
+|click on|${一键管控}|
+|wait|1|seconds|
+|click on|${爱熊宝立即订购}|
+|AppBaoYueCheck|
+
+内部点播
+!|script|
+|ReturnThreeTimes|
+|click on|${一键管控}|
+|wait|1|seconds|
+|click on|${爱熊宝点播}|
+|wait|1|seconds|
+|click on|${爱熊宝立即订购}|
+|AppDianBoCheck|

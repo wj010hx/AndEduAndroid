@@ -1,0 +1,26 @@
+---
+Help: 点播统一支付流程验证
+---
+点播支付简单流程验证
+!|scenario          |AppDianBoCheck  |
+|wait|8|seconds|
+|click on|${surePayBtn}|
+|wait|5|seconds|
+|wait for element|${ZFBradio}|Enabled|
+
+
+
+点播支付全流程验证
+!|scenario          |AppDianBoCheckComplete  |
+|wait|8|seconds|
+|click on|${surePayBtn}|
+|wait|5|seconds|
+|click on|${ZFBradio}|
+|wait for element|${dianBoPayBtn}|Enabled|
+|wait|1|seconds|
+|click on|${dianBoPayBtn}|
+|wait for element|${ZFBContinuePay}|Enabled|
+|wait|2|seconds|
+|click on|${ZFBContinuePay}|
+|wait for element|${nextStepBtn}|Enabled|
+|check|get text of|${nextStepBtn}|下一步|

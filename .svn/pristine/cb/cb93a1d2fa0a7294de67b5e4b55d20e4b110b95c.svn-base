@@ -1,0 +1,63 @@
+---
+Help: 和教育android自动化测试
+---
+﻿ !img files/edulogo1.png 
+
+!*** Welcome to CMCC Education Android Automation Home Page!
+
+!contents -h 
+*!
+!***> Env Configuration
+
+!define TEST_SYSTEM {slim}
+#!define SLIM_PORT {8085}
+
+!define REMOTE_DEBUG_COMMAND {java -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=8787 -cp %p %m}
+!path E:/EduAndroidAuto/lib/java-client-1.2.1.jar
+!path E:/EduAndroidAuto/lib/lib/junit-4.10.jar
+!path E:/EduAndroidAuto/lib/selenium-java-2.44.0.jar
+!path E:/EduAndroidAuto/lib/selenium-server-standalone-2.44.0.jar
+!path E:/EduAndroidAuto/lib/AutomationDriver.jar
+*!
+!*** Mobile Configuration
+#红米1s
+#!define phoneUdid {5623a812}
+#!define deviceName {xiaomi-hm_1s-5623a812}
+#!define platformVersion {4.4.4}
+
+#魅族
+!define phoneUdid {793QBDRJ2283V}
+!define deviceName {793QBDRJ2283V}
+!define platformVersion {7.0}
+
+#小米6
+#!define phoneUdid {ab7ec9f5}
+#!define deviceName {ab7ec9f5}
+#!define platformVersion {7.1.1}
+
+!define platformName {Android}
+!define appPackage {com.cmcc.andedu_phone}
+!define appActivity {com.cmcc.andedu_phone.activity.guide.SplashActivity}
+
+#默认用户账号
+!define autUsername {15210210011}
+#校讯通教师账号
+!define XXT_teacher {15210210011}
+#校讯通家长账号
+!define XXT_parent  {15210210013}
+#校讯通学生账号
+!define XXT_student {15210210004}
+#以上账号的通用密码
+!define autPassword {123456}
+#同步课堂学生专用账号
+!define TBKT_Username {13021281818}
+!define TBKT_Password {qwer1314}
+#互联网普通账号密码
+!define ordinary_username  {18811603122}
+!define ordinary_password  {qwer1314}
+#家校互动账号密码
+!define JXHD_username  {23897010015}
+!define JXHD_password  {111111aaa}
+#万能验证码
+!define verifiCode {wnyzm}
+*!

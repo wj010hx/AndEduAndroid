@@ -1,0 +1,46 @@
+---
+Help: 互联网、校讯通登录
+---
+账号密码从首页登录
+!|scenario          |usernameLogin  |username| |password|
+|wait|10|seconds|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on textview|点击登录   |
+|wait|3|seconds|
+|click on |//*[@text='账号登录']|
+|wait|3|seconds|
+|type  |@username|into|edu_login_number|
+|wait|3|seconds|
+|type  |@password|into|edu_login_password|
+|wait|3|seconds|
+|click on edittext|edu_login_number|
+|wait|3|seconds|
+|click on edittext|edu_login_password|
+|wait|3|seconds|
+|type  |wnyzm|into|edu_login_picture_et|
+|wait|3|seconds|
+|click on button|edu_login_button   |
+|wait|15|seconds|
+|click on imageview|common_title_left   |
+|wait|3|seconds|
+|click on radio|首页      |
+
+
+!|scenario          |usernameLoginFromLoginpage  |username| |password|
+|wait|10|seconds|
+|click on |//*[@text='账号登录']|
+|wait|3|seconds|
+|type  |@username|into|edu_login_number|
+|wait|3|seconds|
+|type  |@password|into|edu_login_password|
+|wait|3|seconds|
+|click on edittext|edu_login_number|
+|wait|3|seconds|
+|click on edittext|edu_login_password|
+|wait|3|seconds|
+|type  |wnyzm|into|edu_login_picture_et|
+|wait|3|seconds|
+|click on button|edu_login_button   |
+|wait|15|seconds|
+|click on radio|首页      |

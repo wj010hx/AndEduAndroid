@@ -1,0 +1,34 @@
+---
+Help: 学习记录-查看详情
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 学习记录-查看详情
+!3 测试步骤
+
+1.进入个人中心
+2.进入学习记录
+3.点击某个记录
+
+!3 期望结果
+
+1.正确跳转至该课程详情页
+
+!3 作者和日期
+王杰  20180620
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='学习记录']|
+|wait|3|seconds|
+|click on |(//*[@class='android.view.View'])[4]|
+|wait|3|seconds|
+|switch to webview|
+|wait|3|seconds|
+|check|get text of|//li[@class='tabbar-item']/span|课程列表|

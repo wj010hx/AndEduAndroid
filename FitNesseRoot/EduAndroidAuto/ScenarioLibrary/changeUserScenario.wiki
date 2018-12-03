@@ -1,0 +1,35 @@
+---
+Help: 切换用户并进入应用中心
+---
+!|scenario          |changeUser  |username| |password|
+|click on radio|首页      |
+|wait|1|seconds|
+|click on imageview|center_person_image       |
+|wait|1|seconds|
+|click on textview|设置   |
+|wait|1|seconds|
+|click on textview|退出登录   |
+|wait|2|seconds|
+|click on textview|确定   |
+|wait|1|seconds|
+|click on textview|点击登录   |
+|wait|2|seconds|
+|click on |//*[@text='账号登录']|
+|wait|1|seconds|
+|type  |@username|into|edu_login_number|
+|wait|1|seconds|
+|type  |@password|into|edu_login_password|
+|wait|1|seconds|
+|click on edittext|edu_login_number|
+|wait|1|seconds|
+|click on edittext|edu_login_password|
+|type  |wnyzm|into|edu_login_picture_et|
+|wait|1|seconds|
+|press back|
+|wait|2|seconds|
+|click on button|edu_login_button   |
+|wait|5|seconds|
+|click on imageview|common_title_left        |
+|wait|1|seconds|
+|click on radio|应用      |
+|wait|2|seconds|

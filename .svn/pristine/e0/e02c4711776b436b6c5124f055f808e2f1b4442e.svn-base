@@ -1,0 +1,10 @@
+---
+Help: 滑动屏幕找到应用并立即使用
+---
+!|scenario          |swipFindAppAndUse  |appName|
+|set swipe speed|1500      |
+|open app|@appName|in app center with bottom|最新推荐|
+|wait|3|seconds|
+|click on textview|进入应用   |
+|wait|10|seconds|
+|switch to webview|

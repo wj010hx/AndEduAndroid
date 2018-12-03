@@ -1,0 +1,12 @@
+---
+Help: 点播统一支付流程验证
+---
+!|scenario          |AppDianBoCheck  |
+|wait|8|seconds|
+|click on|${surePayBtn}|
+|wait|3|seconds|
+|click on|${ZFBradioFather}|
+|wait|1|seconds|
+|click on|${dianBoPayBtn}|
+|wait|3|seconds|
+|check|get text of|${nextStepBtn}|下一步|

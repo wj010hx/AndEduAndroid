@@ -1,0 +1,54 @@
+---
+Help: 家长学堂-免费试用、内部包月、点播
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-家长学堂免费试用、内部包月/点播
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证家长学堂免费试用、内部包月/点播功能正常
+
+!3 作者和日期
+王杰  20180320
+
+**!
+
+内部包月
+!|script|
+|swipFindAppAndTry|家长学堂|
+|wait for element|${发现导航}|Enabled|
+|click on|${发现导航}|
+|wait for element|${首条音频}|Enabled|
+|wait|5|seconds|
+|click on|${首条音频}|
+|wait|10|seconds|
+|wait for element|${音频播放按钮}|Enabled|
+|click on|${音频播放按钮}|
+|wait for element|${立即订购}|Enabled|
+|wait|3|seconds|
+|click on|${立即订购}|
+|wait|5|seconds|
+|click on|${JZXT5元包月}|
+|wait for element|${开通}|Enabled|
+|click on|${开通}|
+|AppBaoYueCheck|
+
+内部点播
+!|script|
+|ReturnThreeTimes|
+|wait for element|${点播资费}|Enabled|
+|click on|${点播资费}|
+|wait for element|${开通}|Enabled|
+|click on|${开通}|
+|AppDianBoCheck|

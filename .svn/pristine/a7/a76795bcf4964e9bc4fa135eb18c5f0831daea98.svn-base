@@ -1,0 +1,42 @@
+---
+Help: 华腾同步课堂-免费试用、内部包月、点播
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-华腾同步课堂免费试用、内部包月/点播
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证华腾同步课堂免费试用、内部包月/点播功能正常
+
+!3 作者和日期
+王杰  20180327
+
+**!
+切换账号登录
+|changeUser|
+|username|password|
+|13908949007|14f48t|
+
+内部包月
+!|script|
+|swipFindAppAndTry|华腾同步课堂|
+|wait|8|seconds|
+|click on|${HT我的}|
+|wait for element|${HT我要订购}|Enabled|
+|click on|${HT我要订购}|
+|wait for element|${HT华腾同步课堂}|Enabled|
+|click on|${HT华腾同步课堂}|
+|wait for element|${HT订购}|Enabled|
+|click on|${HT订购}|
+|AppBaoYueCheck|

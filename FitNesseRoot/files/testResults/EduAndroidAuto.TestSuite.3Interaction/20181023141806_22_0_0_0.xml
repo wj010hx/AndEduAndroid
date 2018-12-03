@@ -1,0 +1,2106 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>EduAndroidAuto.TestSuite.3Interaction</rootPath>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-00JiaXiaoHD_hlwEnter</name>
+    <date>2018-10-23T14:18:06+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-00JiaXiaoHD_hlwEnter?pageHistory&amp;resultDate=20181023141806</pageHistoryLink>
+    <counts>
+      <right>3</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>19840</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-01JiaXiaoHD_xxtEnter</name>
+    <date>2018-10-23T14:18:26+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-01JiaXiaoHD_xxtEnter?pageHistory&amp;resultDate=20181023141826</pageHistoryLink>
+    <counts>
+      <right>17</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>50736</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-10ClassCircle_creat_comment_zan</name>
+    <date>2018-10-23T14:19:17+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-10ClassCircle_creat_comment_zan?pageHistory&amp;resultDate=20181023141917</pageHistoryLink>
+    <counts>
+      <right>21</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>65294</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-14PublicNotice_send</name>
+    <date>2018-10-23T14:20:22+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-14PublicNotice_send?pageHistory&amp;resultDate=20181023142022</pageHistoryLink>
+    <counts>
+      <right>11</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>45632</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-15PublicNotice_open</name>
+    <date>2018-10-23T14:21:08+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-15PublicNotice_open?pageHistory&amp;resultDate=20181023142108</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>50923</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-16PublicNotice_delete</name>
+    <date>2018-10-23T14:21:59+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-16PublicNotice_delete?pageHistory&amp;resultDate=20181023142159</pageHistoryLink>
+    <counts>
+      <right>9</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>33378</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-17ClassPhotoAlbum_creat</name>
+    <date>2018-10-23T14:22:32+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-17ClassPhotoAlbum_creat?pageHistory&amp;resultDate=20181023142232</pageHistoryLink>
+    <counts>
+      <right>9</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>38331</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-18ClassPhotoAlbum_upload</name>
+    <date>2018-10-23T14:23:10+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-18ClassPhotoAlbum_upload?pageHistory&amp;resultDate=20181023142310</pageHistoryLink>
+    <counts>
+      <right>11</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>50898</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-19ClassPhotoAlbum_delete</name>
+    <date>2018-10-23T14:24:01+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-19ClassPhotoAlbum_delete?pageHistory&amp;resultDate=20181023142401</pageHistoryLink>
+    <counts>
+      <right>8</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>38364</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-20ClassNetdisk_open</name>
+    <date>2018-10-23T14:24:40+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-20ClassNetdisk_open?pageHistory&amp;resultDate=20181023142440</pageHistoryLink>
+    <counts>
+      <right>5</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>28951</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-21ExamManage_open</name>
+    <date>2018-10-23T14:25:09+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-21ExamManage_open?pageHistory&amp;resultDate=20181023142509</pageHistoryLink>
+    <counts>
+      <right>5</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>28225</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-23ScoreManage_open</name>
+    <date>2018-10-23T14:25:37+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-23ScoreManage_open?pageHistory&amp;resultDate=20181023142537</pageHistoryLink>
+    <counts>
+      <right>4</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>28671</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-24OfficialMsg_open</name>
+    <date>2018-10-23T14:26:05+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-24OfficialMsg_open?pageHistory&amp;resultDate=20181023142605</pageHistoryLink>
+    <counts>
+      <right>5</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>27779</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-25SendOfficialMsg</name>
+    <date>2018-10-23T14:26:33+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-25SendOfficialMsg?pageHistory&amp;resultDate=20181023142633</pageHistoryLink>
+    <counts>
+      <right>20</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>68766</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-26ClassSchedule_open</name>
+    <date>2018-10-23T14:27:42+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-26ClassSchedule_open?pageHistory&amp;resultDate=20181023142742</pageHistoryLink>
+    <counts>
+      <right>4</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>28437</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-3SendedMsg_open</name>
+    <date>2018-10-23T14:28:10+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-3SendedMsg_open?pageHistory&amp;resultDate=20181023142810</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>31148</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-4SendNoticeMsg</name>
+    <date>2018-10-23T14:28:42+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-4SendNoticeMsg?pageHistory&amp;resultDate=20181023142842</pageHistoryLink>
+    <counts>
+      <right>11</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>44214</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-5SendHomeworkMsg</name>
+    <date>2018-10-23T14:29:26+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-5SendHomeworkMsg?pageHistory&amp;resultDate=20181023142926</pageHistoryLink>
+    <counts>
+      <right>14</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>47191</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-6SendCommentMsg</name>
+    <date>2018-10-23T14:30:13+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-6SendCommentMsg?pageHistory&amp;resultDate=20181023143013</pageHistoryLink>
+    <counts>
+      <right>11</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>42846</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-7SendTimingMsg</name>
+    <date>2018-10-23T14:30:56+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-7SendTimingMsg?pageHistory&amp;resultDate=20181023143056</pageHistoryLink>
+    <counts>
+      <right>12</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>40398</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-8ClassLinkbook_open</name>
+    <date>2018-10-23T14:31:36+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-8ClassLinkbook_open?pageHistory&amp;resultDate=20181023143136</pageHistoryLink>
+    <counts>
+      <right>4</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>26863</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-9ChangeXXT2HLW</name>
+    <date>2018-10-23T14:32:03+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-9ChangeXXT2HLW?pageHistory&amp;resultDate=20181023143203</pageHistoryLink>
+    <counts>
+      <right>13</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>46511</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"D:\Program Files\Java\jdk1.8.0_65\bin\java" -cp D:\Automation\AndEduAndroid\lib\fitnesse-standalone.jar;D:/Automation/AndEduAndroid/lib/java-client-1.2.1.jar;D:/Automation/AndEduAndroid/lib/junit-4.10.jar;D:/Automation/AndEduAndroid/lib/selenium-java-2.44.0.jar;D:/Automation/AndEduAndroid/lib/selenium-server-standalone-2.44.0.jar;D:/Automation/AndEduAndroid/lib/AutomationDriver.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut>=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] enabled --&gt; (//*[@class='android.view.View'])[1]
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Radio] --&gt; ��ҳ
+[Assert Element Exists] By Label --&gt; ��ҳ
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Assert Enable] AssertUIObjectEnabledByLabel --&gt; ��ҳ
+[Wait 1 Seconds]
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ����
+[Assert Element Exists] By Label --&gt; ����
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �˳���¼
+[Assert Element Exists] By Label --&gt; �˳���¼
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On Textview] --&gt; ȷ��
+[Assert Element Exists] By Label --&gt; ȷ��
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �����¼
+[Assert Element Exists] By Label --&gt; �����¼
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='�˺ŵ�¼']
+[Assert Element Exists] By XPATH --&gt; //*[@text='�˺ŵ�¼']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] 15210210011 --&gt; edu_login_number
+[Assert Element Exists] By ID --&gt; edu_login_number
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] 123456 --&gt; edu_login_password
+[Assert Element Exists] By ID --&gt; edu_login_password
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; edu_login_number
+[Assert Element Exists] By ID --&gt; edu_login_number
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; edu_login_password
+[Assert Element Exists] By ID --&gt; edu_login_password
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] wnyzm --&gt; edu_login_picture_et
+[Assert Element Exists] By ID --&gt; edu_login_picture_et
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Press Back]
+[Wait 2 Seconds]
+[Click On Button] --&gt; edu_login_button
+[Assert Element Exists] By ID --&gt; edu_login_button
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Assert Enable] AssertUIObjectEnabledByID --&gt; edu_login_button
+[Wait 5 Seconds]
+[Click On Imageview] --&gt; common_title_left
+[Assert Element Exists] By ID --&gt; common_title_left
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[7]
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Exception: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:146)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:56)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:202)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:193)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:761)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.93 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: a9d7afb6-6dbd-4e71-95b0-fff3d22e06fc
+[Screenshot Range] Set default range to full screen.
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='�༶�ռ�']
+[Assert Element Exists] By XPATH --&gt; //*[@text='�༶�ռ�']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] --&gt; //*[@text='����̬']
+[Assert Element Exists] By XPATH --&gt; //*[@text='����̬']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; edittext
+[Assert Element Exists] By ID --&gt; edittext
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Type Into] �༶�ռ���Զ�̬ --&gt; edittext
+[Assert Element Exists] By ID --&gt; edittext
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Imageview] --&gt; iv_icon
+[Assert Element Exists] By ID --&gt; iv_icon
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.meizu.media.camera:id/switch_camera_btn']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.meizu.media.camera:id/switch_camera_btn']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.meizu.media.camera:id/shutter_btn']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.meizu.media.camera:id/shutter_btn']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.meizu.media.camera:id/btn_done']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.meizu.media.camera:id/btn_done']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Is Toast With String] --&gt; ����̬�ɹ�
+[Get Toast Contains String] &lt;-- ����̬�ɹ�
+[Wait 3 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/iv_zan'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/iv_zan'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/tv_zan_num'])[1]
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@text='��Ҳ����һ��'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@text='��Ҳ����һ��'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; editText_send
+[Assert Element Exists] By ID --&gt; editText_send
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] test comment --&gt; editText_send
+[Assert Element Exists] By ID --&gt; editText_send
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ����
+[Assert Element Exists] By Label --&gt; ����
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Is Toast With String] --&gt; �������۳ɹ�
+[Get Toast Contains String] &lt;-- �������۳ɹ�
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��������']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��������']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/announcement_title']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/announcement_title']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] �Զ������Թ������ --&gt; announcement_title
+[Assert Element Exists] By ID --&gt; announcement_title
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/announcement_title']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/announcement_title']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] �Զ������Թ������� --&gt; announcement_edit
+[Assert Element Exists] By ID --&gt; announcement_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/title'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/title'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/detail_create_content']
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/title'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/title'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/detail_create_content']
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/tv_ok']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/tv_ok']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/content'])[1]
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='���']
+[Assert Element Exists] By XPATH --&gt; //*[@text='���']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='�������']
+[Assert Element Exists] By XPATH --&gt; //*[@text='�������']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/album_name']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/album_name']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] �Զ������������ --&gt; album_name
+[Assert Element Exists] By ID --&gt; album_name
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='���']
+[Assert Element Exists] By XPATH --&gt; //*[@text='���']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_count'])[1]
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_cover'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_cover'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On Imageview] --&gt; common_title_right
+[Assert Element Exists] By ID --&gt; common_title_right
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 4 Seconds]
+[Click On] --&gt; //*[@resource-id='com.meizu.media.camera:id/shutter_btn']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.meizu.media.camera:id/shutter_btn']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.meizu.media.camera:id/btn_done']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.meizu.media.camera:id/btn_done']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 5 Seconds]
+[Click On Imageview] --&gt; common_title_left
+[Assert Element Exists] By ID --&gt; common_title_left
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 2 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_count'])[1]
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='���']
+[Assert Element Exists] By XPATH --&gt; //*[@text='���']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_name'])[1]
+[Wait 2 Seconds]
+[Long Touch Element] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_cover'])[1]
+[Long Touch By Xpath] (//*[@resource-id='com.cmcc.andedu_phone:id/album_cover'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_cover'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Long Touch By Xpath] Element was found.
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/iv_album_del']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/iv_album_del']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ȷ��
+[Assert Element Exists] By Label --&gt; ȷ��
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 3 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_name'])[1]
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/cloud_load_cishu'])[1]
+[Wait 1 Seconds]
+[Text Is Part Of] �� &lt;-- 1������
+[Text Is Part Of] Contain!
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[5]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[5]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='�ѿ�']
+[Assert Element Exists] By XPATH --&gt; //*[@text='�ѿ�']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@class='android.widget.TextView'])[6]
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[6]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[6]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Get Attr By Xpath] text --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/item_t_result_name']
+[Wait 1 Seconds]
+[Text Is Part Of] ���� &lt;-- ѧ������
+[Text Is Part Of] Contain!
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[7]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[7]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='�ѷ�����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='�ѷ�����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/office_already_sms_status'])[1]
+[Wait 1 Seconds]
+[Text Is Part Of] ���� &lt;-- �ѷ���
+[Text Is Part Of] Contain!
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Exception: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:146)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:56)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:202)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:193)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:761)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 31 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: 42604701-6ac4-43b9-9169-4c09bc052b72
+[Screenshot Range] Set default range to full screen.
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='�칫����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='�칫����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; notice_edit
+[Assert Element Exists] By ID --&gt; notice_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] ���԰칫���ţ�����ظ��� --&gt; notice_edit
+[Assert Element Exists] By ID --&gt; notice_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/choose_people'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/choose_people'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='���Ͷ���']
+[Assert Element Exists] By XPATH --&gt; //*[@text='���Ͷ���']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Is Toast With String] --&gt; ���ͳɹ�
+[Get Toast Contains String] &lt;-- ���ͳɹ���
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; notice_edit
+[Assert Element Exists] By ID --&gt; notice_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] ���Զ�ʱ�칫���ţ�����ظ��� --&gt; notice_edit
+[Assert Element Exists] By ID --&gt; notice_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/choose_people'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/choose_people'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/timing_checkbox']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/timing_checkbox']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='���Ͷ���']
+[Assert Element Exists] By XPATH --&gt; //*[@text='���Ͷ���']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Is Toast With String] --&gt; ���ͳɹ�
+[Get Toast Contains String] &lt;-- ���ͳɹ���
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Exception: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:146)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:56)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:202)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:193)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:761)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.84 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: b8b3f7ce-39eb-4da3-8567-ee7215730784
+[Screenshot Range] Set default range to full screen.
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[3]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[3]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@class='android.widget.TextView'])[3]
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_sms_date'])[1]
+[Text Is Part Of] �� &lt;-- 2018��10��23�� 06:30
+[Text Is Part Of] Contain!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='��ʱ����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��ʱ����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_sms_content'])[1]
+[Get Text Length] --&gt; NIHAO A
+[Get Text Length] &lt;-- Length is 7.
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Exception: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:146)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:56)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:202)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:193)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:761)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.47 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: 38ba31ce-7206-4f5b-9696-83cee4b30235
+[Screenshot Range] Set default range to full screen.
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��֪ͨ']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��֪ͨ']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 4 Seconds]
+[Click On Edittext] --&gt; notice_edit
+[Assert Element Exists] By ID --&gt; notice_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] ����֪ͨ���ţ�����ظ��� --&gt; notice_edit
+[Assert Element Exists] By ID --&gt; notice_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='���Ͷ���']
+[Assert Element Exists] By XPATH --&gt; //*[@text='���Ͷ���']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Is Toast With String] --&gt; ���Ͷ��ųɹ�
+[Get Toast Contains String] &lt;-- ���Ͷ��ųɹ���
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='����ҵ']
+[Assert Element Exists] By XPATH --&gt; //*[@text='����ҵ']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 4 Seconds]
+[Click On Edittext] --&gt; work_edit
+[Assert Element Exists] By ID --&gt; work_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] ������ҵ���ţ�����ظ��� --&gt; work_edit
+[Assert Element Exists] By ID --&gt; work_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/choose_subjects']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/choose_subjects']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/project_name'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/project_name'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='���Ͷ���']
+[Assert Element Exists] By XPATH --&gt; //*[@text='���Ͷ���']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Is Toast With String] --&gt; ���Ͷ��ųɹ�
+[Get Toast Contains String] &lt;-- ���Ͷ��ųɹ���
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='������']
+[Assert Element Exists] By XPATH --&gt; //*[@text='������']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 4 Seconds]
+[Click On Edittext] --&gt; comment_edit
+[Assert Element Exists] By ID --&gt; comment_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] ����������ţ�����ظ��� --&gt; comment_edit
+[Assert Element Exists] By ID --&gt; comment_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='���Ͷ���']
+[Assert Element Exists] By XPATH --&gt; //*[@text='���Ͷ���']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Is Toast With String] --&gt; ���Ͷ��ųɹ�
+[Get Toast Contains String] &lt;-- ���Ͷ��ųɹ���
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='������']
+[Assert Element Exists] By XPATH --&gt; //*[@text='������']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 4 Seconds]
+[Click On Edittext] --&gt; comment_edit
+[Assert Element Exists] By ID --&gt; comment_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] ����������ţ�����ظ��� --&gt; comment_edit
+[Assert Element Exists] By ID --&gt; comment_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/timing_checkbox']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/timing_checkbox']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='���Ͷ���']
+[Assert Element Exists] By XPATH --&gt; //*[@text='���Ͷ���']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Is Toast With String] --&gt; ���Ͷ��ųɹ�
+[Get Toast Contains String] &lt;-- ���Ͷ��ųɹ���
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[2]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[2]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_address_item_name'])[1]
+[Get Text Length] --&gt; �仨��ˮ1��ʦ
+[Get Text Length] &lt;-- Length is 7.
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Radio] --&gt; ��ҳ
+[Assert Element Exists] By Label --&gt; ��ҳ
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Assert Enable] AssertUIObjectEnabledByLabel --&gt; ��ҳ
+[Wait 1 Seconds]
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ����
+[Assert Element Exists] By Label --&gt; ����
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �˳���¼
+[Assert Element Exists] By Label --&gt; �˳���¼
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On Textview] --&gt; ȷ��
+[Assert Element Exists] By Label --&gt; ȷ��
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �����¼
+[Assert Element Exists] By Label --&gt; �����¼
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='�˺ŵ�¼']
+[Assert Element Exists] By XPATH --&gt; //*[@text='�˺ŵ�¼']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] 18811603122 --&gt; edu_login_number
+[Assert Element Exists] By ID --&gt; edu_login_number
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] qwer1314 --&gt; edu_login_password
+[Assert Element Exists] By ID --&gt; edu_login_password
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; edu_login_number
+[Assert Element Exists] By ID --&gt; edu_login_number
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; edu_login_password
+[Assert Element Exists] By ID --&gt; edu_login_password
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Type Into] wnyzm --&gt; edu_login_picture_et
+[Assert Element Exists] By ID --&gt; edu_login_picture_et
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Press Back]
+[Wait 2 Seconds]
+[Click On Button] --&gt; edu_login_button
+[Assert Element Exists] By ID --&gt; edu_login_button
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Assert Enable] AssertUIObjectEnabledByID --&gt; edu_login_button
+[Wait 5 Seconds]
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+</stdOut>
+    <stdErr>org.openqa.selenium.StaleElementReferenceException: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:146)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:56)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:202)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:193)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:761)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.93 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: a9d7afb6-6dbd-4e71-95b0-fff3d22e06fc
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.getLocation(RemoteWebElement.java:332)
+	at com.qt.AppDriver.Library.ScreenLibrary.setScreenshotRange(ScreenLibrary.java:234)
+	at com.qt.AppDriver.Core.AppiumHelper.setUp(AppiumHelper.java:59)
+	at com.qt.AppDriver.AppDriver.startApp(AppDriver.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:147)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:132)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:114)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:92)
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18)
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18)
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:130)
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:103)
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35)
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29)
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49)
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43)
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85)
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82)
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75)
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62)
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47)
+	at fitnesse.slim.SlimService.handle(SlimService.java:168)
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:176)
+	at fitnesse.slim.SlimService.accept(SlimService.java:138)
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:91)
+	at fitnesse.slim.SlimService.main(SlimService.java:56)
+org.openqa.selenium.StaleElementReferenceException: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:146)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:56)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:202)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:193)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:761)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 31 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: 42604701-6ac4-43b9-9169-4c09bc052b72
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.getLocation(RemoteWebElement.java:332)
+	at com.qt.AppDriver.Library.ScreenLibrary.setScreenshotRange(ScreenLibrary.java:234)
+	at com.qt.AppDriver.Core.AppiumHelper.setUp(AppiumHelper.java:59)
+	at com.qt.AppDriver.AppDriver.startApp(AppDriver.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:147)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:132)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:114)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:92)
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18)
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18)
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:130)
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:103)
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35)
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29)
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49)
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43)
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85)
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82)
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75)
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62)
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47)
+	at fitnesse.slim.SlimService.handle(SlimService.java:168)
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:176)
+	at fitnesse.slim.SlimService.accept(SlimService.java:138)
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:91)
+	at fitnesse.slim.SlimService.main(SlimService.java:56)
+org.openqa.selenium.StaleElementReferenceException: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:146)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:56)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:202)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:193)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:761)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.84 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: b8b3f7ce-39eb-4da3-8567-ee7215730784
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.getLocation(RemoteWebElement.java:332)
+	at com.qt.AppDriver.Library.ScreenLibrary.setScreenshotRange(ScreenLibrary.java:234)
+	at com.qt.AppDriver.Core.AppiumHelper.setUp(AppiumHelper.java:59)
+	at com.qt.AppDriver.AppDriver.startApp(AppDriver.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:147)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:132)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:114)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:92)
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18)
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18)
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:130)
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:103)
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35)
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29)
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49)
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43)
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85)
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82)
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75)
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62)
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47)
+	at fitnesse.slim.SlimService.handle(SlimService.java:168)
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:176)
+	at fitnesse.slim.SlimService.accept(SlimService.java:138)
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:91)
+	at fitnesse.slim.SlimService.main(SlimService.java:56)
+org.openqa.selenium.StaleElementReferenceException: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:146)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:56)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:202)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:193)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:761)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.47 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.94', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: 38ba31ce-7206-4f5b-9696-83cee4b30235
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.getLocation(RemoteWebElement.java:332)
+	at com.qt.AppDriver.Library.ScreenLibrary.setScreenshotRange(ScreenLibrary.java:234)
+	at com.qt.AppDriver.Core.AppiumHelper.setUp(AppiumHelper.java:59)
+	at com.qt.AppDriver.AppDriver.startApp(AppDriver.java:112)
+	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:147)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:132)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:114)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:92)
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18)
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18)
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:130)
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:103)
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35)
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29)
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49)
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43)
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85)
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82)
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75)
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62)
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47)
+	at fitnesse.slim.SlimService.handle(SlimService.java:168)
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:176)
+	at fitnesse.slim.SlimService.accept(SlimService.java:138)
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:91)
+	at fitnesse.slim.SlimService.main(SlimService.java:56)
+</stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>22</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>883893</totalRunTimeInMillis>
+</suiteResults>
+

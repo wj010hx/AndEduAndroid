@@ -1,0 +1,34 @@
+---
+Help: 家校互动-校讯通用户进入
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 校讯通用户进入家校互动首页
+!3 测试步骤
+
+1.校讯通用户进入家校互动首页
+
+!3 期望结果
+
+正确显示家校互动首页
+
+
+!3 作者和日期
+王杰  20180619
+
+**!
+
+!|script|
+|wait|10|seconds|
+|click on imageview|center_person_image       |
+|wait|5|seconds|
+|click on |//*[@text='家校互动']|
+|wait|5|seconds|
+|check |get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[7]|办公短信|
+
+
+
+

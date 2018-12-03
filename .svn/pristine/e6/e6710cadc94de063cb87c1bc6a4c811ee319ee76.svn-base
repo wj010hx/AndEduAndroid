@@ -1,0 +1,127 @@
+---
+Help: 名师导学-免费试用、内/外部包月、点播
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-名师导学免费试用、内/外部包月/点播
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证名师导学免费试用、内/外部包月/点播功能正常
+
+!3 作者和日期
+王杰  20180315
+
+**!
+
+外部包月>回到应用介绍页
+!|script|
+|swipFindApp|名师导学|
+|wait|3|seconds|
+|click on textview|立即购买   |
+|wait|3|seconds|
+|switch to webview|
+|wait for element|${surePayBtn}|Enabled|
+|wait|3|seconds|
+|click on|${surePayBtn}|
+|wait|3|seconds|
+|wait for element|${lastSurePayBtn}|Present|  
+|wait|3|seconds|
+|switch to native |
+|click on textview|关闭   |
+|wait|1|seconds|
+|click on textview|确定   |
+
+外部点播>回到应用介绍页
+!|script|
+|wait|3|seconds|
+|click on textview|元/30天   |
+|wait|1|seconds|
+|click on textview|立即购买   |
+|wait|2|seconds|
+|switch to webview|
+|AppDianBoCheck|
+|wait|3|seconds|
+|switch to native |
+|click on textview|关闭   |
+|wait|1|seconds|
+|click on textview|确定   |
+
+
+
+内部包月
+!|script|
+|click on textview|免费试用   |
+|wait|10|seconds|
+|click on textview|关闭   |
+|wait|2|seconds|
+|click on textview|确定   |
+|wait|2|seconds|
+|click on textview|免费试用   |
+|wait|5|seconds|
+|switch to webview|
+|wait|10|seconds|
+|check|get text of|${openChannelBtn}|开启新频道|
+|wait for element|${MSDX_1openedChannel}|Enabled|
+|wait|1|seconds|
+|click on|${MSDX_1openedChannel}|
+|wait for element|${MSDX_1kemu}|Enabled|
+|wait|1|seconds|
+|click on|${MSDX_1kemu}|
+|wait for element|${MSDX_1kecheng}|Enabled|
+|wait|1|seconds|
+|click on|${MSDX_1kecheng}|
+|wait for element|${MSDX_1buyBtn}|Enabled|
+|wait|1|seconds|
+|click on|${MSDX_1buyBtn}|
+|wait for element|${MSDX_5yuanBaoyue}|Enabled|
+|wait|1|seconds|
+|click on|${MSDX_5yuanBaoyue}|
+|wait for element|${MSDX_surePay}|Enabled|
+|wait|1|seconds|
+|click on|${MSDX_surePay}|
+|wait|1|seconds|
+|AppBaoYueCheck|
+
+内部点播
+!|script|
+|wait|1|seconds|
+|switch to native |
+|wait|1|seconds|
+|click on imageview|common_title_left   |
+|wait|1|seconds|
+|click on imageview|common_title_left   |
+|wait|1|seconds|
+|click on imageview|common_title_left   |
+|wait|5|seconds|
+|switch to webview|
+|wait|3|seconds|
+|wait for element|${MSDX_1kemu}|Enabled|
+|wait|1|seconds|
+|click on|${MSDX_1kemu}|
+|wait for element|${MSDX_1kecheng}|Enabled|
+|wait|1|seconds|
+|click on|${MSDX_1kecheng}|
+|wait for element|${MSDX_1buyBtn}|Enabled|
+|wait|1|seconds|
+|click on|${MSDX_1buyBtn}|
+|wait for element|${MSDX_5yuanDianbo}|Enabled|
+|wait|1|seconds|
+|click on|${MSDX_5yuanDianbo}|
+|wait for element|${MSDX_surePay}|Enabled|
+|wait|1|seconds|
+|click on|${MSDX_surePay}|
+|wait|1|seconds|
+|AppDianBoCheck|
+
+

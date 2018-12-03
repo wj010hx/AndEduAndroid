@@ -1,0 +1,10 @@
+---
+Help: 滑动屏幕找到应用并免费试用
+---
+!|scenario          |swipFindAppAndTry  |appName|
+|set swipe speed|1500       |
+|open app|@appName|in app center with bottom|最新推荐|
+|wait|3|seconds|
+|click on textview|免费试用   |
+|wait|10|seconds|
+|switch to webview|

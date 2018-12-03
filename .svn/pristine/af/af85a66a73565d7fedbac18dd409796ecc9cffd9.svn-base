@@ -1,0 +1,91 @@
+---
+Help: 个人中心-修改密码
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+此用例报错影响后续脚本，建议放在最后执行
+
+该用例用于测试 个人中心-修改密码
+!3 测试步骤
+
+1.点击设置
+2.点击修改密码
+3.输入旧密码、符合要求的新密码
+
+**************************************
+1.初始状态为互联网账号18811603122，密码必须是qwer1314
+2.互联网账户修改密码为B
+3.互联网账号用密码B登录修改回原来的密码A
+**************************************
+!3 期望结果
+
+toast提示“修改密码成功”
+
+!3 作者和日期
+王杰  20180726
+
+**!
+
+
+互联网用户修改了新密码
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='设置']|
+|wait|3|seconds|
+|click on |//*[@text='修改密码']|
+|wait|3|seconds|
+|click on edittext|old_password_text|
+|wait|3|seconds|
+|type  |qwer1314|into|old_password_text|
+|wait|3|seconds|
+|click on edittext|new_password_text|
+|wait|3|seconds|
+|type  |qwer13145|into|new_password_text|
+|wait|3|seconds|
+|click on edittext|confirm_password_text|
+|wait|3|seconds|
+|type  |qwer13145|into|confirm_password_text|
+|wait|3|seconds|
+|click on |${classSelectConfirm}|
+|check |is toast with string|修改密码成功|true|
+
+互联网用户用新密码登录
+|login_HLW|
+|username|password|
+|18811603122|qwer13145|
+
+互联网用户修改回旧密码
+!|script|
+|wait|3|seconds|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='设置']|
+|wait|3|seconds|
+|click on |//*[@text='修改密码']|
+|wait|3|seconds|
+|click on edittext|old_password_text|
+|wait|3|seconds|
+|type  |qwer13145|into|old_password_text|
+|wait|3|seconds|
+|click on edittext|new_password_text|
+|wait|3|seconds|
+|type  |qwer1314|into|new_password_text|
+|wait|3|seconds|
+|click on edittext|confirm_password_text|
+|wait|3|seconds|
+|type  |qwer1314|into|confirm_password_text|
+|wait|3|seconds|
+|click on |${classSelectConfirm}|
+|check |is toast with string|修改密码成功|true|
+
+互联网用户用旧密码登录
+|login_HLW|
+|username|password|
+|18811603122|qwer1314|
+
+!|script|
+|wait|3|seconds|
+|click on radio|首页      |

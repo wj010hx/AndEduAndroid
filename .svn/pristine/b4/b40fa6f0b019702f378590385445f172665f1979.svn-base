@@ -1,0 +1,32 @@
+---
+Help: 切换用户登录(只适用校讯通切互联网)
+---
+!|scenario          |changeUserOnly  |username| |password|
+|click on radio|首页      |
+|wait|3|seconds|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on textview|设置   |
+|wait|3|seconds|
+|click on textview|退出登录   |
+|wait|3|seconds|
+|click on textview|确定   |
+|wait|3|seconds|
+|click on textview|点击登录   |
+|wait|3|seconds|
+|click on |//*[@text='账号登录']|
+|wait|3|seconds|
+|type  |@username|into|edu_login_number|
+|wait|3|seconds|
+|type  |@password|into|edu_login_password|
+|wait|3|seconds|
+|click on edittext|edu_login_number|
+|wait|3|seconds|
+|click on edittext|edu_login_password|
+|wait|3|seconds|
+|type  |wnyzm|into|edu_login_picture_et|
+|wait|3|seconds|
+|press back|
+|wait|3|seconds|
+|click on button|edu_login_button   |
+|wait|5|seconds|

@@ -1,0 +1,4 @@
+---
+Help: 验证对象是否存在
+---
+|check|does object||exist|true|

@@ -1,0 +1,592 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>EduAndroidAuto.TestSuite.EnterAppCenter</rootPath>
+    <result>
+    <counts>
+      <right>1</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <date>2018-03-08T18:04:52+08:00</date>
+    <runTimeInMillis>35609</runTimeInMillis>
+    <content>&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ScenarioLibrary"&gt;.EduAndroidAuto.ScenarioLibrary&lt;/a&gt; &lt;a href="EduAndroidAuto.ScenarioLibrary?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Keywords scenario&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on button&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on button&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on imageview&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on imageview&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on view&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on view&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;open app in app center&lt;/td&gt;
+		&lt;td colspan="4"&gt;app&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;open app&lt;/td&gt;
+		&lt;td&gt;@app&lt;/td&gt;
+		&lt;td&gt;in app center with bottom&lt;/td&gt;
+		&lt;td&gt;专区&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td colspan="2"&gt;switch to webview&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;check not&lt;/td&gt;
+		&lt;td&gt;switch to webview&lt;/td&gt;
+		&lt;td&gt;NATIVE_APP&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td colspan="2"&gt;switch to native&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;switch to native&lt;/td&gt;
+		&lt;td&gt;NATIVE_APP&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on grid&lt;/td&gt;
+		&lt;td&gt;grid&lt;/td&gt;
+		&lt;td&gt;on cell&lt;/td&gt;
+		&lt;td colspan="2"&gt;index&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on grid&lt;/td&gt;
+		&lt;td&gt;@grid&lt;/td&gt;
+		&lt;td&gt;on cell&lt;/td&gt;
+		&lt;td&gt;@index&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;value&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;@value&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;select&lt;/td&gt;
+		&lt;td&gt;value&lt;/td&gt;
+		&lt;td&gt;from&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;select&lt;/td&gt;
+		&lt;td&gt;@value&lt;/td&gt;
+		&lt;td&gt;from&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;set&lt;/td&gt;
+		&lt;td&gt;object&lt;/td&gt;
+		&lt;td colspan="2"&gt;to be checked&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;set&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;to be checked&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;set&lt;/td&gt;
+		&lt;td&gt;object&lt;/td&gt;
+		&lt;td colspan="2"&gt;to be unchecked&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;set&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;to be unchecked&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on link&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on link&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;set browser with&lt;/td&gt;
+		&lt;td colspan="2"&gt;browserType&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;set browser with&lt;/td&gt;
+		&lt;td&gt;@browserType&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;set driver path&lt;/td&gt;
+		&lt;td colspan="2"&gt;driverPath&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;set driver path&lt;/td&gt;
+		&lt;td&gt;@driverPath&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;connect to instance&lt;/td&gt;
+		&lt;td colspan="2"&gt;djServer&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;connect to instance&lt;/td&gt;
+		&lt;td&gt;@djServer&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;implicitly wait in&lt;/td&gt;
+		&lt;td&gt;sec&lt;/td&gt;
+		&lt;td colspan="2"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;implicitly wait in&lt;/td&gt;
+		&lt;td&gt;@sec&lt;/td&gt;
+		&lt;td&gt;seconds&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;wait for element&lt;/td&gt;
+		&lt;td&gt;element&lt;/td&gt;
+		&lt;td colspan="2"&gt;Present&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;wait for element&lt;/td&gt;
+		&lt;td&gt;@element&lt;/td&gt;
+		&lt;td&gt;Present&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;wait for element&lt;/td&gt;
+		&lt;td&gt;element&lt;/td&gt;
+		&lt;td colspan="2"&gt;Enabled&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;wait for element&lt;/td&gt;
+		&lt;td&gt;@element&lt;/td&gt;
+		&lt;td&gt;Enabled&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td colspan="2"&gt;maximize window&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;maximize window&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td colspan="2"&gt;revert to main window&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;revert to main window&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;mouse move on&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;mouse move on&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;select window by index&lt;/td&gt;
+		&lt;td colspan="2"&gt;index&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;select window by index&lt;/td&gt;
+		&lt;td&gt;@index&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;select window by title&lt;/td&gt;
+		&lt;td colspan="2"&gt;title&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;select window by title&lt;/td&gt;
+		&lt;td&gt;@title&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.SetUp"&gt;.EduAndroidAuto.SetUp&lt;/a&gt; &lt;a href="EduAndroidAuto.SetUp?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;h2&gt;import section&lt;/h2&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;import&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;&lt;span class="pass"&gt;com.qt.AppDriver&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;h2&gt;Setup App Driver&lt;/h2&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;script&lt;/td&gt;
+		&lt;td&gt;&lt;span class="pass"&gt;App Driver&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td colspan="4"&gt;script&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;set App With Device&lt;/td&gt;
+		&lt;td colspan="3"&gt;xiaomi-hm_1s-5623a812&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;set App With Udid&lt;/td&gt;
+		&lt;td colspan="3"&gt;5623a812&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;set App With PlatformName&lt;/td&gt;
+		&lt;td&gt;Android&lt;/td&gt;
+		&lt;td&gt;With Version&lt;/td&gt;
+		&lt;td&gt;4.4.4&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor3"&gt;
+		&lt;td&gt;set App With Package&lt;/td&gt;
+		&lt;td&gt;com.cmcc.andedu_phone&lt;/td&gt;
+		&lt;td&gt;With Activity&lt;/td&gt;
+		&lt;td&gt;com.cmcc.andedu_phone.activity.guide.SplashActivity&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td colspan="4"&gt;startApp&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td colspan="3"&gt;script&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;10&lt;/td&gt;
+		&lt;td&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="scenario closed"&gt;
+		&lt;td class="pass"&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="2" class="pass"&gt;作业&lt;/td&gt;
+	&lt;/tr&gt;&lt;tr class="scenario-detail closed-detail"&gt;&lt;td colspan="3"&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td&gt;作业&lt;/td&gt;
+		&lt;td&gt;&lt;span class="pass"&gt;SUCCESS&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;10&lt;/td&gt;
+		&lt;td&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;div class="collapsible closed teardown"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.TearDown"&gt;.EduAndroidAuto.TearDown&lt;/a&gt; &lt;a href="EduAndroidAuto.TearDown?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;script&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor5"&gt;
+		&lt;td&gt;close App&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <relativePageName>EnterAppCenter</relativePageName>
+            <instructions>
+            <instructionResult>
+        <instruction>{id='import_25_0', instruction='import', path='com.qt.AppDriver'}</instruction>
+        <slimResult>pass(com.qt.AppDriver)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>import_25_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ImportExpectation</type>
+                                        <evaluationMessage>com.qt.AppDriver</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_26_0', instruction='make', instanceName='scriptTableActor', className='AppDriver', args=[]}</instruction>
+        <slimResult>pass(App Driver)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>scriptTable_26_0</instructionId>
+                    <col>1</col>
+                              <row>0</row>
+                    <type>ConstructionExpectation</type>
+                                        <evaluationMessage>App Driver</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_27_0', instruction='call', instanceName='scriptTableActor', methodName='setAppWithDevice', args=[xiaomi-hm_1s-5623a812]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_27_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_27_1', instruction='call', instanceName='scriptTableActor', methodName='setAppWithUdid', args=[5623a812]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_27_1</instructionId>
+                    <col>0</col>
+                              <row>2</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_27_2', instruction='call', instanceName='scriptTableActor', methodName='setAppWithPlatformNameWithVersion', args=[Android, 4.4.4]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_27_2</instructionId>
+                    <col>0</col>
+                              <row>3</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_27_3', instruction='call', instanceName='scriptTableActor', methodName='setAppWithPackageWithActivity', args=[com.cmcc.andedu_phone, com.cmcc.andedu_phone.activity.guide.SplashActivity]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_27_3</instructionId>
+                    <col>0</col>
+                              <row>4</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_27_4', instruction='call', instanceName='scriptTableActor', methodName='startApp', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_27_4</instructionId>
+                    <col>0</col>
+                              <row>5</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_28_0', instruction='call', instanceName='scriptTableActor', methodName='waitSeconds', args=[10]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_28_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_28_1/scriptTable_1_0', instruction='call', instanceName='scriptTableActor', methodName='clickOnTextview', args=[作业]}</instruction>
+        <slimResult>pass(SUCCESS)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>scriptTable_28_1/scriptTable_1_0</instructionId>
+                    <col>3</col>
+                              <row>1</row>
+                    <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>SUCCESS</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_28_2', instruction='call', instanceName='scriptTableActor', methodName='waitSeconds', args=[10]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_28_2</instructionId>
+                    <col>0</col>
+                              <row>3</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_29_0', instruction='call', instanceName='scriptTableActor', methodName='closeApp', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_29_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+          </instructions>
+      </result>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"C:\Program Files\Java\jdk1.8.0_65\bin\java" -cp D:\EduAndroidAuto\lib\fitnesse-standalone.jar;E:/fitnesse_Andedu/lib/java-client-1.2.1.jar;E:/fitnesse_Andedu/lib/lib/junit-4.10.jar;E:/fitnesse_Andedu/lib/selenium-java-2.44.0.jar;E:/fitnesse_Andedu/lib/selenium-server-standalone-2.44.0.jar;E:/fitnesse_Andedu/lib/AutomationDriver.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut>Setup()
+Try To Find Element [��ҵ]
+</stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>1</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>35926</totalRunTimeInMillis>
+</testResults>
+

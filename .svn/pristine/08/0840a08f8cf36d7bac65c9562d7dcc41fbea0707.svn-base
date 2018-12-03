@@ -1,0 +1,52 @@
+---
+Help: 同步习题-分享
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 分享某个同步习题
+
+!3 测试步骤
+
+1. 打开资源-习题
+2.点击分享至个人空间
+4.去个人中心查看分享结果
+
+
+
+!3 期望结果
+
+分享成功
+
+!3 作者和日期
+王杰  20180614
+
+**!
+!|script|
+|click on radio|资源    |
+|wait|10|seconds|
+|click on |//*[@text='同步习题']    |
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/tv_name'])[3]    |
+|wait|3|seconds|
+|$title=|get attr|text   |by xpath|//*[@resource-id='com.cmcc.andedu_phone:id/common_title_middle']|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']   |
+|wait|3|seconds|
+|click on textview|分享      |
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/tv_document_ok']   |
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_left']   |
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_left']   |
+|wait|3|seconds|
+|click on radio|首页     |
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/main_center']   |
+|wait|3|seconds|
+|click on |//*[@text='个人空间']    |
+|wait|3|seconds|
+|check |get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/tv_content'])[1] |$title|

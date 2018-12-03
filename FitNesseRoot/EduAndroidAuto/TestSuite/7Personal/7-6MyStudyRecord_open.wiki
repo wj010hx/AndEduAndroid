@@ -1,0 +1,38 @@
+---
+Help: 学习记录-分类查看
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 学习记录-分类查看
+!3 测试步骤
+
+1.进入个人中心
+2.进入学习记录
+3.点击考点精讲标签
+
+!3 期望结果
+
+1.显示名师优课课程列表
+2.显示考点精讲课程列表
+
+!3 作者和日期
+王杰  20180620
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='学习记录']|
+|wait|3|seconds|
+|$content1=|get attr|enabled   |by xpath|(//*[@class='android.view.View'])[4]|
+|wait|3|seconds|
+|check|text|TRUE|is part of|$content1|true|
+|click on |//*[@text='考点精讲']|
+|wait|3|seconds|
+|$content2=|get attr|enabled   |by xpath|(//*[@class='android.view.View'])[4]|
+|wait|3|seconds|
+|check|text|TRUE|is part of|$content2|true|

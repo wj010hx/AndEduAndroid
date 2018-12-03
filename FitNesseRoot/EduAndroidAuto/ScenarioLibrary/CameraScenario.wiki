@@ -1,0 +1,18 @@
+---
+Help: 各种手机拍照
+---
+!|scenario          |meizuPro7Camera  |
+|wait|3|seconds|
+|click on |${meizuPro7Switch_camera_btn}|
+|wait|3|seconds|
+|click on |${meizuPro7Shutter_btn}|
+|wait|3|seconds|
+|click on |${meizuPro7Done_btn}|
+|wait|3|seconds|
+
+!|scenario          |S7Camera  |
+|wait|8|seconds|
+|click on |${S7Shutter_btn}|
+|wait|3|seconds|
+|click on |${S7Done_btn}|
+|wait|3|seconds|

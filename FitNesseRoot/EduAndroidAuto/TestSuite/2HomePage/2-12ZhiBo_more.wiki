@@ -1,0 +1,33 @@
+---
+Help: 直播课堂_更多
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 打开直播课堂—更多
+
+!3 测试步骤
+
+1. 打开直播课堂—更多
+
+
+!3 期望结果
+
+正确跳转至直播课堂首页
+
+!3 作者和日期
+王杰  2018012
+
+**!
+
+!|script|
+|wait|8|seconds|
+|swipe |1000|pixel from center to up  |
+|wait|2|seconds|
+|click on textview|更多      |
+|wait|8|seconds|
+|switch to webview|
+|wait|3|seconds|
+|wait for element|${ZBKT_goodLive}|Present|

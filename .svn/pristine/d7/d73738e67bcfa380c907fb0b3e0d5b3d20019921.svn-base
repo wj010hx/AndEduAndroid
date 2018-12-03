@@ -1,0 +1,53 @@
+---
+Help: 家校互动-发送作业短信
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 家校互动-发送作业短信
+!3 测试步骤
+
+1.点击短信
+2.点击“发作业”
+3.选择接收人、输入短信内容
+4.点击发送短信按钮
+
+!3 期望结果
+
+1.toast提示“发送短信成功”
+
+
+!3 作者和日期
+王杰  20180725
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='家校互动']|
+|wait|3|seconds|
+|click on |//*[@text='短信']|
+|wait|10|seconds|
+|click on |//*[@text='发作业']|
+|wait|4|seconds|
+|click on edittext|${workMsgEditbox}|
+|wait|3|seconds|
+|type  |测试作业短信，请勿回复！|into|${workMsgEditbox}|
+|wait|3|seconds|
+|click on |${classSelectBtn}|
+|wait|3|seconds|
+|click on |${classCheckbox}|
+|wait|3|seconds|
+|click on |${classSelectConfirm}|
+|wait|3|seconds|
+|click on |${chooseSubjects}|
+|wait|3|seconds|
+|click on |${firstSubject}|
+|wait|3|seconds|
+|click on |${classSelectConfirm}|
+|wait|3|seconds|
+|click on |//*[@text='发送短信']|
+|check |is toast with string|发送短信成功|true|

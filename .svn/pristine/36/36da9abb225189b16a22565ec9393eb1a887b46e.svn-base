@@ -1,0 +1,5 @@
+---
+Help: 示例:启动app,校验环境是否搭建成功
+---
+!|script|
+|wait|20|seconds|

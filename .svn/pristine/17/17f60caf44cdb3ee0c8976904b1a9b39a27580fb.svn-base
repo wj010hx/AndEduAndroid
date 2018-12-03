@@ -1,0 +1,44 @@
+---
+Help: 班级相册-删除
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 相册-删除
+!3 测试步骤
+
+1.校讯通教师用户进入家校互动首页
+2.点击班级空间
+3.点击相册
+4.长按某相册
+5.点击删除
+
+!3 期望结果
+
+相册删除成功(验证第一个相册的名称不是“自动化测试相册名”)
+
+!3 作者和日期
+王杰  20180620
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='家校互动']|
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]|
+|wait|10|seconds|
+|click on |//*[@text='相册']|
+|wait|3|seconds|
+|check|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/album_name'])[1]|自动化测试相册名|
+|wait|3|seconds|
+|long touch element|(//*[@resource-id='com.cmcc.andedu_phone:id/album_cover'])[1]|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/iv_album_del']|
+|wait|3|seconds|
+|click on textview|确认      |
+|wait|3|seconds|
+|check not|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/album_name'])[1]|自动化测试相册名|

@@ -1,0 +1,34 @@
+---
+Help: 爱熊宝学生端-免费试用
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-爱熊宝学生端-免费试用
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证爱熊宝学生端-免费试用
+
+!3 作者和日期
+王杰  20180328
+
+**!
+
+免费使用
+!|script|
+|set swipe speed|800       |
+|open app|爱熊宝学生|in app center with bottom|最新推荐|
+|wait|10|seconds|
+|click on textview|进入应用   |
+|wait|10|seconds|
+|click on textview|我的      |

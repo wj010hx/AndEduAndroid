@@ -1,0 +1,62 @@
+---
+Help: 首页-直播课堂业务-点播订购
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+首页-直播课堂业务-点播订购
+!3 测试步骤
+
+1.进入客户端首页
+2.点击某个收费直播课程
+3.点击直播课堂业务包月
+4.点击第三方支付
+5.点击立即购买
+
+!3 期望结果
+
+5.正确跳转至支付宝登录页面
+
+!3 作者和日期
+王杰  20180727
+
+**!
+
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+首页-直播课堂-包月订购
+!3 测试步骤
+
+1.进入客户端首页
+2.点击某个收费直播课程
+3.点击立即购买
+4.选择课程付费-第三方支付
+
+!3 期望结果
+
+4.正确跳转至支付宝登录页
+
+!3 作者和日期
+王杰  20180727
+
+**!
+
+!|script|
+|wait|10|seconds|
+|swipe up         |
+|wait|2|seconds|
+|click on |${homePageLiveIMG}|
+|wait|10|seconds|
+|switch to webview|
+|wait|3|seconds|
+|click on |${buyLiveNow}|
+|wait|3|seconds|
+|click on |${payPerDay}|
+|wait|3|seconds|
+|click on |${nextStep}|
+|wait|3|seconds|
+|AppDianBoCheck|

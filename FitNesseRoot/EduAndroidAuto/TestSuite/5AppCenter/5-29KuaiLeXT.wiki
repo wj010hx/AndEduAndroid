@@ -1,0 +1,45 @@
+---
+Help: 快乐学堂小学版-免费试用、内部包月、点播
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-快乐学堂小学版免费试用、内部包月/点播
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证快乐学堂小学版免费试用、内部包月/点播功能正常
+
+!3 作者和日期
+王杰  20180326
+
+**!
+
+内部包月
+!|script|
+|swipFindAppAndTry|快乐学堂小学版|
+|wait|10|seconds|
+|switch to webview|
+|wait|5|seconds|
+|click on|${KLXT_baoyue}|
+|wait|1|seconds|
+|click on|${KLXT_buy}|
+|AppBaoYueCheck|
+
+内部点播
+!|script|
+|ReturnThreeTimes|
+|wait for element|${KLXT_dianbo}|Enabled|
+|click on|${KLXT_dianbo}|
+|wait|1|seconds|
+|click on|${KLXT_buy}|
+|AppDianBoCheck|

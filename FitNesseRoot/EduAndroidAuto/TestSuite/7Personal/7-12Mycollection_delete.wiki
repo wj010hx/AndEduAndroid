@@ -1,0 +1,39 @@
+---
+Help: 我的收藏-删除收藏
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 我的收藏-删除
+!3 测试步骤
+
+1.删除某个收藏的学科资源
+
+!3 期望结果
+
+1.提示删除成功
+
+!3 作者和日期
+王杰  20181129
+
+**!
+
+!|script|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/main_center']   |
+|wait|3|seconds|
+|click on |//*[@text='我的收藏']    |
+|wait|8|seconds|
+|$title=|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/store_item_title'])[1]|
+|wait|3|seconds|
+|click on textview|选择      |
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/checkbox_store'])[1]    |
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']   |
+|wait|3|seconds|
+|click on button|确认        |
+|wait|3|seconds|
+|check not|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/store_item_title'])[1] |$title|

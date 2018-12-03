@@ -1,0 +1,4 @@
+---
+Help: 验证文本是否存在
+---
+|check|does text||exist|true|

@@ -1,0 +1,13 @@
+---
+Help: UI对象库
+---
+!contents -R2 -h
+
+!include -c <EduAndroidAuto.ElementLibrary.HomePage
+!include -c <EduAndroidAuto.ElementLibrary.ApplicationCenter
+!include -c <EduAndroidAuto.ElementLibrary.CommonElement
+!include -c <EduAndroidAuto.ElementLibrary.InteractionPage
+!include -c <EduAndroidAuto.ElementLibrary.LoginPage
+!include -c <EduAndroidAuto.ElementLibrary.PersonalCenter
+!include -c <EduAndroidAuto.ElementLibrary.ResourcePage
+!include -c <EduAndroidAuto.ElementLibrary.EduNewsPage

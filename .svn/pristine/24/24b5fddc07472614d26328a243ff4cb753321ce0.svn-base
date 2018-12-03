@@ -1,0 +1,729 @@
+---
+Help: 移动端关键字文档
+---
+!***< HIDDEN
+
+!define DIVend {!-</div>-!}
+!define TopFONT {!-<font style="font-family:Arial;font-size:24pt;color:#602060">-!}
+!define FontKw {!-<font style="font-family:Arial;font-size:10pt">-!}
+!define CODE {!-<font style="font-family:Courier New">-!}
+!define FONTend {!-</font>-!}
+!define FontKWText {!-<font style="font-family:Arial;background-color:lightgreen">-!}
+!define HDR {!-<div style="margin-top:.5em;font-family:Tahoma;font-size:14pt;font-weight:bold;color:#602060">-!}
+!define HDRend (${DIVend})
+*!
+|${TopFONT} Keywords ${HDRend}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|!c '''[[初始化][AppDriverDoc#appInitialization]]'''|${FontKw}[[setAppiumURL][AppDriverDoc#setappiumurl]], [[setAppWithBrowser][AppDriverDoc#setappwithbrowser]], [[setAppWithDevice][AppDriverDoc#setappwithdevice]], [[setAppWithUdid][AppDriverDoc#setappwithudid]], [[setAppWithPlatformNameWithVersion][AppDriverDoc#setappplatver]], [[setAppWithPackageWithActivity][AppDriverDoc#setappwithpkgact]], [[startApp][AppDriverDoc#startapp]], [[closeApp][AppDriverDoc#closeapp]]                                                                                                                                                                                                     |
+|!c '''[[原生操作][AppDriverDoc#nativeFunction]]'''  |${FontKw}[[typeInto][AppDriverDoc#typeinto]], [[selectFrom][AppDriverDoc#selectfrom]], [[setToBeChecked][AppDriverDoc#settobechecked]], [[setToBeUnchecked][AppDriverDoc#settobeunchecked]], [[clickOnTextview][AppDriverDoc#clickontextview]], [[clickOnEdittext][AppDriverDoc#clickonedittext]], [[clickOnButton][AppDriverDoc#clickonbutton]], [[clickOnRadio][AppDriverDoc#clickonradio]], [[clickOnImageview][AppDriverDoc#clickonimageview]], [[clickOnGridOnCell][AppDriverDoc#clickongridoncell]], [[getTextOf][AppDriverDoc#gettextof]], [[getAttrByID][AppDriverDoc#getattrby]], [[getAttrByXpath][AppDriverDoc#getattrby]]|
+|!c '''[[等待操作][AppDriverDoc#waitFunction]]'''    |${FontKw}[[waitSeconds][AppDriverDoc#waitseconds]], [[implicitlyWaitSeconds][AppDriverDoc#implicitlywaitseconds]], [[waitForElementPresent][AppDriverDoc#waitforelementpresent]], [[waitForElementEnabled][AppDriverDoc#waitforelementenabled]]                                                                                                                                                                                                                                                                                                                                                                                      |
+|!c '''[[屏幕操作][AppDriverDoc#screenFunction]]'''  |${FontKw}[[touchAtXY][AppDriverDoc#touchatxy]], [[touchScreenCenter][AppDriverDoc#touchscreencenter]], [[setSwipeSpeed][AppDriverDoc#setswipespeed]], [[swipeUp][AppDriverDoc#swipeaction]], [[swipeDown][AppDriverDoc#swipeaction]], [[swipeLeft][AppDriverDoc#swipeaction]], [[swipeRight][AppDriverDoc#swipeaction]], [[swipeFromTo][AppDriverDoc#swipefromto]], [[swipePixelFromCenterToUp][AppDriverDoc#swipepixelfromcenterto]], [[swipePixelFromCenterToDown][AppDriverDoc#swipepixelfromcenterto]], [[getScreenWidth][AppDriverDoc#getscreenwh]], [[getScreenHeight][AppDriverDoc#getscreenwh]]                              |
+|!c '''[[其他操作][AppDriverDoc#otherFunction]]'''   |${FontKw}[[setScreenShotFilePath][AppDriverDoc#setscreenshotfilepath]], [[switchToWebview][AppDriverDoc#switchtowebview]], [[switchToNative][AppDriverDoc#switchtonative]], [[getDateTime][AppDriverDoc#getdatetime]], [[combineStringWithCurrentDate][AppDriverDoc#combinestringwithcd]]                                                                                                                                                                                                                                                                                                                                            |
+|!c '''[[H5页面][AppDriverDoc#h5Function]]'''      |${FontKw}[[clickOn][AppDriverDoc#clickon]], [[getTextOf][AppDriverDoc#gettextof]], [[getAttrByID][AppDriverDoc#getattrby]], [[getAttrByXpath][AppDriverDoc#getattrby]]                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|!c '''[[校验操作][AppDriverDoc#verifyFunction]]'''  |${FontKw}[[doesTextExist][AppDriverDoc#doestextexist]], [[doesObjectExist][AppDriverDoc#doesobjectexist]], [[ifImageLoaded(和宝贝专用)][AppDriverDoc#ifimageloaded]], [[openAppInAppCenterWithBottom(和教育专用)][AppDriverDoc#openappinappcenter]]                                                                                                                                                                                                                                                                                                                                                                                                   |
+|!c '''[[ADB操作][AppDriverDoc#adbfunction]]'''    |${FontKw}[[sendStringByAdb][AppDriverDoc#sendstringbyadb]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+----
+!anchor appInitialization
+!anchor setappiumurl
+!2 Set Appium URL
+'''设置Appium Server'''
+''设置Appium Server的IP和端口''
+
+|${FontKWText}set appium url${FONTend}|''appium server''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script        |App Driver                  |
+|set appium url|http://127.0.0.1:4723/wd/hub|
+}}}
+
+*!
+----
+!anchor setappwithbrowser
+!2 Set App With Browser
+'''设置浏览器'''
+''此功能暂时无效，无需设置或者参数留空''
+
+|${FontKWText}set app with browser${FONTend}|''browser''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script              |App Driver|
+|set app with browser|          |
+}}}
+
+*!
+----
+!anchor setappwithdevice
+!2 Set App With Device
+'''设置运行App的设备名'''
+''设置运行App的设备名''
+
+|${FontKWText}set app with device${FONTend}|''device name''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script             |App Driver      |
+|set app with device|Android Emulator|
+}}}
+
+*!
+----
+!anchor setappwithudid
+!2 Set App With Udid
+'''设置运行App的设备Udid'''
+''设置运行App的设备Udid，可以通过adb devices命令获取''
+
+|${FontKWText}set app with udid${FONTend}|''device udid''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script           |App Driver|
+|set app with udid|f7394b4f  |
+}}}
+
+*!
+----
+!anchor setappplatver
+!2 Set App With Platform With Version
+'''设置运行平台和版本'''
+''设置测试设备的操作系统和版本信息''
+
+|${FontKWText}set app with platform${FONTend}|''os name''|${FontKWText}with version${FONTend}|''os version''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script               |App Driver                |
+|set app with platform|Android|with version|4.4.2|
+}}}
+
+*!
+----
+!anchor setappwithpkgact
+!2 Set App With Package With Activity
+'''设置App的包名和入口'''
+''设置被测试App的package name和入口activity''
+
+|${FontKWText}set app with package${FONTend}|''package name''|${FontKWText}with activity${FONTend}|''activity name''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script              |App Driver                                                                                                         |
+|set app with package|com.cmcc.hbb.android.phone.parents|with activity|com.ikbtc.hbb.android.parents.splash.view.activity.LoadingActivity|
+}}}
+
+*!
+----
+!anchor startapp
+!2 Start App
+'''启动App'''
+''启动App，运行此功能前请确保已经完成初始化参数的设置''
+
+|${FontKWText}start app${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script|App Driver|
+|start app        |
+}}}
+
+*!
+----
+!anchor closeapp
+!2 Close App
+'''关闭App'''
+''关闭App''
+
+|${FontKWText}close app${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script|App Driver|
+|close app        |
+}}}
+
+*!
+----
+!anchor nativeFunction
+!anchor typeinto
+!2 Type Into
+'''文本框输入'''
+''往页面中某个文本框输入字符串''
+
+|${FontKWText}type${FONTend}|''content''|${FontKWText}into${FONTend}|''ui element''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script|App Driver       |
+|type  |abc|into|edittext|
+}}}
+
+*!
+----
+!anchor selectfrom
+!2 Select From
+'''下拉列表选项'''
+''从下拉列表中选择某个选项''
+
+|${FontKWText}select${FONTend}|''option''|${FontKWText}from${FONTend}|''ui element''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script|App Driver                |
+|select|option|from|drop down list|
+}}}
+
+*!
+----
+!anchor settobechecked
+!2 Set To Be Checked
+'''勾选多选框'''
+''勾选页面中某个多选框''
+
+|${FontKWText}set${FONTend}|''ui element''|${FontKWText}to be checked${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script|App Driver            |
+|set   |checkbox|to be checked|
+}}}
+
+*!
+----
+!anchor settobeunchecked
+!2 Set To Be Unchecked
+'''勾选多选框'''
+''勾选页面中某个多选框''
+
+|${FontKWText}set${FONTend}|''ui element''|${FontKWText}to be unchecked${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script|App Driver              |
+|set   |checkbox|to be unchecked|
+}}}
+
+*!
+----
+!anchor clickontextview
+!2 Click On Textview
+'''点击TextView'''
+''点击TextView，优先使用Text文本，其次用ID''
+
+|${FontKWText}click on textview${FONTend}|''text or id''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script           |App Driver|
+|click on textview|免费试用      |
+|click on textview|btn_try   |
+}}}
+
+*!
+----
+!anchor clickonedittext
+!2 Click On Edittext
+'''点击文本框'''
+''点击文本框，仅支持ID''
+
+|${FontKWText}click on edittext${FONTend}|''element id''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script           |App Driver|
+|click on edittext|element id|
+}}}
+
+*!
+----
+!anchor clickonbutton
+!2 Click On Button
+'''点击按钮'''
+''点击按钮，优先用ID，其次用按钮中的文本''
+
+|${FontKWText}click on button${FONTend}|''id or text''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script         |App Driver|
+|click on button|btn_ok    |
+|click on button|确定        |
+}}}
+
+*!
+----
+!anchor clickonradio
+!2 Click On Radio
+'''点击单选框'''
+''点击单选框,优先使用单选框文办，其次用ID''
+
+|${FontKWText}click on radio${FONTend}|''text or id''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script        |App Driver|
+|click on radio|选项一       |
+|click on radio|radio_op1 |
+}}}
+
+*!
+----
+!anchor clickonimageview
+!2 Click On Imageview
+'''点击图片'''
+''点击图片，优先使用Id，其次是Xpath''
+
+|${FontKWText}click on imageview${FONTend}|''id or xpath''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script            |App Driver|
+|click on imageview|id        |
+|click on imageview|xpath     |
+}}}
+
+*!
+----
+!anchor clickongridoncell
+!2 Click On Grid On Cell
+'''点击某个表格中的某个单元格'''
+''例如和教育app中，收费grid中的不同收费类型''
+
+|${FontKWText}click on grid${FONTend}|''gird id''|${FontKWText}on cell${FONTend}|''cell index''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script       |App Driver              |
+|click on grid|price_gridView|on cell|1|
+|click on grid|price_gridView|on cell|3|
+}}}
+
+*!
+----
+!anchor waitFunction
+!anchor waitseconds
+!2 Wait Seconds
+'''强制等待时间'''
+''单位秒''
+
+|${FontKWText}wait${FONTend}|''how many''|${FontKWText}seconds${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script|App Driver|
+|wait  |1 |seconds|
+}}}
+
+*!
+----
+!anchor implicitlywaitseconds
+!2 Implicitly Wait Seconds
+'''隐式等待'''
+''设置等待元素的最大时间，全局有效，初始设置一次即可''
+
+|${FontKWText}implicitly wait${FONTend}|''how many''|${FontKWText}seconds${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script         |App Driver|
+|implicitly wait|10|seconds|
+}}}
+
+*!
+----
+!anchor waitforelementpresent
+!2 Wait For Element Present
+'''等待元素可见'''
+''等待元素显示在页面中''
+
+|${FontKWText}wait for element${FONTend}|''ui element''|${FontKWText}present${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script          |App Driver   |
+|wait for element|xpath|present|
+}}}
+
+*!
+----
+!anchor waitforelementenabled
+!2 Wait For Element Enabled
+'''等待元素可用'''
+''等待元素显示在页面中并且是可用状态''
+
+|${FontKWText}wait for element${FONTend}|''ui element''|${FontKWText}enabled${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script          |App Driver   |
+|wait for element|xpath|enabled|
+}}}
+
+*!
+----
+!anchor screenFunction
+!anchor touchatxy
+!2 Touch At X Y
+'''点击坐标'''
+''点击屏幕中的坐标点（X,Y），屏幕左上角为基点(0,0),右下角为(max X,max Y)''
+
+|${FontKWText}touch at x${FONTend}|''x''|${FontKWText}y${FONTend}|''y''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script    |App Driver|
+|touch at x|200|y|100 |
+|touch at x|720|y|1280|
+}}}
+
+*!
+----
+!anchor touchscreencenter
+!2 Touch Screen Center
+'''点击屏幕中心'''
+''点击屏幕中心点的坐标，当无需精确定位，只需要点击下屏幕时使用''
+
+|${FontKWText}touch screen center${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script |App Driver |
+|touch screen center|
+}}}
+
+*!
+----
+!anchor setswipespeed
+!2 Set Swipe Speed
+'''设置滑屏速度'''
+''设置滑动屏幕的速度，默认500毫秒，单位毫秒''
+
+|${FontKWText}set swipe speed${FONTend}|''milliseconds''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script         |App Driver|
+|set swipe speed|500       |
+}}}
+
+*!
+----
+!anchor swipeaction
+!2 Swipe Up/Down/Left/Right
+'''向某个方向滑动屏幕（半屏）'''
+''向某个方向滑动屏幕（半屏）''
+
+|${FontKWText}swipe up${FONTend}   |
+|${FontKWText}swipe down${FONTend} |
+|${FontKWText}swipe left${FONTend} |
+|${FontKWText}swipe right${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script|App Driver|
+|swipe up         |
+|swipe down       |
+|swipe left       |
+|swipe right      |
+}}}
+
+*!
+----
+!anchor swipefromto
+!2 Swipe From To
+'''从一点滑到到另一个点'''
+''从一个坐标点滑到另一个坐标点''
+
+|${FontKWText}swipe from${FONTend}|''start X''|''start Y''|${FontKWText}to${FONTend}|''end X''|''end Y''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script    |App Driver      |
+|swipe from|10|10|to|500|600|
+}}}
+
+*!
+----
+!anchor swipepixelfromcenterto
+!2 Swipe Pixel From Center To Up/Down
+'''从屏幕中点向上/下滑动*个像素'''
+''从屏幕中点向上/下滑动*个像素''
+
+|${FontKWText}swipe${FONTend}|''how many''|${FontKWText}pixel from center to up${FONTend}  |
+|${FontKWText}swipe${FONTend}|''how many''|${FontKWText}pixel from center to down${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script|App Driver                   |
+|swipe |200|pixel from center to up  |
+|swipe |200|pixel from center to down|
+}}}
+
+*!
+----
+!anchor getscreenwh
+!2 Get Screen Width/Height
+'''获取屏幕宽度/高度'''
+''获取当前屏幕的宽度和高度像素值''
+
+|${FontKWText}get screen width${FONTend} |
+|${FontKWText}get screen height${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script        |App Driver       |
+|$screenwidth= |get screen width |
+|$screenheight=|get screen height|
+}}}
+
+*!
+----
+!anchor otherFunction
+!anchor setscreenshotfilepath
+!2 Set Screen Shot File Path
+'''设置截屏存放路径'''
+''设置截屏存放路径''
+
+|${FontKWText}set screen shot file path${FONTend}|''path''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script                   |App Driver                                       |
+|set screen shot file path|D:/PTC/NewBranches/FitNesseRoot/files/testResults|
+}}}
+
+*!
+----
+!anchor switchtowebview
+!2 Switch To Webview
+'''切换到H5页面'''
+''切换到H5页面''
+
+|${FontKWText}switch to webview${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script|App Driver|
+|switch to webview|
+}}}
+
+*!
+----
+!anchor switchtonative
+!2 Switch To Native
+'''切换到Android原生页面'''
+''切换到Android原生页面''
+
+|${FontKWText}switch to native${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script|App Driver|
+|switch to native |
+}}}
+
+*!
+----
+!anchor getdatetime
+!2 Get Date Time
+'''获取当前日期时间'''
+''返回无格式的日期时间字符串,例如201712281707420550''
+
+|${FontKWText}get date time${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script|App Driver   |
+|$now= |get date time|
+}}}
+
+*!
+----
+!anchor combinestringwithcd
+!2 Combine String With Current Date
+'''连接字符串和当前日期'''
+''将字符串和当前日期时间进行拼接并且返回''
+
+|${FontKWText}combine string${FONTend}|''content''|${FontKWText}with current date${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script  |App Driver                             |
+|$newstr=|combine string|oldstr|with current date|
+}}}
+
+*!
+----
+!anchor h5Function
+!anchor clickon
+!2 Click On
+'''点击H5页面元素'''
+''点击H5页面元素,目前仅支持Xpath定位.使用前请务必切换到H5页面''
+
+|${FontKWText}click on${FONTend}|''xpath''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script  |App Driver       |
+|switch to webview         |
+|click on|//div[@id='sure']|
+|switch to native          |
+}}}
+
+*!
+----
+!anchor gettextof
+!2 Get Text Of
+'''获取对象文本(原生和H5都可使用)'''
+''原生使用：参数为页面对象idH5使用：参数为页面对象Xpath''
+
+|${FontKWText}get text of${FONTend}|''id or xpath''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script     |App Driver       |
+|switch to webview            |
+|get text of|//div[@id='sure']|
+
+|script     |App Driver|
+|switch to native      |
+|get text of|btn_id]   |
+}}}
+
+*!
+----
+!anchor getattrby
+!2 Get Attr By Id/Xpath
+'''通过Id/Xpath获取对象的指定属性值(原生和H5都可使用)'''
+''通过Id/Xpath获取对象的指定属性值''
+
+|${FontKWText}get attr${FONTend}|''attr name''|by id   |''element id''|
+|${FontKWText}get attr${FONTend}|''attr name''|by xpath|''xpath''     |
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script |App Driver                                 |
+|$value=|get attr|text   |by xpath|//div[@id='sure']|
+|$value=|get attr|enabled|by id   |btn_id           |
+}}}
+
+*!
+----
+!anchor doestextexist
+!2 Does Text Exist
+'''验证字符串是否存在(原生和H5都可使用)'''
+''验证页面中是否存在目标字符串''
+
+|${FontKWText}does text${FONTend}|''string''|${FontKWText}exist${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script   |App Driver|
+|does text|abc |exist|
+}}}
+
+*!
+----
+!anchor doesobjectexist
+!2 Does Object Exist
+'''验证对象是否存在(原生和H5都可使用)'''
+''验证页面中是否存在目标对象''
+
+|${FontKWText}does object${FONTend}|''ui element''|${FontKWText}exist${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script     |App Driver  |
+|does object|button|exist|
+}}}
+
+*!
+----
+!anchor ifimageloaded
+!2 If Image Loaded
+'''验证图片是否加载成功'''
+''点击一个图片后，验证图片是否加载成功''
+
+|${FontKWText}if image loaded${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script|App Driver          |
+|check |if image loaded|true|
+}}}
+
+*!
+----
+!anchor openappinappcenter
+!2 Open App In App Center With Bottom
+'''在应用中心寻找某个app name并点击（效率不高，慎用）'''
+''在应用中心寻找某个app name并点击，需要设置底部识别标识''
+
+|${FontKWText}open app${FONTend}|''goal app name''|${FontKWText}in app center with bottom${FONTend}|''bottom app name''|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script  |App Driver                        |
+|open app|优满分|in app center with bottom|名校资源|
+}}}
+
+*!
+----
+!anchor adbfunction
+!anchor sendstringbyadb
+!2 Send String By ADB
+'''通过adb发送字符串'''
+''当文本框对象无法获取，切需要输入内容时，可使用该关键字输入字符串字符串不能有空格。''
+
+|${FontKWText}send string${FONTend}|''content''|${FontKWText}by adb${FONTend}|
+
+!***> !-FitNesse-! Usage:
+
+{{{
+|script     |App Driver |
+|send string|abcd|by adb|
+}}}
+
+*!
+----

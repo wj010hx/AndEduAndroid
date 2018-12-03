@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>EduAndroidAuto.TestSuite.2HomePage</rootPath>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-1RecommendNews</name>
+    <date>2018-06-07T10:35:36+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-1RecommendNews?pageHistory&amp;resultDate=20180607103536</pageHistoryLink>
+    <counts>
+      <right>2</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>37421</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-2IndexMXZY</name>
+    <date>2018-06-07T10:36:13+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-2IndexMXZY?pageHistory&amp;resultDate=20180607103613</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>58929</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-3IndexMSDX</name>
+    <date>2018-06-07T10:37:12+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-3IndexMSDX?pageHistory&amp;resultDate=20180607103712</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>51024</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-4IndexKDJJ</name>
+    <date>2018-06-07T10:38:03+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-4IndexKDJJ?pageHistory&amp;resultDate=20180607103803</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>51252</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-5IndexMSYK</name>
+    <date>2018-06-07T10:38:55+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-5IndexMSYK?pageHistory&amp;resultDate=20180607103855</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>50403</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"D:\Program Files\Java\jdk1.8.0_65\bin\java" -cp D:\Automation\AndEduAndroid\lib\fitnesse-standalone.jar;D:/Automation/AndEduAndroid/lib/java-client-1.2.1.jar;D:/Automation/AndEduAndroid/lib/junit-4.10.jar;D:/Automation/AndEduAndroid/lib/selenium-java-2.44.0.jar;D:/Automation/AndEduAndroid/lib/selenium-server-standalone-2.44.0.jar;D:/Automation/AndEduAndroid/lib/AutomationDriver.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut>startApp(): SkipStepFlag is [false]
+Setup()
+Try To Find Element [main_news_marquee_text]
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11.59 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '10.2.84.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: e20cf13d-e319-447f-9ed1-c1c17e9a9851
+Try To Find Element [main_news_marquee_text]
+Try To Find Object: [input_comment]
+Try To Find Element [input_comment]
+startApp(): SkipStepFlag is [false]
+Setup()
+Try To Find Element [��У��Դ]
+NATIVE_APP
+WEBVIEW_com.cmcc.andedu_phone
+Try To Find Elements [(//div[@class='list']//div[@class='clearfix imglist'])[1]]
+Try To Find Elements [(//div[@class='list']//div[@class='list-tit'])[1]]
+Try To Find Elements [//dd]
+startApp(): SkipStepFlag is [false]
+Setup()
+Try To Find Element [��ʦ��ѧ]
+Try To Find Element [�ر�]
+Try To Find Element [ȷ��]
+Try To Find Element [��ʦ��ѧ]
+NATIVE_APP
+WEBVIEW_com.cmcc.andedu_phone
+Try To Find Object: [//div[@class='new_channel']//a]
+Try To Find Elements [//div[@class='new_channel']//a]
+startApp(): SkipStepFlag is [false]
+Setup()
+Try To Find Element [���㾫��]
+Try To Find Element [�ر�]
+Try To Find Element [ȷ��]
+Try To Find Element [���㾫��]
+NATIVE_APP
+WEBVIEW_com.cmcc.andedu_phone
+Try To Find Object: [(//div[@class='slide-nav-left'])[1]//span]
+Try To Find Elements [(//div[@class='slide-nav-left'])[1]//span]
+startApp(): SkipStepFlag is [false]
+Setup()
+Try To Find Element [��ʦ�ſ�]
+Try To Find Element [�ر�]
+Try To Find Element [ȷ��]
+Try To Find Element [��ʦ�ſ�]
+NATIVE_APP
+WEBVIEW_com.cmcc.andedu_phone
+Try To Find Object: [(//div[@class='slide-nav-left'])[1]//span]
+Try To Find Elements [(//div[@class='slide-nav-left'])[1]//span]
+</stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>5</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>249426</totalRunTimeInMillis>
+</suiteResults>
+

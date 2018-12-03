@@ -1,0 +1,38 @@
+---
+Help: 公共元素页面
+---
+支付详情页-确认支付按钮
+!define surePayBtn {//div[@id='sure']}
+
+话费支付验证码验证页面-确认支付按钮
+!define lastSurePayBtn {//button[@class='submit-btn J_sumbitPay submit-btn-ready']}
+
+
+
+点播支付宝radio
+!define ZFBradioFather {//div[@class='ui-radio']}
+!define ZFBradio {//label[@id='ZFBRadio']}
+点播页面的支付按钮
+!define dianBoPayBtn {//label[@class='btn-box']}
+支付宝页面-继续支付
+!define ZFBContinuePay {//a[@class='J-h5pay am-button am-button-blue']}
+
+※支付宝账户登录页面-下一步按钮
+!define nextStepBtn {//button[@type='submit']}
+
+原生返回按钮的id
+!define returnBtnId {common_title_left}
+原生关闭textview的id
+!define closeBtnId {app_close}
+原生确认关闭textview的id
+!define OKBtnId {tv_ok}
+
+魅族手机拍照-切换前置摄像头按钮
+!define meizuPro7Switch_camera_btn {//*[@resource-id='com.meizu.media.camera:id/switch_camera_btn']}
+魅族手机拍照-拍照按钮
+!define meizuPro7Shutter_btn {//*[@resource-id='com.meizu.media.camera:id/shutter_btn']}
+魅族手机拍照-完成按钮
+!define meizuPro7Done_btn {//*[@resource-id='com.meizu.media.camera:id/btn_done']}
+魅族手机拍照-更换头像-裁剪确认按钮
+!define meizuPro7Save_btn {//*[@resource-id='com.meizu.media.gallery:id/action_crop_save_tv']}
+

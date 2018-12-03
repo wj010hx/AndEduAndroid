@@ -1,0 +1,46 @@
+---
+Help: 班级公告-删除
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 公告-查看
+!3 测试步骤
+
+1.校讯通教师用户进入家校互动首页
+2.点击班级空间
+3.点击某个公告
+4.点击删除按钮
+
+!3 期望结果
+
+成功删除公告
+
+!3 作者和日期
+王杰  20180620
+
+**!
+
+**删除公告**
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='家校互动']|
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]|
+|wait|10|seconds|
+|click on |//*[@text='公告']|
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/title'])[1]|
+|wait|3|seconds|
+|check |get attr|text   |by xpath|//*[@resource-id='com.cmcc.andedu_phone:id/detail_create_content']|自动化测试公告内容|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/tv_ok']|
+|wait|3|seconds|
+|check not|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/content'])[1]|自动化测试公告内容|
+
+

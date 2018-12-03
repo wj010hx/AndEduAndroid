@@ -1,0 +1,21 @@
+---
+Help: 公共元素页面
+---
+支付详情页-确认支付按钮
+!define surePayBtn {//div[@id='sure']}
+
+话费支付验证码验证页面-确认支付按钮
+!define lastSurePayBtn {//input[@class='submit-btn J_sumbitPay']}
+
+
+
+点播支付宝radio
+!define ZFBradioFather {//div[@class='ui-radio']}
+!define ZFBradio {//input[@id='bankcode']}
+点播页面的支付按钮
+!define dianBoPayBtn {//a[@class='ui-link ui-btn ui-btn-b ui-shadow ui-corner-all']}
+※支付宝账户登录页面-下一步按钮
+!define nextStepBtn {//button[@type='submit']}
+
+原生返回按钮的id
+!define returnBtnId {common_title_left}

@@ -1,0 +1,44 @@
+---
+Help: 口袋问答-试用、内部包月/点播
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-口袋问答免费试用、内部包月/点播
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证口袋问答免费试用、内部包月/点播功能正常
+
+!3 作者和日期
+王杰  20180320
+
+**!
+
+内部包月
+!|script|
+|swipFindAppAndTry|口袋问答|
+|wait|2|seconds|
+|click on|${首个老师}|
+|wait|2|seconds|
+|click on|${我要提问}|
+|wait|5|seconds|
+|click on|${购买}|
+|AppBaoYueCheck|
+
+内部点播
+!|script|
+|ReturnThreeTimes|
+|click on|${KDWD点播资费}|
+|wait|1|seconds|
+|click on|${购买}|
+|AppDianBoCheck|

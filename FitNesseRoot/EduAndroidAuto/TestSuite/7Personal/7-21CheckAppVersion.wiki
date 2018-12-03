@@ -1,0 +1,35 @@
+---
+Help: 检查app版本信息
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 检查app版本信息
+!3 测试步骤
+
+1.进入个人空间
+2.点击设置
+3.点击版本信息
+4.点击检查更新版本
+
+!3 期望结果
+
+toast提示“当前是最新版本”
+
+!3 作者和日期
+王杰  20180724
+
+**!
+
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='设置']|
+|wait|3|seconds|
+|click on |//*[@text='版本信息']|
+|wait|3|seconds|
+|click on |//*[@text='检查更新版本']|
+|check |is toast with string|当前是最新版本|true|

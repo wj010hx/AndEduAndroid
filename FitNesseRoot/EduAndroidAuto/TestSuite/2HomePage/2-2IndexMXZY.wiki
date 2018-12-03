@@ -1,0 +1,39 @@
+---
+Help: 首页名校资源
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 打开首页-名校资源
+
+!3 测试步骤
+
+1. 打开首页-资源推荐-名校资源
+2. 点击第一个学校
+3. 点击第一个资源并进行预览
+
+
+!3 期望结果
+
+验证正确打开名校资源的某个资源，并预览
+
+!3 作者和日期
+王杰  20180509
+
+**!
+
+!|script|
+|click on textview|名校资源      |
+|wait|3|seconds|
+|switch to webview|
+|wait|5|seconds|
+|click on|${第一个学校}|
+|wait|3|seconds|
+|click on|${第一个资源}|
+|wait|2|seconds|
+|click on|${预览}|
+|wait|4|seconds|
+|wait for element|${iframe}|Present|
+

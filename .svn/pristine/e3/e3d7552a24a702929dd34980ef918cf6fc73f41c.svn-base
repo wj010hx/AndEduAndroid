@@ -1,0 +1,48 @@
+---
+Help: 班级公告-发表
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 公告-发表
+!3 测试步骤
+
+1.校讯通教师用户进入家校互动首页
+2.点击班级空间
+3.发表
+
+!3 期望结果
+
+1.发布一个特殊内容的公告，目前有bug
+
+!3 作者和日期
+王杰  20180620
+
+**!
+
+**发布公告**
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='家校互动']|
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]|
+|wait|10|seconds|
+|click on |//*[@text='公告']|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']|
+|wait|3|seconds|
+|click on |//*[@text='发布公告']|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/announcement_title']|
+|wait|3|seconds|
+|type  |自动化测试公告标题|into|announcement_title|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/announcement_title']|
+|wait|3|seconds|
+|type  |自动化测试公告内容|into|announcement_edit|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']|
+|wait|3|seconds|

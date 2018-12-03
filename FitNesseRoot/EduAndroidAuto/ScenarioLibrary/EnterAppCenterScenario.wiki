@@ -1,0 +1,12 @@
+---
+Help: 进入应用中心
+---
+!|scenario          |EnterAppCenter  |
+|set App With Device      |${deviceName}                                   |
+|set App With Udid        |${phoneUdid}                                    |
+|set App With PlatformName|${platformName}|With Version |${platformVersion}|
+|set App With Package     |${appPackage}  |With Activity|${appActivity}    |
+|startApp                                                                  |
+|implicitly wait|30|seconds|
+|click on radio|应用      |
+|wait|2|seconds|

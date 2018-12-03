@@ -1,0 +1,102 @@
+---
+Help: 名师导学-免费试用、内/外部包月/点播
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-名师导学免费试用、内/外部包月/点播
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证名师导学免费试用、内/外部包月/点播功能正常
+
+!3 作者和日期
+王杰  20180315
+
+**!
+
+外部包月>回到应用介绍页
+!|script|
+|click on textview|名师导学   |
+|click on textview|立即购买   |
+|wait|3|seconds|
+|switch to webview|
+|click on|${surePayBtn}|
+|wait|3|seconds|
+|wait for element|${lastSurePayBtn}|Present|  
+|wait|1|seconds|
+|switch to native |
+|click on textview|关闭   |
+|click on textview|确定   |
+
+外部点播>回到应用介绍页
+!|script|
+|wait|2|seconds|
+|click on textview|元/30天   |
+|click on textview|立即购买   |
+|wait|2|seconds|
+|switch to webview|
+|wait|2|seconds|
+|click on|${surePayBtn}|
+|wait|3|seconds|
+|click on|${ZFBradioFather}|
+|wait|2|seconds|
+|click on|${dianBoPayBtn}|
+|wait|3|seconds|
+|check|get text of|${nextStepBtn}|下一步|
+|switch to native |
+|click on textview|关闭   |
+|click on textview|确定   |
+
+
+内部包月
+!|script|
+|click on textview|免费试用   |
+|wait|15|seconds|
+|switch to webview|
+|check|get text of|${openChannelBtn}|开启频道|
+|wait for element|${第一个已开通频道}|Enabled|
+|click on|${第一个已开通频道}|
+|wait for element|${第一个科目}|Enabled|
+|click on|${第一个科目}|
+|wait for element|${第一个课程}|Enabled|
+|click on|${第一个课程}|
+|wait for element|${第一个订购按钮}|Enabled|
+|click on|${第一个订购按钮}|
+|wait for element|${MSDX五元包月}|Enabled|
+|click on|${MSDX五元包月}|
+|wait for element|${MSDX确定订购}|Enabled|
+|click on|${MSDX确定订购}|
+|AppBaoYueCheck|
+
+内部点播
+!|script|
+|wait|1|seconds|
+|switch to native |
+|wait|1|seconds|
+|click on imageview|common_title_left   |
+|click on imageview|common_title_left   |
+|wait|5|seconds|
+|switch to webview|
+|wait for element|${第一个科目}|Enabled|
+|click on|${第一个科目}|
+|wait for element|${第一个课程}|Enabled|
+|click on|${第一个课程}|
+|wait for element|${第一个订购按钮}|Enabled|
+|click on|${第一个订购按钮}|
+|wait for element|${MSDX五元点播}|Enabled|
+|click on|${MSDX五元点播}|
+|wait for element|${MSDX确定订购}|Enabled|
+|click on|${MSDX确定订购}|
+|AppDianBoCheck|
+
+

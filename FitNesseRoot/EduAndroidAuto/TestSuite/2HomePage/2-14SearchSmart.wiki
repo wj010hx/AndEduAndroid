@@ -1,0 +1,29 @@
+---
+Help: 搜索智能提醒
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 搜索的智能提醒功能
+
+!3 测试步骤
+
+1. 点击搜索框
+2. 输入搜索关键字
+
+
+!3 期望结果
+
+根据输入的关键字给出相应的联想提醒
+
+!3 作者和日期
+王杰  20180613
+
+!|script|
+|click on|//*[@resource-id='com.cmcc.andedu_phone:id/main_search']|
+|wait|3|seconds|
+|type  |政治家|into|main_search|
+|wait|3|seconds|
+|check|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/tv_smartsearch'])[1]|政治家|

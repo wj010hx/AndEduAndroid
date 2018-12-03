@@ -1,0 +1,8 @@
+---
+Help: 直接从登录页登录
+Test
+---
+''从登录页登录''
+|login from loginpage|
+|username|password|
+|${autUsername}|${autPassword}|

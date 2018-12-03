@@ -1,0 +1,4 @@
+---
+Help: 个人中心
+---
+!define liveGotoPayBtn {(//android.view.View[@content-desc="去支付"])[1]}

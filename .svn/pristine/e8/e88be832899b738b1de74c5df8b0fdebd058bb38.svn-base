@@ -1,0 +1,44 @@
+---
+Help: 微信快捷登录
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 微信方式快捷登录和教育客户端
+
+!3 测试步骤
+
+1. 退出已登录用户
+2. 选择微信方式快捷登录
+
+
+!3 期望结果
+
+登录成功
+
+!3 作者和日期
+王杰  20180613
+
+**!
+退出当前账户并打开登录页面
+!|script|
+|click on radio|首页      |
+|wait|1|seconds|
+|click on imageview|center_person_image       |
+|wait|1|seconds|
+|click on textview|设置   |
+|wait|1|seconds|
+|click on textview|退出登录   |
+|wait|2|seconds|
+|click on textview|确定   |
+|wait|1|seconds|
+|click on textview|点击登录   |
+|wait|3|seconds|
+
+
+!|script|
+|click on|(//*[@class='android.widget.ImageView'])[7] |
+|wait|3|seconds|
+|check|get attr|text   |by xpath|//*[@resource-id='com.cmcc.andedu_phone:id/mine_to_myset']|设置|

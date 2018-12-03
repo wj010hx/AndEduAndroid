@@ -1,0 +1,33 @@
+---
+Help: 家校互动-互联网用户进入
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 互联网用户进入家校互动首页
+!3 测试步骤
+
+1.互联网用户进入家校互动首页
+
+!3 期望结果
+
+正确显示家校互动介绍页
+
+
+!3 作者和日期
+王杰  20180619
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|5|seconds|
+|click on |//*[@text='家校互动']|
+|wait|5|seconds|
+|check |get attr|enabled   |by xpath|(//*[@class='android.view.View'])[1]|TRUE|
+
+
+
+

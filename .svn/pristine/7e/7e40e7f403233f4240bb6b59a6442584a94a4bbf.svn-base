@@ -1,0 +1,34 @@
+---
+Help: 教案-打开
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 打开资源-某个教案
+
+!3 测试步骤
+
+1. 打开资源-教案
+2.点击查看某个资源
+
+
+
+!3 期望结果
+
+资源正常打开
+
+!3 作者和日期
+王杰  20180614
+
+**!
+
+!|script|
+|click on radio|资源    |
+|wait|10|seconds|
+|click on |//*[@text='教案']    |
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/tv_name'])[3]    |
+|wait|3|seconds|
+|check not|get text length|//android.view.View[@instance='12']|0|

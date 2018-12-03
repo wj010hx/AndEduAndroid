@@ -1,0 +1,7 @@
+---
+Help: 输入内容到输入框
+---
+|click on edittext|后半部分的id|
+|wait|1|seconds|
+|type  |输入内容|into|后半部分的id|
+|wait|1|seconds|

@@ -1,0 +1,51 @@
+---
+Help: 语智通-免费试用、内部包月、点播
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-语智通免费试用、内部包月/点播
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证语智通免费试用、内部包月/点播功能正常
+
+!3 作者和日期
+王杰  20180320
+
+**!
+
+内部包月
+!|script|
+|set swipe speed|800       |
+|open app|语智通|in app center with bottom|最新推荐|
+|click on textview|免费试用   |
+|wait|20|seconds|
+|click on textview|关闭   |
+|click on textview|确定   |
+|click on textview|免费试用   |
+|wait|5|seconds|
+|switch to webview|
+|click on|${YZT徐薇英文}|
+|wait|1|seconds|
+|click on|${YZT去支付}|
+|AppBaoYueCheck|
+
+内部点播
+!|script|
+|ReturnThreeTimes|
+|click on|${YZT徐薇英文}|
+|wait|1|seconds|
+|click on|${YZT点播}|
+|wait|1|seconds|
+|click on|${YZT去支付}|
+|AppDianBoCheck|

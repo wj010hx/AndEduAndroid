@@ -1,0 +1,5 @@
+---
+Help: 获取页面中视频资源的状态
+---
+|switch frame|iframepage          |
+|check       |get video status|200|

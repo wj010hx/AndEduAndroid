@@ -1,0 +1,32 @@
+---
+Help: 家校互动-查看课程表
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 查看课程表
+!3 测试步骤
+
+1.校讯通用户进入家校互动首页
+2.点击课程表
+
+!3 期望结果
+
+1.课程表列表正确显示(验证课程表第一个表头为“周一”)
+
+
+!3 作者和日期
+王杰  20180619
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='家校互动']|
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[3]|
+|wait|10|seconds|
+|check|get attr|text|by xpath|(//*[@class='android.widget.TextView'])[3]|周一|

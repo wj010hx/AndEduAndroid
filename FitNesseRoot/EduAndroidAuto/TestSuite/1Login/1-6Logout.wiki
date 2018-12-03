@@ -1,0 +1,36 @@
+---
+Help: 退出登录
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 退出和教育客户端
+
+!3 测试步骤
+
+1. 退出已登录用户
+
+
+
+!3 期望结果
+
+退出功能正常
+
+!3 作者和日期
+王杰  20181129
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on textview|设置   |
+|wait|3|seconds|
+|click on textview|退出登录   |
+|wait|3|seconds|
+|click on textview|确定   |
+|wait|3|seconds|
+|click on textview|点击登录   |
+|wait|3|seconds|

@@ -1,0 +1,4 @@
+---
+Help: 勾选多选框
+---
+|set||to be checked|

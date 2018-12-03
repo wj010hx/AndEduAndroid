@@ -1,0 +1,18 @@
+---
+Help: 测试执行初始化
+---
+!2 import section
+
+|import          |
+|com.qt.AppDriver|
+
+!2 Setup App Driver
+
+!|script|App Driver|
+
+!|script                                                                   |
+|set App With Device      |${deviceName}                                   |
+|set App With Udid        |${phoneUdid}                                    |
+|set App With PlatformName|${platformName}|With Version |${platformVersion}|
+|set App With Package     |${appPackage}  |With Activity|${appActivity}    |
+|startApp                                                                  |

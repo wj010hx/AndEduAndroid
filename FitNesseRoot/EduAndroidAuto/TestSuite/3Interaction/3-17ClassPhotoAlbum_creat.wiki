@@ -1,0 +1,46 @@
+---
+Help: 班级相册-新建
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 相册-创建
+!3 测试步骤
+
+1.校讯通教师用户进入家校互动首页
+2.点击班级空间
+3.点击相册
+4.点击创建相册
+5.输入相册名，确认
+
+!3 期望结果
+
+相册创建成功
+
+!3 作者和日期
+王杰  20180620
+
+**!
+
+**创建相册**
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='家校互动']|
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]|
+|wait|10|seconds|
+|click on |//*[@text='相册']|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']|
+|wait|3|seconds|
+|click on |//*[@text='创建相册']|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/album_name']|
+|wait|3|seconds|
+|type  |自动化测试相册名|into|album_name|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']|
+|wait|3|seconds|

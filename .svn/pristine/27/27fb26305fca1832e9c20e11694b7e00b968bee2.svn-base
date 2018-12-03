@@ -1,0 +1,14 @@
+---
+Help: 点击三次原生返回按钮并切进webview
+---
+!|scenario          |ReturnThreeTimes  |
+|wait|3|seconds|
+|switch to native |
+|wait|3|seconds|
+|click on imageview|common_title_left   |
+|wait|3|seconds|
+|click on imageview|common_title_left   |
+|wait|3|seconds|
+|click on imageview|common_title_left   |
+|wait|5|seconds|
+|switch to webview|

@@ -1,0 +1,57 @@
+---
+Help: 优佳成长通-免费试用、内部包月、点播
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-优佳成长通免费试用、内部包月/点播
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证优佳成长通免费试用、内部包月/点播功能正常
+
+!3 作者和日期
+王杰  20180326
+
+**!
+
+内部包月
+!|script|
+|swipFindAppAndTry|优佳成长通|
+|wait|10|seconds|
+|switch to webview|
+|wait|10|seconds|
+|wait for element|${YJ_myYJ}|Enabled|
+|click on|${YJ_myYJ}|
+|wait for element|${YJ_bugNow}|Enabled|
+|wait|3|seconds|
+|click on|${YJ_bugNow}|
+|wait for element|${YJ_sure}|Enabled|
+|wait|10|seconds|
+|click on|${YJ_sure}|
+|wait|5|seconds|
+|AppBaoYueCheck|
+
+内部点播
+!|script|
+|ReturnThreeTimes|
+|wait for element|${YJ_bugNow}|Enabled|
+|wait|10|seconds|
+|click on|${YJ_bugNow}|
+|wait for element|${YJ_dianbo}|Enabled|
+|wait|3|seconds|
+|click on|${YJ_dianbo}|
+|wait for element|${YJ_sure}|Enabled|
+|wait|10|seconds|
+|click on|${YJ_sure}|
+|wait|5|seconds|
+|AppDianBoCheck|

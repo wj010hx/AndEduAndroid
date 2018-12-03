@@ -1,0 +1,37 @@
+---
+Help: 应用推荐_打开
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 打开某个推荐的应用
+
+!3 测试步骤
+
+1. 打开首页某个推荐的应用
+
+
+!3 期望结果
+
+正确跳转至该应用详情页
+
+!3 作者和日期
+王杰  20180612
+
+**!
+
+!|script|
+|wait|8|seconds|
+|swipe up         |
+|wait|2|seconds|
+|swipe up         |
+|wait|2|seconds|
+|swipe up         |
+|wait|2|seconds|
+|click on button|recommend_app_logo|
+|wait|3|seconds|
+|check not|get text|${appRecoText}|length|0|
+
+

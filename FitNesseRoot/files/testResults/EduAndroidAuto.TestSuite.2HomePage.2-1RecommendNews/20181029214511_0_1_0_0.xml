@@ -1,0 +1,1693 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>EduAndroidAuto.TestSuite.2HomePage.2-1RecommendNews</rootPath>
+    <result>
+    <counts>
+      <right>0</right>
+      <wrong>1</wrong>
+      <ignores>0</ignores>
+      <exceptions>1</exceptions>
+    </counts>
+    <date>2018-10-29T21:45:11+08:00</date>
+    <runTimeInMillis>94928</runTimeInMillis>
+    <content>&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ScenarioLibrary"&gt;.EduAndroidAuto.ScenarioLibrary&lt;/a&gt; &lt;a href="EduAndroidAuto.ScenarioLibrary?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ElementLibrary"&gt;&amp;lt;EduAndroidAuto.ElementLibrary&lt;/a&gt; &lt;a href="EduAndroidAuto.ElementLibrary?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;div class="contents"&gt;
+	&lt;b&gt;Contents:&lt;/b&gt;
+	&lt;ul class="toc1"/&gt;&lt;ul class="toc1"/&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ElementLibrary.HomePage"&gt;&amp;lt;EduAndroidAuto.ElementLibrary.HomePage&lt;/a&gt; &lt;a href="EduAndroidAuto.ElementLibrary.HomePage?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;*****Bannners*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 查询招生专业高校=//div[@class='seek']/span&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 精品直播=(//div[@class='lateral'])[1]//span&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****名师导学*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 开启新频道=//div[@class='new_channel']//a&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****考点精讲*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 年级全部=(//div[@class='slide-nav-left'])[1]//span&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****直播课堂*****&lt;br/&gt;高中筛选&lt;br/&gt;&lt;span class="meta"&gt;variable defined: highSchool=(//div[@class='projectIcon']//li)[2]//img&lt;/span&gt;
+&lt;br/&gt;学科筛选&lt;br/&gt;&lt;span class="meta"&gt;variable defined: subjectSelect=//li[@control='3']&lt;/span&gt;
+&lt;br/&gt;数学&lt;br/&gt;&lt;span class="meta"&gt;variable defined: math=//android.view.View[@content-desc="数学"]&lt;/span&gt;
+&lt;br/&gt;第一个直播课程&lt;br/&gt;&lt;span class="meta"&gt;variable defined: firstLive=((//div[@class='jp_cont_hang clearfix'])[1]/div)[1]/p[@class='p1']&lt;/span&gt;
+&lt;br/&gt;立即购买按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: buyLiveNow=//div[@class='detail_buy js-buy']&lt;/span&gt;
+&lt;br/&gt;下一步按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: nextStep=//div[@class='payment_btns']&lt;/span&gt;
+&lt;br/&gt;手机话费支付&lt;br/&gt;&lt;span class="meta"&gt;variable defined: mobilePay=//label[@class='js-label js_bill']&lt;/span&gt;
+&lt;br/&gt;按天付费&lt;br/&gt;&lt;span class="meta"&gt;variable defined: payPerDay=//label[@class='js-label js-payday']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;第三方支付按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: AliPayRadio=//android.webkit.WebView[@content-desc="直播详情"]/android.widget.ListView[4]/android.view.View/android.view.View[6]&lt;/span&gt;
+&lt;br/&gt;直播课堂业务包月按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: liveMonthly=//ul[@id='hears']/li[@class='monthly']/a&lt;/span&gt;
+&lt;br/&gt;直播课堂业务第三方支付按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: liveAppAliPayRadio=//android.webkit.WebView[@content-desc="直播详情"]/android.widget.ListView[4]/android.view.View/android.view.View[5]&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****资源专题*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: ziyuanDate=(//li[@class='resourcesList'])[1]//span&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****应用推荐*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: appRecoText=//*[@resource-id='com.cmcc.andedu_phone:id/tv_desc']&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ElementLibrary.ApplicationCenter"&gt;&amp;lt;EduAndroidAuto.ElementLibrary.ApplicationCenter&lt;/a&gt; &lt;a href="EduAndroidAuto.ElementLibrary.ApplicationCenter?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;*****名师导学*****&lt;br/&gt;※名师导学首页-开启频道&lt;br/&gt;&lt;span class="meta"&gt;variable defined: openChannelBtn=//div[@class='new_channel']//a&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: MSDX第一个已开通频道=(//p[@class='ms_answer'])[1]//img&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: MSDX第一个科目=(//div[@class='xdlb_1'])[1]/span[@class='name']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: MSDX第一个课程=(//div[@class='chapter js-chapter3'])[1]/span[@class='name']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: MSDX第一个订购按钮=(//a[@class='free js_buy'])[1]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: MSDX五元包月=(//ul[@class='payUl']/li)[1]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: MSDX五元点播=(//ul[@class='payUl']/li)[2]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: MSDX确定订购=//div[@class='ok']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;*****名师优课\考点精讲*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 下拉按钮=//span[@id='slideicon']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 数学学科=//span[@rel='43']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 第一个收费视频父元素=//div[@class='swipe-wrap']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 第一个收费视频=//*[@id="wrapperList"]/section/section/p[2]/a&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 第一个课程=(//p[@class='live-study'])[1]/span&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 新东方订阅=(//span[@class='btn active'])[2]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: XDF五元包月=(//ul[@class='payUl']/li)[1]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: XDF五元点播=(//ul[@class='payUl']/li)[2]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: XDF确定订购=//div[@class='ok']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;*****掌上高考*****&lt;br/&gt;掌上高考弹框-选择省份“江苏”&lt;br/&gt;&lt;span class="meta"&gt;variable defined: jiangsuBtn=//div[@class='cityBox clearfix']/div[@id='32']&lt;/span&gt;
+&lt;br/&gt;※掌上高考首页，验证是否显示“江苏”&lt;br/&gt;&lt;span class="meta"&gt;variable defined: selectedProvince=//div[@class='n-city']/span&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****在线课程*****&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;在线课程-第一个课程&lt;br/&gt;&lt;span class="meta"&gt;variable defined: firstKC=//a[@unitid='477']//img&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: firstKC2=//*[@id="div_九年级下学期人教版"]/ul[1]/a/li[1]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: firstKC3=(p[@class='fleft'])[1]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: firstKC4=ul[@courseid='2850']//li[@id='title_18079']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;span class="meta"&gt;variable defined: ZXKC订购课程=//*[@id="index_section"]/header/p[3]/span[2]&lt;/span&gt;
+&lt;br/&gt;在线课程-10元包月&lt;br/&gt;&lt;span class="meta"&gt;variable defined: ZXKCBaoyue=//div[@paytype='1']&lt;/span&gt;
+&lt;br/&gt;在线课程-10元点播&lt;br/&gt;&lt;span class="meta"&gt;variable defined: ZXKCDianbo=//div[@billingday='30']&lt;/span&gt;
+&lt;br/&gt;在线课程-立即订购按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: payNowBtn=button[@class='hjy-video-button']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;*****报哪儿*****&lt;br/&gt;报哪儿-一站填志愿&lt;br/&gt;&lt;span class="meta"&gt;variable defined: tianZhiYuan=(//p[@style='position:relative;']/img)[1]&lt;/span&gt;
+&lt;br/&gt;报哪儿-确认按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: confirmBtn=(//div[@class='pup_con1']/div[@class='btn']/span)[2]&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****成长帮手*****&lt;br/&gt;立即兑换&lt;br/&gt;&lt;span class="meta"&gt;variable defined: exchangeBtn=//*[@id="creditId"]/span[3]&lt;/span&gt;
+&lt;br/&gt;10元点播&lt;br/&gt;&lt;span class="meta"&gt;variable defined: CZBS点播=//*[@id="mSelect"]/div[2]/h4&lt;/span&gt;
+&lt;br/&gt;加入vip&lt;br/&gt;&lt;span class="meta"&gt;variable defined: joinVip=//img[@class='join-vip']&lt;/span&gt;
+&lt;br/&gt;马上开通&lt;br/&gt;&lt;span class="meta"&gt;variable defined: openNow=//button[@id='openBtn']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****家长学堂*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 发现导航=//div[@id='foot_nav']/dl[2]//dd&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 首条音频=(//div[@class='audioImg'])[1]/img&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 音频播放按钮=(//div[@class='mask'])[1]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 立即订购=(//input[@class='pay_btn'])[2]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: JZXT5元包月=//li[@class='active']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 开通=//h4[@class='open_this dib active_this']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 点播资费=//*[@id="order-main"]/div[3]/dl[2]/dd/ul/li[1]&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****口袋问答*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 首个老师=(//div[@class='teacherList']//div[@class='teacher_pic'])[1]/img&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 我要提问=(//span[@class='toflow'])[2]/a&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 购买=//div[@class='login_btn']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: KDWD点播资费=//div[@price='30']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****爱熊宝家长端*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 一键管控=//p[@class='lock_btn lock_off']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 爱熊宝立即订购=//div[@class='yes']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 爱熊宝点播=//li[@id='EDUGB1148623']/span&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****家长之友*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 今日必读=//li[@id='head1']/a&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****加博分级阅读*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 功能页=(//span[@class='am-navbar-label'])[1]&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****全课通三款教师版*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YZT布置朗读作业=//button[@class='set-work']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: XTSX班级情况=//a[@id='nav_classInfo']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: HDZW布置新的作业=//a[@class='b_btn orange_box fl']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****妙笔作文*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: VIP专享=//div[@id="tab_03"]//a[@class='btn font-color-black font-size-12 payType_03']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 播放按钮=(//div[@id="tab_03"]//i[contains(@class,'video')])[1]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: MBZW确定按钮=//button[@id='mainConfirmModalOk']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: MBZW确定购买=//button&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: MBZW点播资费=//div[@class='itemWrap'][2]//span[1]&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****学习百分百*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: XXBFB数学=(//img[@class='am-img-responsive'])[2]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: XXBFB知识点讲解=//a[@class='point']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: XXBFB成为VIP=//h1[@class='vip-content-text']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: XXBFB包月=//p[@target='by']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: XXBFB点播=//p[@target='db30']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****全课通三款学生版*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: XTSX趣味奥数=(//nav/a)[4]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 全课通去支付=//button[@class='orange']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 全课通点播=(//dd[@id='billChoosecc']/a)[2]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: HDZW作家讲堂=//span[@class='fun_pic fun_pic_2']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: HDZW阅读改变人生=//div[@class='lecture_banner_tit']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YZT徐薇英文=//ul[@class='web-nav']/li[3]/a&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YZT去支付=//button[@id='jtBtn2']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YZT点播=(//dl[@class='order-group']//a)[2]&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****学易学堂*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: XYXT去订购=//span[@type='1']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: XYXT点播=(//span[@class='labelauty-unchecked'])[2]&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****E辅导*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: EFD拍照解题=//div[@id='sm_round']/img&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: EFD确定=//div[@id='sure']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: EFD点播=(//span[@class='icon'])[2]&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****洋葱数学*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YCSX立即订购=//ul[@class='onion-btns-ul']//button&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YCSX确定=(//div[@class='onion-dialog-btns btns-two']/button)[2]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YCSX点播=(//label[@class='onion-radio'])[2]&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****和卫士*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: HWS立即订购=//div[@class='item active']/a/img&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: HWS确认订购=//div[@class='btn-buy']/img&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****名校资源*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 第一个学校=//div[@class='index_box_f']//li[1]//a&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 第一个资源=//ul[@class='sidebar-menu show tab1']//li[1]//span&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 预览=//div[@class='resources_property_box_f']/span&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: iframe=//body//iframe&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****优佳成长通*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YJ我的优佳=//div[@class='o-hidden icon icon4 margin-auto']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YJ马上订购=//div[@onclick='toOrderBusiness()']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YJ确定=//button[@class='btn bg-green white w100']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YJ点播资费=(//div[@class='col-xs-6 mb10'])[2]&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****快乐学堂*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: KLXT包月资费=(//div[@id='bjhjyxf1']/div)[1]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: KLXT点播资费=(//div[@id='bjhjyxf1']/div)[2]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: KLXT购买=//button[@id='buyvip']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****优满分*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YMF兑换=//span[@class='J-menu-icon home-menu icon_home home_exchange']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YMF商品=(//div[@class='item'])[1]//img&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YMF立即兑换=//a[@class='J-exchange-button']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YMF包月资费=//a[@data-type='0']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YMF点播资费=//a[@data-type='1']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: YMF立即订购=//a[@class='J-pay-btn']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****华腾同步课堂*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: HT我的=//a[@href='/h5/setting/setting.vm']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: HT我要订购=(//div[@class='weui_cell_bd weui_cell_primary'])[6]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: HT华腾同步课堂=(//div[@class='weui_cell_bd weui_cell_primary'])[3]//span&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: HT订购=//div[@class='weui_btn_area']/a&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****口语易*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: KYY包月=(//ul[@id='productList']/li)[1]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: KYY点播=(//ul[@id='productList']/li)[2]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: KYY去订购=(//a[@class='goandorderDtn']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****思鹿校园*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: SL点播资费=(//li[@class='item item-checkbox'])[3]//input&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: SL立即订购=//button[@id='orderBtn']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;*****创恒同步课堂教师版*****&lt;br/&gt;&lt;span class="meta"&gt;variable defined: CH我=//i[@class='icon-wo']&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ElementLibrary.CommonElement"&gt;&amp;lt;EduAndroidAuto.ElementLibrary.CommonElement&lt;/a&gt; &lt;a href="EduAndroidAuto.ElementLibrary.CommonElement?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;支付详情页-确认支付按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: surePayBtn=//div[@id='sure']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;话费支付验证码验证页面-确认支付按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: lastSurePayBtn=//button[@class='submit-btn J_sumbitPay submit-btn-ready']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;点播支付宝radio&lt;br/&gt;&lt;span class="meta"&gt;variable defined: ZFBradioFather=//div[@class='ui-radio']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: ZFBradio=//label[@id='ZFBRadio']&lt;/span&gt;
+&lt;br/&gt;点播页面的支付按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: dianBoPayBtn=//label[@class='btn-box']&lt;/span&gt;
+&lt;br/&gt;支付宝页面-继续支付&lt;br/&gt;&lt;span class="meta"&gt;variable defined: ZFBContinuePay=//a[@class='J-h5pay am-button am-button-blue']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;※支付宝账户登录页面-下一步按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: nextStepBtn=//button[@type='submit']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;原生返回按钮的id&lt;br/&gt;&lt;span class="meta"&gt;variable defined: returnBtnId=common_title_left&lt;/span&gt;
+&lt;br/&gt;原生关闭textview的id&lt;br/&gt;&lt;span class="meta"&gt;variable defined: closeBtnId=app_close&lt;/span&gt;
+&lt;br/&gt;原生确认关闭textview的id&lt;br/&gt;&lt;span class="meta"&gt;variable defined: OKBtnId=tv_ok&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;魅族手机拍照-切换前置摄像头按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: meizuPro7Switch_camera_btn=//*[@resource-id='com.meizu.media.camera:id/switch_camera_btn']&lt;/span&gt;
+&lt;br/&gt;魅族手机拍照-拍照按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: meizuPro7Shutter_btn=//*[@resource-id='com.meizu.media.camera:id/shutter_btn']&lt;/span&gt;
+&lt;br/&gt;魅族手机拍照-完成按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: meizuPro7Done_btn=//*[@resource-id='com.meizu.media.camera:id/btn_done']&lt;/span&gt;
+&lt;br/&gt;魅族手机拍照-更换头像-裁剪确认按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: meizuPro7Save_btn=//*[@resource-id='com.meizu.media.gallery:id/action_crop_save_tv']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ElementLibrary.InteractionPage"&gt;&amp;lt;EduAndroidAuto.ElementLibrary.InteractionPage&lt;/a&gt; &lt;a href="EduAndroidAuto.ElementLibrary.InteractionPage?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;家校互动-发短信-选择班级按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: classSelectBtn=//*[@resource-id='com.cmcc.andedu_phone:id/add_class']&lt;/span&gt;
+&lt;br/&gt;家校互动-发短信-班级checkbox&lt;br/&gt;&lt;span class="meta"&gt;variable defined: classCheckbox=(//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]&lt;/span&gt;
+&lt;br/&gt;家校互动-发短信-班级选择后的确定按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: classSelectConfirm=//*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']&lt;/span&gt;
+&lt;br/&gt;家校互动-发短信短信-短信内容编辑框的id&lt;br/&gt;&lt;span class="meta"&gt;variable defined: msgEditbox=notice_edit&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;家校互动-发作业短信-短信内容编辑框的id&lt;br/&gt;&lt;span class="meta"&gt;variable defined: workMsgEditbox=work_edit&lt;/span&gt;
+&lt;br/&gt;家校互动-发作业短信-学科选择按钮&lt;br/&gt;&lt;span class="meta"&gt;variable defined: chooseSubjects=//*[@resource-id='com.cmcc.andedu_phone:id/choose_subjects']&lt;/span&gt;
+&lt;br/&gt;家校互动-发作业短信-第一个学科&lt;br/&gt;&lt;span class="meta"&gt;variable defined: firstSubject=(//*[@resource-id='com.cmcc.andedu_phone:id/project_name'])[1]&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;家校互动-发评语短信-短信内容编辑框的id&lt;br/&gt;&lt;span class="meta"&gt;variable defined: commentMsgEditbox=comment_edit&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;家校互动-发定时短信-定时checkbox&lt;br/&gt;&lt;span class="meta"&gt;variable defined: timingCheckbox=//*[@resource-id='com.cmcc.andedu_phone:id/timing_checkbox']&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;家校互动-发办公短信-收信人checkbox&lt;br/&gt;&lt;span class="meta"&gt;variable defined: choicePeopleCheckbox=(//*[@resource-id='com.cmcc.andedu_phone:id/choose_people'])[1]&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ElementLibrary.LoginPage"&gt;&amp;lt;EduAndroidAuto.ElementLibrary.LoginPage&lt;/a&gt; &lt;a href="EduAndroidAuto.ElementLibrary.LoginPage?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;span class="meta"&gt;variable defined: QQ快捷登录=(//*[@class='android.widget.ImageView'])[6]&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: QQ登录按钮=//*[@text='登录']&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: 设置的id=com.cmcc.andedu_phone:id/mine_to_myset&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ElementLibrary.PersonalCenter"&gt;&amp;lt;EduAndroidAuto.ElementLibrary.PersonalCenter&lt;/a&gt; &lt;a href="EduAndroidAuto.ElementLibrary.PersonalCenter?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;span class="meta"&gt;variable defined: liveGotoPayBtn=(//android.view.View[@content-desc="去支付"])[1]&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ElementLibrary.ResourcePage"&gt;&amp;lt;EduAndroidAuto.ElementLibrary.ResourcePage&lt;/a&gt; &lt;a href="EduAndroidAuto.ElementLibrary.ResourcePage?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;div class="contents"&gt;
+	&lt;b&gt;Contents:&lt;/b&gt;
+	&lt;ul class="toc1"/&gt;&lt;ul class="toc1"/&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ElementLibrary.EduNewsPage"&gt;&amp;lt;EduAndroidAuto.ElementLibrary.EduNewsPage&lt;/a&gt; &lt;a href="EduAndroidAuto.ElementLibrary.EduNewsPage?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;论文大赛标题&lt;br/&gt;&lt;span class="meta"&gt;variable defined: lunwenTitle=(//*[@resource-id='com.cmcc.andedu_phone:id/activity_center_list_title'])[1]&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;电脑大赛标题&lt;br/&gt;&lt;span class="meta"&gt;variable defined: diannaoTitle=(//*[@resource-id='com.cmcc.andedu_phone:id/activity_center_list_title'])[2]&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ScenarioLibrary.EnterAppCenterScenario"&gt;&amp;lt;EduAndroidAuto.ScenarioLibrary.EnterAppCenterScenario&lt;/a&gt; &lt;a href="EduAndroidAuto.ScenarioLibrary.EnterAppCenterScenario?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td colspan="3"&gt;EnterAppCenter&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;set App With Device&lt;/td&gt;
+		&lt;td colspan="3"&gt;793QBDRJ2283V&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;set App With Udid&lt;/td&gt;
+		&lt;td colspan="3"&gt;793QBDRJ2283V&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;set App With PlatformName&lt;/td&gt;
+		&lt;td&gt;Android&lt;/td&gt;
+		&lt;td&gt;With Version&lt;/td&gt;
+		&lt;td&gt;7.0&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor3"&gt;
+		&lt;td&gt;set App With Package&lt;/td&gt;
+		&lt;td&gt;com.cmcc.andedu_phone&lt;/td&gt;
+		&lt;td&gt;With Activity&lt;/td&gt;
+		&lt;td&gt;com.cmcc.andedu_phone.activity.guide.SplashActivity&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td colspan="4"&gt;startApp&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;implicitly wait&lt;/td&gt;
+		&lt;td&gt;30&lt;/td&gt;
+		&lt;td colspan="2"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;click on radio&lt;/td&gt;
+		&lt;td colspan="3"&gt;应用&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="2"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ScenarioLibrary.ReturnThreeTimesScenario"&gt;&amp;lt;EduAndroidAuto.ScenarioLibrary.ReturnThreeTimesScenario&lt;/a&gt; &lt;a href="EduAndroidAuto.ScenarioLibrary.ReturnThreeTimesScenario?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td colspan="2"&gt;ReturnThreeTimes&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor6"&gt;
+		&lt;td colspan="3"&gt;switch to native&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on imageview&lt;/td&gt;
+		&lt;td colspan="2"&gt;common_title_left&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on imageview&lt;/td&gt;
+		&lt;td colspan="2"&gt;common_title_left&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on imageview&lt;/td&gt;
+		&lt;td colspan="2"&gt;common_title_left&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;5&lt;/td&gt;
+		&lt;td&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td colspan="3"&gt;switch to webview&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ScenarioLibrary.AppBaoYueCheckScenario"&gt;&amp;lt;EduAndroidAuto.ScenarioLibrary.AppBaoYueCheckScenario&lt;/a&gt; &lt;a href="EduAndroidAuto.ScenarioLibrary.AppBaoYueCheckScenario?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td colspan="2"&gt;AppBaoYueCheck&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;8&lt;/td&gt;
+		&lt;td&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td colspan="2"&gt;//div[@id='sure']&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;3&lt;/td&gt;
+		&lt;td&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor4"&gt;
+		&lt;td&gt;wait for element&lt;/td&gt;
+		&lt;td&gt;//button[@class='submit-btn J_sumbitPay submit-btn-ready']&lt;/td&gt;
+		&lt;td&gt;Present&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ScenarioLibrary.AppDianboCheckScenario"&gt;&amp;lt;EduAndroidAuto.ScenarioLibrary.AppDianboCheckScenario&lt;/a&gt; &lt;a href="EduAndroidAuto.ScenarioLibrary.AppDianboCheckScenario?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td colspan="3"&gt;AppDianBoCheck&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;8&lt;/td&gt;
+		&lt;td colspan="2"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td colspan="3"&gt;//div[@id='sure']&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;3&lt;/td&gt;
+		&lt;td colspan="2"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td colspan="3"&gt;//label[@id='ZFBRadio']&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor4"&gt;
+		&lt;td&gt;wait for element&lt;/td&gt;
+		&lt;td&gt;//label[@class='btn-box']&lt;/td&gt;
+		&lt;td colspan="2"&gt;Enabled&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="2"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td colspan="3"&gt;//label[@class='btn-box']&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor4"&gt;
+		&lt;td&gt;wait for element&lt;/td&gt;
+		&lt;td&gt;//a[@class='J-h5pay am-button am-button-blue']&lt;/td&gt;
+		&lt;td colspan="2"&gt;Enabled&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="2"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td colspan="3"&gt;//a[@class='J-h5pay am-button am-button-blue']&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor4"&gt;
+		&lt;td&gt;wait for element&lt;/td&gt;
+		&lt;td&gt;//button[@type='submit']&lt;/td&gt;
+		&lt;td colspan="2"&gt;Enabled&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;get text of&lt;/td&gt;
+		&lt;td&gt;//button[@type='submit']&lt;/td&gt;
+		&lt;td&gt;下一步&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ScenarioLibrary.swipFindAppAndTryScenario"&gt;&amp;lt;EduAndroidAuto.ScenarioLibrary.swipFindAppAndTryScenario&lt;/a&gt; &lt;a href="EduAndroidAuto.ScenarioLibrary.swipFindAppAndTryScenario?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;swipFindAppAndTry&lt;/td&gt;
+		&lt;td colspan="2"&gt;appName&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;set swipe speed&lt;/td&gt;
+		&lt;td colspan="3"&gt;800&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;open app&lt;/td&gt;
+		&lt;td&gt;@appName&lt;/td&gt;
+		&lt;td&gt;in app center with bottom&lt;/td&gt;
+		&lt;td&gt;最新推荐&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="3"&gt;免费试用&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;5&lt;/td&gt;
+		&lt;td colspan="2"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td colspan="4"&gt;switch to webview&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ScenarioLibrary.swipFindAppAndUseScenario"&gt;&amp;lt;EduAndroidAuto.ScenarioLibrary.swipFindAppAndUseScenario&lt;/a&gt; &lt;a href="EduAndroidAuto.ScenarioLibrary.swipFindAppAndUseScenario?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;swipFindAppAndUse&lt;/td&gt;
+		&lt;td colspan="2"&gt;appName&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;set swipe speed&lt;/td&gt;
+		&lt;td colspan="3"&gt;800&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;open app&lt;/td&gt;
+		&lt;td&gt;@appName&lt;/td&gt;
+		&lt;td&gt;in app center with bottom&lt;/td&gt;
+		&lt;td&gt;最新推荐&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="3"&gt;进入应用&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;8&lt;/td&gt;
+		&lt;td colspan="2"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td colspan="4"&gt;switch to webview&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ScenarioLibrary.changeUserScenario"&gt;&amp;lt;EduAndroidAuto.ScenarioLibrary.changeUserScenario&lt;/a&gt; &lt;a href="EduAndroidAuto.ScenarioLibrary.changeUserScenario?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;changeUser&lt;/td&gt;
+		&lt;td&gt;username&lt;/td&gt;
+		&lt;td&gt;&lt;/td&gt;
+		&lt;td&gt;password&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;click on radio&lt;/td&gt;
+		&lt;td colspan="4"&gt;首页&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on imageview&lt;/td&gt;
+		&lt;td colspan="4"&gt;center_person_image&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="4"&gt;设置&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="4"&gt;退出登录&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="4"&gt;确定&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="4"&gt;点击登录&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td colspan="4"&gt;//*[@text='账号登录']&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;@username&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td colspan="2"&gt;edu_login_number&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;@password&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td colspan="2"&gt;edu_login_password&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor8"&gt;
+		&lt;td&gt;click on edittext&lt;/td&gt;
+		&lt;td colspan="4"&gt;edu_login_number&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor8"&gt;
+		&lt;td&gt;click on edittext&lt;/td&gt;
+		&lt;td colspan="4"&gt;edu_login_password&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;wnyzm&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td colspan="2"&gt;edu_login_picture_et&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td colspan="5"&gt;press back&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on button&lt;/td&gt;
+		&lt;td colspan="4"&gt;edu_login_button&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;5&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on imageview&lt;/td&gt;
+		&lt;td colspan="4"&gt;common_title_left&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;click on radio&lt;/td&gt;
+		&lt;td colspan="4"&gt;应用&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ScenarioLibrary.meizuPro7CameraScenario"&gt;&amp;lt;EduAndroidAuto.ScenarioLibrary.meizuPro7CameraScenario&lt;/a&gt; &lt;a href="EduAndroidAuto.ScenarioLibrary.meizuPro7CameraScenario?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td colspan="2"&gt;meizuPro7Camera&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;3&lt;/td&gt;
+		&lt;td&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td colspan="2"&gt;//*[@resource-id='com.meizu.media.camera:id/switch_camera_btn']&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;3&lt;/td&gt;
+		&lt;td&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td colspan="2"&gt;//*[@resource-id='com.meizu.media.camera:id/shutter_btn']&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;3&lt;/td&gt;
+		&lt;td&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td colspan="2"&gt;//*[@resource-id='com.meizu.media.camera:id/btn_done']&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;3&lt;/td&gt;
+		&lt;td&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ScenarioLibrary.changeUserOnlyScenario"&gt;&amp;lt;EduAndroidAuto.ScenarioLibrary.changeUserOnlyScenario&lt;/a&gt; &lt;a href="EduAndroidAuto.ScenarioLibrary.changeUserOnlyScenario?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;changeUserOnly&lt;/td&gt;
+		&lt;td&gt;username&lt;/td&gt;
+		&lt;td&gt;&lt;/td&gt;
+		&lt;td&gt;password&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;click on radio&lt;/td&gt;
+		&lt;td colspan="4"&gt;首页&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on imageview&lt;/td&gt;
+		&lt;td colspan="4"&gt;center_person_image&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="4"&gt;设置&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="4"&gt;退出登录&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="4"&gt;确定&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="4"&gt;点击登录&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td colspan="4"&gt;//*[@text='账号登录']&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;@username&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td colspan="2"&gt;edu_login_number&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;@password&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td colspan="2"&gt;edu_login_password&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor8"&gt;
+		&lt;td&gt;click on edittext&lt;/td&gt;
+		&lt;td colspan="4"&gt;edu_login_number&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor8"&gt;
+		&lt;td&gt;click on edittext&lt;/td&gt;
+		&lt;td colspan="4"&gt;edu_login_password&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;wnyzm&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td colspan="2"&gt;edu_login_picture_et&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td colspan="5"&gt;press back&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on button&lt;/td&gt;
+		&lt;td colspan="4"&gt;edu_login_button&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;5&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ScenarioLibrary.loginScenario"&gt;&amp;lt;EduAndroidAuto.ScenarioLibrary.loginScenario&lt;/a&gt; &lt;a href="EduAndroidAuto.ScenarioLibrary.loginScenario?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;校讯通账号从登录页登录&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;login_XXT&lt;/td&gt;
+		&lt;td&gt;username&lt;/td&gt;
+		&lt;td&gt;&lt;/td&gt;
+		&lt;td&gt;password&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td colspan="4"&gt;//*[@text='账号登录']&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;@username&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td colspan="2"&gt;edu_login_number&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;@password&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td colspan="2"&gt;edu_login_password&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor8"&gt;
+		&lt;td&gt;click on edittext&lt;/td&gt;
+		&lt;td colspan="4"&gt;edu_login_number&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor8"&gt;
+		&lt;td&gt;click on edittext&lt;/td&gt;
+		&lt;td colspan="4"&gt;edu_login_password&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;wnyzm&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td colspan="2"&gt;edu_login_picture_et&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td colspan="5"&gt;press back&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on button&lt;/td&gt;
+		&lt;td colspan="4"&gt;edu_login_button&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;5&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;互联网账号从登录页登录&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;login_HLW&lt;/td&gt;
+		&lt;td&gt;username&lt;/td&gt;
+		&lt;td&gt;&lt;/td&gt;
+		&lt;td&gt;password&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td colspan="4"&gt;//*[@text='账号登录']&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor8"&gt;
+		&lt;td&gt;click on edittext&lt;/td&gt;
+		&lt;td colspan="4"&gt;edu_login_number&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;@username&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td colspan="2"&gt;edu_login_number&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor8"&gt;
+		&lt;td&gt;click on edittext&lt;/td&gt;
+		&lt;td colspan="4"&gt;edu_login_password&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;@password&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td colspan="2"&gt;edu_login_password&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor8"&gt;
+		&lt;td&gt;click on edittext&lt;/td&gt;
+		&lt;td colspan="4"&gt;edu_login_picture_et&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;wnyzm&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td colspan="2"&gt;edu_login_picture_et&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td colspan="5"&gt;press back&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;click on button&lt;/td&gt;
+		&lt;td colspan="4"&gt;edu_login_button&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;5&lt;/td&gt;
+		&lt;td colspan="3"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.ScenarioLibrary.swipFindAppScenario"&gt;&amp;lt;EduAndroidAuto.ScenarioLibrary.swipFindAppScenario&lt;/a&gt; &lt;a href="EduAndroidAuto.ScenarioLibrary.swipFindAppScenario?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;swipFindApp&lt;/td&gt;
+		&lt;td colspan="2"&gt;appName&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;set swipe speed&lt;/td&gt;
+		&lt;td colspan="3"&gt;650&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;open app&lt;/td&gt;
+		&lt;td&gt;@appName&lt;/td&gt;
+		&lt;td&gt;in app center with bottom&lt;/td&gt;
+		&lt;td&gt;最新推荐&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="2"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="3"&gt;@appName&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="2"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Keywords scenario&lt;/p&gt;
+	&lt;div&gt;&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on button&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on button&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on imageview&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on imageview&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on view&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on view&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on grid&lt;/td&gt;
+		&lt;td&gt;grid&lt;/td&gt;
+		&lt;td&gt;on cell&lt;/td&gt;
+		&lt;td colspan="2"&gt;index&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on grid&lt;/td&gt;
+		&lt;td&gt;@grid&lt;/td&gt;
+		&lt;td&gt;on cell&lt;/td&gt;
+		&lt;td&gt;@index&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;open app in app center&lt;/td&gt;
+		&lt;td colspan="4"&gt;app&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;open app&lt;/td&gt;
+		&lt;td&gt;@app&lt;/td&gt;
+		&lt;td&gt;in app center with bottom&lt;/td&gt;
+		&lt;td&gt;最新推荐&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td colspan="2"&gt;switch to webview&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;check not&lt;/td&gt;
+		&lt;td&gt;switch to webview&lt;/td&gt;
+		&lt;td&gt;NATIVE_APP&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td colspan="2"&gt;switch to native&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;switch to native&lt;/td&gt;
+		&lt;td&gt;NATIVE_APP&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;clear edit Text&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;clear edit Text&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on edittext&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on edittext&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on radio&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on radio&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on tab&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;click on tab&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;implicitly wait&lt;/td&gt;
+		&lt;td&gt;millisec&lt;/td&gt;
+		&lt;td colspan="2"&gt;milliseconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;implicitly wait&lt;/td&gt;
+		&lt;td&gt;@millisec&lt;/td&gt;
+		&lt;td&gt;milliseconds&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;implicitly wait&lt;/td&gt;
+		&lt;td&gt;sec&lt;/td&gt;
+		&lt;td colspan="2"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;implicitly wait&lt;/td&gt;
+		&lt;td&gt;@sec&lt;/td&gt;
+		&lt;td&gt;seconds&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;set&lt;/td&gt;
+		&lt;td&gt;object&lt;/td&gt;
+		&lt;td colspan="2"&gt;to be Checked&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;set&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;to be Checked&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;set&lt;/td&gt;
+		&lt;td&gt;object&lt;/td&gt;
+		&lt;td colspan="2"&gt;to be Unchecked&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;set&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;to be Unchecked&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;content&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;type&lt;/td&gt;
+		&lt;td&gt;@content&lt;/td&gt;
+		&lt;td&gt;into&lt;/td&gt;
+		&lt;td&gt;@object&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;wait for element&lt;/td&gt;
+		&lt;td&gt;element&lt;/td&gt;
+		&lt;td colspan="2"&gt;Present&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;wait for element&lt;/td&gt;
+		&lt;td&gt;@element&lt;/td&gt;
+		&lt;td&gt;Present&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;wait for element&lt;/td&gt;
+		&lt;td&gt;element&lt;/td&gt;
+		&lt;td colspan="2"&gt;Enabled&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;wait for element&lt;/td&gt;
+		&lt;td&gt;@element&lt;/td&gt;
+		&lt;td&gt;Enabled&lt;/td&gt;
+		&lt;td&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="contents"&gt;
+	&lt;b&gt;Contents:&lt;/b&gt;
+	&lt;ul class="toc1"/&gt;&lt;ul class="toc1"/&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.SetUp"&gt;.EduAndroidAuto.SetUp&lt;/a&gt; &lt;a href="EduAndroidAuto.SetUp?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;h2&gt;import section&lt;/h2&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;import&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;&lt;span class="pass"&gt;com.qt.AppDriver&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;h2&gt;Setup App Driver&lt;/h2&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;script&lt;/td&gt;
+		&lt;td&gt;&lt;span class="pass"&gt;App Driver&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td colspan="4"&gt;script&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;set App With Device&lt;/td&gt;
+		&lt;td colspan="3"&gt;793QBDRJ2283V&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor9"&gt;
+		&lt;td&gt;set App With Udid&lt;/td&gt;
+		&lt;td colspan="3"&gt;793QBDRJ2283V&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor1"&gt;
+		&lt;td&gt;set App With PlatformName&lt;/td&gt;
+		&lt;td&gt;Android&lt;/td&gt;
+		&lt;td&gt;With Version&lt;/td&gt;
+		&lt;td&gt;7.0&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor3"&gt;
+		&lt;td&gt;set App With Package&lt;/td&gt;
+		&lt;td&gt;com.cmcc.andedu_phone&lt;/td&gt;
+		&lt;td&gt;With Activity&lt;/td&gt;
+		&lt;td&gt;com.cmcc.andedu_phone.activity.guide.SplashActivity&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td colspan="4"&gt;startApp&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="collapsible"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Summary, Goal and Test Steps.&lt;/p&gt;
+	&lt;div&gt;&lt;br/&gt;&lt;h3&gt;测试目的&lt;/h3&gt;
+&lt;br/&gt;该用例用于测试 查看首页某个推荐新闻&lt;br/&gt;&lt;h3&gt;测试步骤&lt;/h3&gt;
+&lt;br/&gt;1. 点击查看首页某个推荐新闻&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;期望结果&lt;/h3&gt;
+&lt;br/&gt;新闻跳转正常&lt;br/&gt;&lt;h3&gt;作者和日期&lt;/h3&gt;
+王杰  20180509&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td colspan="4"&gt;script&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="2"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="scenario closed"&gt;
+		&lt;td class="error"&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="3" class="error"&gt;main_news_marquee_text&lt;/td&gt;
+	&lt;/tr&gt;&lt;tr class="scenario-detail closed-detail"&gt;&lt;td colspan="4"&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;scenario&lt;/td&gt;
+		&lt;td&gt;click on textview&lt;/td&gt;
+		&lt;td colspan="2"&gt;object&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="exception closed"&gt;
+		&lt;td class="error"&gt;check&lt;/td&gt;
+		&lt;td class="error"&gt;click on textview&lt;/td&gt;
+		&lt;td class="error"&gt;main_news_marquee_text&lt;/td&gt;
+		&lt;td class="error"&gt;SUCCESS&lt;/td&gt;
+	&lt;/tr&gt;&lt;tr class="exception-detail closed-detail"&gt;&lt;td colspan="4"&gt;&lt;pre&gt;__EXCEPTION__:org.openqa.selenium.StaleElementReferenceException: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.isEnabled(UiObject2.java:305)
+	at io.appium.uiautomator2.model.UiObject2Element.getBoolAttribute(UiObject2Element.java:96)
+	at io.appium.uiautomator2.handler.GetElementAttribute.safeHandle(GetElementAttribute.java:40)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:56)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:202)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:193)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:761)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 73 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.154.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: ad387bc9-56a9-43a7-a6e1-99395e7b6687
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [rt.jar:1.8.0_65]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [rt.jar:1.8.0_65]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [rt.jar:1.8.0_65]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) [rt.jar:1.8.0_65]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204) [selenium-java-2.44.0.jar]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156) [selenium-java-2.44.0.jar]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599) [selenium-java-2.44.0.jar]
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81) [java-client-1.2.1.jar]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268) [selenium-java-2.44.0.jar]
+	at org.openqa.selenium.remote.RemoteWebElement.isEnabled(RemoteWebElement.java:142) [selenium-java-2.44.0.jar]
+	at com.qt.AppDriver.GUI.TextViewUIObject.clickOnTextViewByID(TextViewUIObject.java:39) [AutomationDriver.jar]
+	at com.qt.AppDriver.Library.NavigationLibrary.clickOnTextView(NavigationLibrary.java:255) [AutomationDriver.jar]
+	at com.qt.AppDriver.AppDriver.clickOnTextview(AppDriver.java:312) [AutomationDriver.jar]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) [rt.jar:1.8.0_65]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) [rt.jar:1.8.0_65]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) [rt.jar:1.8.0_65]
+	at java.lang.reflect.Method.invoke(Method.java:497) [rt.jar:1.8.0_65]
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:147) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:132) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:114) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:92) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:130) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:103) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.SlimService.handle(SlimService.java:168) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:176) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.SlimService.accept(SlimService.java:138) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:91) [fitnesse-standalone.jar:20161106]
+	at fitnesse.slim.SlimService.main(SlimService.java:56) [fitnesse-standalone.jar:20161106]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr class="slimRowColor7"&gt;
+		&lt;td&gt;wait&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td colspan="2"&gt;seconds&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor0"&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;get text of&lt;/td&gt;
+		&lt;td&gt;input_comment&lt;/td&gt;
+		&lt;td&gt;[&lt;span class="diff"&gt;Element [input_comment] was NOT FOUND&lt;/span&gt;] &lt;span class="fail"&gt;expected [&lt;/span&gt;&lt;span class="diff"&gt;留下你的评论哦...&lt;/span&gt;&lt;span class="fail"&gt;]&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;div class="collapsible closed teardown"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="EduAndroidAuto.TearDown"&gt;.EduAndroidAuto.TearDown&lt;/a&gt; &lt;a href="EduAndroidAuto.TearDown?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr class="slimRowTitle"&gt;
+		&lt;td&gt;script&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr class="slimRowColor5"&gt;
+		&lt;td&gt;close App&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <relativePageName>2-1RecommendNews</relativePageName>
+            <instructions>
+            <instructionResult>
+        <instruction>{id='import_32_0', instruction='import', path='com.qt.AppDriver'}</instruction>
+        <slimResult>pass(com.qt.AppDriver)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>import_32_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ImportExpectation</type>
+                                        <evaluationMessage>com.qt.AppDriver</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_33_0', instruction='make', instanceName='scriptTableActor', className='AppDriver', args=[]}</instruction>
+        <slimResult>pass(App Driver)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>scriptTable_33_0</instructionId>
+                    <col>1</col>
+                              <row>0</row>
+                    <type>ConstructionExpectation</type>
+                                        <evaluationMessage>App Driver</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_34_0', instruction='call', instanceName='scriptTableActor', methodName='setAppWithDevice', args=[793QBDRJ2283V]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_34_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_34_1', instruction='call', instanceName='scriptTableActor', methodName='setAppWithUdid', args=[793QBDRJ2283V]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_34_1</instructionId>
+                    <col>0</col>
+                              <row>2</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_34_2', instruction='call', instanceName='scriptTableActor', methodName='setAppWithPlatformNameWithVersion', args=[Android, 7.0]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_34_2</instructionId>
+                    <col>0</col>
+                              <row>3</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_34_3', instruction='call', instanceName='scriptTableActor', methodName='setAppWithPackageWithActivity', args=[com.cmcc.andedu_phone, com.cmcc.andedu_phone.activity.guide.SplashActivity]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_34_3</instructionId>
+                    <col>0</col>
+                              <row>4</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_34_4', instruction='call', instanceName='scriptTableActor', methodName='startApp', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_34_4</instructionId>
+                    <col>0</col>
+                              <row>5</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_35_0', instruction='call', instanceName='scriptTableActor', methodName='waitSeconds', args=[2]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_35_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_35_1/scriptTable_14_0', instruction='call', instanceName='scriptTableActor', methodName='clickOnTextview', args=[main_news_marquee_text]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_35_1/scriptTable_14_0</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_35_2', instruction='call', instanceName='scriptTableActor', methodName='waitSeconds', args=[2]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_35_2</instructionId>
+                    <col>0</col>
+                              <row>3</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_35_3', instruction='call', instanceName='scriptTableActor', methodName='getTextOf', args=[input_comment]}</instruction>
+        <slimResult>fail(a=Element [input_comment] was NOT FOUND;e=留下你的评论哦...)</slimResult>
+                <expectation>
+                    <status>fail</status>
+                    <instructionId>scriptTable_35_3</instructionId>
+                    <col>3</col>
+                              <row>4</row>
+                    <type>ReturnedValueExpectation</type>
+                    <actual>Element [input_comment] was NOT FOUND</actual>
+                              <expected>留下你的评论哦...</expected>
+                            </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_36_0', instruction='call', instanceName='scriptTableActor', methodName='closeApp', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>scriptTable_36_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ScriptActionExpectation</type>
+                                      </expectation>
+              </instructionResult>
+          </instructions>
+      </result>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"D:\Program Files\Java\jdk1.8.0_65\bin\java" -cp D:\Automation\AndEduAndroid\lib\fitnesse-standalone.jar;D:/Automation/AndEduAndroid/lib/java-client-1.2.1.jar;D:/Automation/AndEduAndroid/lib/junit-4.10.jar;D:/Automation/AndEduAndroid/lib/selenium-java-2.44.0.jar;D:/Automation/AndEduAndroid/lib/selenium-server-standalone-2.44.0.jar;D:/Automation/AndEduAndroid/lib/AutomationDriver.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut>=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Wait 2 Seconds]
+[Click On Textview] --&gt; main_news_marquee_text
+[Assert Element Exists] By Label --&gt; main_news_marquee_text
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 31.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.154.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: ad387bc9-56a9-43a7-a6e1-99395e7b6687
+[Assert Element Exists] By ID --&gt; main_news_marquee_text
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 2 Seconds]
+[Get Text Of] --&gt; input_comment
+[Assert Element Exists] By ID --&gt; input_comment
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.53 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.154.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, recreateChromeDriverSessions=True, noReset=true, deviceName=793QBDRJ2283V, platform=ANY, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, resetKeyboard=true}]
+Session ID: ad387bc9-56a9-43a7-a6e1-99395e7b6687
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+</stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>1</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>95490</totalRunTimeInMillis>
+</testResults>
+

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<testConfig>
+
+	<!-- Fitnesse Server Name/IP -->
+  <TestServer>
+		http://localhost
+  </TestServer>
+  
+  <!-- Fitnesse Server Port -->
+  <ServerPort>
+		9500
+  </ServerPort>
+
+	<!-- Define full pathname of test result -->
+  <ResultPath>
+		D:/Automation/AndEduAndroid/FitRunner/TestResult
+  </ResultPath>
+  
+  <Aut>http://edu.10086.cn/</Aut>
+  <!-- Executed Before Tests -->
+  <SetupTest suite="EduAndroidAuto.BeforeTest" name="BeforeTest" run="false"></SetupTest>
+  
+  <!-- Executed After Tests -->
+  <TearDownTest suite="EduAndroidAuto.AfterTest" name="AfterTest" run="false"></TearDownTest>
+
+
+  
+
+
+	
+  <!-- Suite:6EduNews -->
+  	<Test suite="EduAndroidAuto.TestSuite.6EduNews" name="6-1News_open_comment"></Test>
+	
+
+
+	
+	<!-- Suite:3Interaction -->
+	<Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-00JiaXiaoHD_hlwEnter"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.1Login" name="1-6Logout"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.1Login" name="1-8Login_xxt"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.3Interaction" name="3-26ClassSchedule_open"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.1Login" name="1-6Logout"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.1Login" name="1-7Login_hlw"></Test>
+	
+	<!-- Suite:5AppCenter -->
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-6ChengZhangBS"></Test>
+	<!--以下两用例互联网切换至校讯通账号-->
+	<Test suite="EduAndroidAuto.TestSuite.1Login" name="1-6Logout"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.1Login" name="1-8Login_xxt"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-7HuaTengTongBuKT"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.5AppCenter" name="5-8YouJiaCZT"></Test>
+	
+
+	<!-- 切换互联网账号密码，放在最后
+	<Test suite="EduAndroidAuto.TestSuite.1Login" name="1-6Logout"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.1Login" name="1-7Login_hlw"></Test>
+	<Test suite="EduAndroidAuto.TestSuite.7Personal" name="7-MyPassword_change"></Test>-->
+    <!-- Suite:1Login -->
+	<!-- <Test suite="EduAndroidAuto.TestSuite.1Login" name="1-4LoginLogout_xxt"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.1Login" name="1-5LoginLogout_hlw"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.1Login" name="1-1QQLogin"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.1Login" name="1-2WeiXinLogin"></Test>
+    <Test suite="EduAndroidAuto.TestSuite.1Login" name="1-3WeiBoLogin"></Test>-->
+  
+	<!-- Mail Configure -->
+	<MailConfig sendprotocol="smtp" smtphost="smtp.qq.com" smtpport="465" auth="true" passcode="hlafbzcwyniabcfj" send="true">和教育Android自动化巡检报告</MailConfig>
+	<From name="Jenkins">2011779015@qq.com</From>
+	<To>
+		wangjie_qt@chinamobile.com
+	</To>
+	<Cc>
+		wangjie_qt@chinamobile.com
+	</Cc>
+	<Bcc></Bcc>
+
+</testConfig>

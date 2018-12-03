@@ -1,0 +1,42 @@
+---
+Help: 个人相册-上传照片
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 个人相册-创建
+!3 测试步骤
+
+1.进入个人空间
+2.点击相册
+3.拍照上传
+
+!3 期望结果
+
+照片上传成功
+
+!3 作者和日期
+王杰  20180621
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='个人空间']|
+|wait|3|seconds|
+|click on |//*[@text='相册']|
+|wait|3|seconds|
+|$beforeUploadCount= |get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/album_count'])[1]|
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/album_cover'])[1]|
+|wait|3|seconds|
+|click on imageview|common_title_right       |
+|wait|3|seconds|
+|click on |//*[@text='拍照']|
+|meizuPro7Camera|
+|click on imageview|common_title_left      |
+|wait|3|seconds|
+|check not|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/album_count'])[1]|$beforeUploadCount|

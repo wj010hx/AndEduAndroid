@@ -1,0 +1,80 @@
+---
+Help: 关键字及业务封装
+---
+!include -c <EduAndroidAuto.ElementLibrary
+!include -c <EduAndroidAuto.ScenarioLibrary.EnterAppCenterScenario
+!include -c <EduAndroidAuto.ScenarioLibrary.ReturnThreeTimesScenario
+!include -c <EduAndroidAuto.ScenarioLibrary.AppBaoYueCheckScenario
+!include -c <EduAndroidAuto.ScenarioLibrary.AppDianboCheckScenario
+!include -c <EduAndroidAuto.ScenarioLibrary.swipFindAppAndTryScenario
+!include -c <EduAndroidAuto.ScenarioLibrary.swipFindAppAndUseScenario
+!include -c <EduAndroidAuto.ScenarioLibrary.changeUserScenario
+!include -c <EduAndroidAuto.ScenarioLibrary.meizuPro7CameraScenario
+!include -c <EduAndroidAuto.ScenarioLibrary.changeUserOnlyScenario
+!include -c <EduAndroidAuto.ScenarioLibrary.loginScenario
+!include -c <EduAndroidAuto.ScenarioLibrary.swipFindAppScenario
+!**> Keywords scenario
+
+!|scenario|click on |object         |
+|check    |click on|@object|SUCCESS|
+
+!|scenario|click on button|object         |
+|check    |click on button|@object|SUCCESS|
+
+!|scenario|click on textview|object         |
+|check    |click on textview|@object|SUCCESS|
+
+!|scenario|click on imageview|object         |
+|check    |click on imageview|@object|SUCCESS|
+
+!|scenario|click on view|object         |
+|check    |click on view|@object|SUCCESS|
+
+!|scenario|click on grid|grid |on cell|index         |
+|check    |click on grid|@grid|on cell|@index|SUCCESS|
+
+!|scenario|open app in app center|app                                      |
+|check    |open app              |@app|in app center with bottom|最新推荐|SUCCESS|
+
+!|scenario|switch to webview           |
+|check not|switch to webview|NATIVE_APP|
+
+!|scenario|switch to native           |
+|check    |switch to native|NATIVE_APP|
+
+#
+!|scenario|clear edit Text|object         |
+|check    |clear edit Text|@object|SUCCESS|
+
+!|scenario|click on edittext|object         |
+|check    |click on edittext|@object|SUCCESS|
+
+!|scenario|click on radio|object         |
+|check    |click on radio|@object|SUCCESS|
+
+!|scenario|click on tab|object         |
+|check    |click on tab|@object|SUCCESS|
+
+!|scenario|implicitly wait|millisec |milliseconds        |
+|check    |implicitly wait|@millisec|milliseconds|SUCCESS|
+
+!|scenario|implicitly wait |sec |seconds        |
+|check    |implicitly wait|@sec|seconds|SUCCESS|
+
+!|scenario|set |object |to be Checked        |
+|check    |set|@object|to be Checked|SUCCESS|
+
+!|scenario|set |object |to be Unchecked        |
+|check    |set|@object|to be Unchecked|SUCCESS|
+
+!|scenario|type |content |into|object|
+|check    |type|@content|into|@object|SUCCESS|
+
+!|scenario|wait for element|element |Present        |
+|check    |wait for element|@element|Present|SUCCESS|
+
+!|scenario|wait for element|element |Enabled        |
+|check    |wait for element|@element|Enabled|SUCCESS|
+**!
+
+!contents -h

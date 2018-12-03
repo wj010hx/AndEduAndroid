@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>EduAndroidAuto.TestSuite.7Personal</rootPath>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.7Personal.7-10MyGiftcard_open_activity</name>
+    <date>2018-09-06T21:29:17+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.7Personal.7-10MyGiftcard_open_activity?pageHistory&amp;resultDate=20180906212917</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>27094</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"D:\Program Files\Java\jdk1.8.0_65\bin\java" -cp D:\Automation\AndEduAndroid\lib\fitnesse-standalone.jar;D:/Automation/AndEduAndroid/lib/java-client-1.2.1.jar;D:/Automation/AndEduAndroid/lib/junit-4.10.jar;D:/Automation/AndEduAndroid/lib/selenium-java-2.44.0.jar;D:/Automation/AndEduAndroid/lib/selenium-server-standalone-2.44.0.jar;D:/Automation/AndEduAndroid/lib/AutomationDriver.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>1</exitCode>
+    <stdOut>[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='�ҵ���Ʒ��']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='�ҵ���Ʒ��']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='��Ʒ��˵��']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��Ʒ��˵��']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] enabled --&gt; (//*[@class='android.view.View'])[1]
+[Text Is Part Of] TRUE &lt;-- TRUE
+[Text Is Part Of] Contain!
+[Click On Textview] --&gt; ����
+AssertUIObjectExistsByLabel --&gt; ����
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/send']
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='���˿ռ�']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='���˿ռ�']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='˵˵']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='˵˵']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/tv_dynamic_content'])[1]
+</stdOut>
+    <stdErr></stdErr>
+    <exception>Could not send/receive data with SUT</exception>
+    <exception>fitnesse.testsystems.slim.SlimCommunicationException: Could not send/receive data with SUT</exception>
+  </executionLog>
+  <finalCounts>
+    <right>1</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>1</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>77437</totalRunTimeInMillis>
+</suiteResults>
+

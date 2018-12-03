@@ -1,0 +1,33 @@
+---
+Help: 我的网盘-打开
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 打开个人网盘
+!3 测试步骤
+
+1.进入个人空间
+3.点击网盘
+
+!3 期望结果
+
+个人网盘列表正确显示
+
+!3 作者和日期
+王杰  20180621
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='个人空间']|
+|wait|3|seconds|
+|click on |//*[@text='网盘']|
+|wait|3|seconds|
+|$content=|get attr|text   |by xpath|//*[@resource-id='com.cmcc.andedu_phone:id/cloud_time']|
+|wait|3|seconds|
+|check|text|201|is part of|$content|true|

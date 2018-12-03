@@ -1,0 +1,4 @@
+---
+Help: 关闭当前窗口
+---
+|close current window|

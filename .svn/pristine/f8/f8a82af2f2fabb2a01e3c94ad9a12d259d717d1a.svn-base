@@ -1,0 +1,72 @@
+---
+Help: 我的说说-发表(带图片)、删除、评论、点赞
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 我的说说-发表(带图片)、删除、评论、点赞
+!3 测试步骤
+
+1.进入个人中心
+2.进入个人空间
+3.点击说说
+4.发表带图片的说说
+5.评论、点赞
+5.删除该条说说
+!3 期望结果
+
+4.图片说说发表成功
+5.说说删除成功
+
+!3 作者和日期
+王杰  20180621
+
+**!
+**发表说说**
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='个人空间']|
+|wait|3|seconds|
+|click on |//*[@text='说说']|
+|wait|3|seconds|
+|check not|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/tv_dynamic_content'])[1]|AT今天心情真美丽啊|
+|click on textview |写说说|
+|wait|3|seconds|
+|click on edittext|edittext|
+|wait|3|seconds|
+|type  |AT今天心情真美丽啊|into|edittext|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/iv_icon']   |
+|wait|3|seconds|
+|click on |//*[@text='拍照']|
+|meizuPro7Camera|
+|click on imageview|common_title_right      |
+|wait|4|seconds|
+|check|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/tv_dynamic_content'])[1]|AT今天心情真美丽啊|
+
+**评论，点赞说说**
+!|script|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/iv_zan'])[1]|
+|wait|3|seconds|
+|click on |(//*[@class='android.widget.TextView'])[7]|
+|wait|3|seconds|
+|type  |自动化测试评论|into|editText_send|
+|wait|3|seconds|
+|click on textview |发送|
+|wait|3|seconds|
+|check|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/tv_commentcontent'])[1]|自动化测试评论|
+|wait|3|seconds|
+|check|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/tv_zan_num'])[1]|1|
+
+
+**删除说说**
+!|script|
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/iv_delete'])[1]|
+|wait|3|seconds|
+|click on textview |确认|
+|wait|3|seconds|
+|check not|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/tv_dynamic_content'])[1]|AT今天心情真美丽啊|

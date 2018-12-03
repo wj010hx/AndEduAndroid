@@ -1,0 +1,41 @@
+---
+Help: 同步微课-评论
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 打开资源-同步微课
+
+!3 测试步骤
+
+1. 打开资源-同步微课
+2.点击某个资源
+3.发送资源评论
+
+
+
+!3 期望结果
+
+评论成功
+
+!3 作者和日期
+王杰  20180613
+
+**!
+
+!|script|
+|click on radio|资源    |
+|wait|10|seconds|
+|click on |//*[@text='同步微课']    |
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/tv_name'])[1]    |
+|wait|4|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/detail_et']    |
+|type  |老师讲得真好！|into|detail_et|
+|wait|3|seconds|
+|click on |//*[@text='发送']    |
+|wait|3|seconds|
+|check|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/tv_content'])[1]|老师讲得真好！|
+

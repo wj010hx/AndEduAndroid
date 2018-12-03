@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>EduAndroidAuto.TestSuite.6EduNews</rootPath>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.6EduNews.6-1News_open_comment</name>
+    <date>2018-10-30T10:21:16+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.6EduNews.6-1News_open_comment?pageHistory&amp;resultDate=20181030102116</pageHistoryLink>
+    <counts>
+      <right>8</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>58659</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"D:\Program Files\Java\jdk1.8.0_65\bin\java" -cp D:\Automation\AndEduAndroid\lib\fitnesse-standalone.jar;D:/Automation/AndEduAndroid/lib/java-client-1.2.1.jar;D:/Automation/AndEduAndroid/lib/junit-4.10.jar;D:/Automation/AndEduAndroid/lib/selenium-java-2.44.0.jar;D:/Automation/AndEduAndroid/lib/selenium-server-standalone-2.44.0.jar;D:/Automation/AndEduAndroid/lib/AutomationDriver.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut>=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 30s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Radio] --&gt; ��Ѷ
+[Assert Element Exists] By Label --&gt; ��Ѷ
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Assert Enable] AssertUIObjectEnabledByLabel --&gt; ��Ѷ
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='�Ƽ�']
+[Assert Element Exists] By XPATH --&gt; //*[@text='�Ƽ�']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/news_title'])[5]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/news_title'])[5]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Get Attr By Xpath] text --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/news_comment_count']
+[Wait 2 Seconds]
+[Click On Edittext] --&gt; input_comment
+[Assert Element Exists] By ID --&gt; input_comment
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] ����ʱ���Ѿ����٣��� --&gt; input_comment
+[Assert Element Exists] By ID --&gt; input_comment
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/tv_send_comment']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/tv_send_comment']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; (//*[@class='android.view.View'])[2]
+[Assert Element Exists] By XPATH --&gt; (//*[@class='android.view.View'])[2]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Get Attr By Xpath] text --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/news_comment_count']
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+</stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>1</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>59459</totalRunTimeInMillis>
+</suiteResults>
+

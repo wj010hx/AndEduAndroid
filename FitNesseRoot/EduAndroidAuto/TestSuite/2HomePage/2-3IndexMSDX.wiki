@@ -1,0 +1,38 @@
+---
+Help: 首页名师导学
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 打开首页-名师导学
+
+!3 测试步骤
+
+1. 打开首页-资源推荐-名师导学
+2. 点击继续学习
+
+
+
+!3 期望结果
+
+正确跳转至名师导学首页(详细功能、订购在应用中心实现)
+
+!3 作者和日期
+王杰  20180509
+
+**!
+
+!|script|
+|click on textview|名师导学      |
+|wait|4|seconds|
+|click on textview|关闭      |
+|wait|1|seconds|
+|click on textview|确定      |
+|wait|1|seconds|
+|click on textview|名师导学      |
+|wait|3|seconds|
+|switch to webview|
+|wait|2|seconds|
+|check|get text of |${MSDX_openNewChannel}|开启新频道|

@@ -1,0 +1,7 @@
+---
+Help: 验证包月统一支付页面
+Test
+---
+''调用统一支付页面包月订购流程验证的Scenario''
+!|script|
+|BaoyueCheck|

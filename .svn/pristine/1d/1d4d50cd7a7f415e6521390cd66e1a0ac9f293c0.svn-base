@@ -1,0 +1,61 @@
+---
+Help: 互动作文-免费试用、内部包月、点播
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-互动作文免费试用、内部包月/点播
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证互动作文免费试用、内部包月/点播功能正常
+
+!3 作者和日期
+王杰  20180320
+
+**!
+
+内部包月
+!|script|
+|set swipe speed|800       |
+|open app|互动作文|in app center with bottom|最新推荐|
+|click on textview|免费试用   |
+|wait|20|seconds|
+|click on textview|关闭   |
+|wait|1|seconds|
+|click on textview|确定   |
+|wait|1|seconds|
+|click on textview|免费试用   |
+|wait|10|seconds|
+|switch to webview|
+|wait for element|${HDZW作家讲堂}|Enabled|
+|click on|${HDZW作家讲堂}|
+|wait|3|seconds|
+|wait for element|${HDZW阅读改变人生}|Enabled|
+|click on|${HDZW阅读改变人生}|
+|wait|3|seconds|
+|wait for element|${全课通去支付}|Enabled|
+|click on|${全课通去支付}|
+|AppBaoYueCheck|
+
+内部点播
+!|script|
+|ReturnThreeTimes|
+|wait for element|${HDZW阅读改变人生}|Enabled|
+|click on|${HDZW阅读改变人生}|
+|wait|3|seconds|
+|wait for element|${全课通点播}|Enabled|
+|click on|${全课通点播}|
+|wait|3|seconds|
+|wait for element|${全课通去支付}|Enabled|
+|click on|${全课通去支付}|
+|AppDianBoCheck|

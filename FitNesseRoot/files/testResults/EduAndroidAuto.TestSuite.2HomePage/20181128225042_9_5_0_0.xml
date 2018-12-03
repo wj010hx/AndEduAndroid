@@ -1,0 +1,2207 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>EduAndroidAuto.TestSuite.2HomePage</rootPath>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-11ZiYuanZT_more</name>
+    <date>2018-11-28T22:50:42+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-11ZiYuanZT_more?pageHistory&amp;resultDate=20181128225042</pageHistoryLink>
+    <counts>
+      <right>3</right>
+      <wrong>1</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>45817</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-12ZhiBo_more</name>
+    <date>2018-11-28T22:51:27+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-12ZhiBo_more?pageHistory&amp;resultDate=20181128225127</pageHistoryLink>
+    <counts>
+      <right>3</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>48012</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-13AppRecom_open</name>
+    <date>2018-11-28T22:52:15+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-13AppRecom_open?pageHistory&amp;resultDate=20181128225215</pageHistoryLink>
+    <counts>
+      <right>1</right>
+      <wrong>1</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>57005</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-14SearchSmart</name>
+    <date>2018-11-28T22:53:13+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-14SearchSmart?pageHistory&amp;resultDate=20181128225313</pageHistoryLink>
+    <counts>
+      <right>3</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>30652</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-15SearchResult</name>
+    <date>2018-11-28T22:53:43+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-15SearchResult?pageHistory&amp;resultDate=20181128225343</pageHistoryLink>
+    <counts>
+      <right>4</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>35233</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-17ZiYuanZT_smartRecommend</name>
+    <date>2018-11-28T22:54:18+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-17ZiYuanZT_smartRecommend?pageHistory&amp;resultDate=20181128225418</pageHistoryLink>
+    <counts>
+      <right>0</right>
+      <wrong>1</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>50568</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-19MyGroup_create_delete</name>
+    <date>2018-11-28T22:55:09+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-19MyGroup_create_delete?pageHistory&amp;resultDate=20181128225509</pageHistoryLink>
+    <counts>
+      <right>16</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>91529</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-1RecommendNews</name>
+    <date>2018-11-28T22:56:41+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-1RecommendNews?pageHistory&amp;resultDate=20181128225641</pageHistoryLink>
+    <counts>
+      <right>1</right>
+      <wrong>1</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>55127</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-22LiveApp_BaoYue</name>
+    <date>2018-11-28T22:57:36+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-22LiveApp_BaoYue?pageHistory&amp;resultDate=20181128225736</pageHistoryLink>
+    <counts>
+      <right>12</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>96975</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-23LiveApp_DianBo</name>
+    <date>2018-11-28T22:59:13+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-23LiveApp_DianBo?pageHistory&amp;resultDate=20181128225913</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>6</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>537904</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-2IndexMXZY</name>
+    <date>2018-11-28T23:08:11+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-2IndexMXZY?pageHistory&amp;resultDate=20181128230811</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>56732</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-3IndexMSDX</name>
+    <date>2018-11-28T23:09:07+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-3IndexMSDX?pageHistory&amp;resultDate=20181128230907</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>44902</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-4IndexKDJJ</name>
+    <date>2018-11-28T23:09:52+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-4IndexKDJJ?pageHistory&amp;resultDate=20181128230952</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>44370</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-5IndexMSYK</name>
+    <date>2018-11-28T23:10:37+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-5IndexMSYK?pageHistory&amp;resultDate=20181128231037</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>44175</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"D:\Program Files\Java\jdk1.8.0_65\bin\java" -cp D:\Automation\AndEduAndroid\lib\fitnesse-standalone.jar;D:/Automation/AndEduAndroid/lib/java-client-1.2.1.jar;D:/Automation/AndEduAndroid/lib/junit-4.10.jar;D:/Automation/AndEduAndroid/lib/selenium-java-2.44.0.jar;D:/Automation/AndEduAndroid/lib/selenium-server-standalone-2.44.0.jar;D:/Automation/AndEduAndroid/lib/AutomationDriver.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut>=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 192.168.132.101:5555
+[Params] UDID = 192.168.132.101:5555
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Exception: io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: The element '9ec3c39e-725f-4414-85f4-3235bc303667' does not exist in DOM anymore
+	at io.appium.uiautomator2.model.KnownElements.getElementFromCache(KnownElements.java:85)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:27)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 817 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: b8250af3-e0b5-4242-bf56-5ae63b3e2765
+[Screenshot Range] Set default range to full screen.
+[Click On Radio] --&gt; ��ҳ
+[Assert Element Exists] By Label --&gt; ��ҳ
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ��ҳ
+[Click On] Waiting 1s for response.
+[Thread-1] Start to click.
+[Thread-1] Clicked!
+[Click On] Done!
+[Swipe Pixel From Center To Up]
+[Swipe From Center To Up With Offset]
+[Wait 3 Seconds]
+[Swipe Pixel From Center To Up]
+[Swipe From Center To Up With Offset]
+[Wait 3 Seconds]
+[Swipe Pixel From Center To Up]
+[Swipe From Center To Up With Offset]
+[Wait 3 Seconds]
+[Click On Textview] --&gt; ����
+[Assert Element Exists] By Label --&gt; ����
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ����
+[Click On] Waiting 1s for response.
+[Thread-2] Start to click.
+[Thread-2] Clicked!
+[Click On] Done!
+[Wait 5 Seconds]
+[Switch To Webview]
+[Set Webview --&gt; WEBVIEW_com.cmcc.andedu_phone ]
+[Get Text Of] --&gt; (//li[@class='resourcesList'])[1]//span
+[Assert Element Exists] By XPATH --&gt; (//li[@class='resourcesList'])[1]//span
+no such element: Unable to locate element: {"method":"xpath","selector":"(//li[@class='resourcesList'])[1]//span"}
+  (Session info: chrome=44.0.2403.119)
+  (Driver info: chromedriver=2.18.343845 (73dd713ba7fbfb73cbb514e62641d8c96a94682a),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 360 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: b8250af3-e0b5-4242-bf56-5ae63b3e2765
+[Text Is Part Of] �� &lt;-- Element [(//li[@class='resourcesList'])[1]//span] was NOT FOUND
+[Text Is Part Of] Not Contain!
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 192.168.132.101:5555
+[Params] UDID = 192.168.132.101:5555
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Exception: io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: The element 'b304fa0e-da68-4fd6-b5c6-4612fe2ae53f' does not exist in DOM anymore
+	at io.appium.uiautomator2.model.KnownElements.getElementFromCache(KnownElements.java:85)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:27)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.23 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 7dcfe425-6a04-4153-aa94-5605e0c341cc
+[Screenshot Range] Set default range to full screen.
+[Wait 8 Seconds]
+[Swipe Pixel From Center To Up]
+[Swipe From Center To Up With Offset]
+[Wait 2 Seconds]
+[Click On Textview] --&gt; ����
+[Assert Element Exists] By Label --&gt; ����
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ����
+[Click On] Waiting 1s for response.
+[Thread-3] Start to click.
+[Thread-3] Clicked!
+[Click On] Done!
+[Wait 8 Seconds]
+[Switch To Webview]
+[Set Webview --&gt; WEBVIEW_com.cmcc.andedu_phone ]
+[Wait 3 Seconds]
+Waiting for [(//div[@class='lateral'])[1]//span] is Visiable
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 192.168.132.101:5555
+[Params] UDID = 192.168.132.101:5555
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Exception: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:163)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 48 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 1bd1c919-3984-42f0-820a-57e5b5243da9
+[Screenshot Range] Set default range to full screen.
+[Wait 8 Seconds]
+[Swipe Up]
+[Swipe to UP]
+[Wait 2 Seconds]
+[Swipe Up]
+[Swipe to UP]
+[Wait 2 Seconds]
+[Click On Button] --&gt; recommend_app_logo
+[Assert Element Exists] By ID --&gt; recommend_app_logo
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.50 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 1bd1c919-3984-42f0-820a-57e5b5243da9
+[Assert Element Exists] By Label --&gt; recommend_app_logo
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 1bd1c919-3984-42f0-820a-57e5b5243da9
+getCurrentDateStamp��[2018-11-28]
+getCurrentDateTimeWithoutFormat��[20181128225310]
+[Get Screenshot To File] D:\2018-11-28\.\ERR_20181128225310_clickOnButton=recommendapplogo.png]
+[ERROR] ScreenShot --&gt; D:\2018-11-28\.\ERR_20181128225310_clickOnButton=recommendapplogo.png
+[Wait Seconds] Step was skipped!
+[Get Text Length] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/tv_desc']
+[Get Text Length] &lt;-- Length is 52.
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 192.168.132.101:5555
+[Params] UDID = 192.168.132.101:5555
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Exception: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:163)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.96 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 71607f51-4187-4b8f-b37d-7dbce5c03689
+[Screenshot Range] Set default range to full screen.
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/main_search']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/main_search']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/main_search']
+[Click On] Waiting 1s for response.
+[Thread-4] Start to click.
+[Thread-4] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Type Into] ���μ� --&gt; main_search
+[Assert Element Exists] By ID --&gt; main_search
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 3 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/tv_smartsearch'])[1]
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 192.168.132.101:5555
+[Params] UDID = 192.168.132.101:5555
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 96)
+[Size](1440, 2464)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,96)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2464
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/main_search']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/main_search']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/main_search']
+[Click On] Waiting 1s for response.
+[Thread-5] Start to click.
+[Thread-5] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Type Into] ���μ� --&gt; main_search
+[Assert Element Exists] By ID --&gt; main_search
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On Textview] --&gt; ����
+[Assert Element Exists] By Label --&gt; ����
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ����
+[Click On] Waiting 1s for response.
+[Thread-6] Start to click.
+[Thread-6] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/doc_title'])[1]
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 192.168.132.101:5555
+[Params] UDID = 192.168.132.101:5555
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 96)
+[Size](1440, 2464)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,96)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2464
+[Wait 5 Seconds]
+[Swipe Pixel From Center To Up]
+[Swipe From Center To Up With Offset]
+[Wait 3 Seconds]
+[Swipe Pixel From Center To Up]
+[Swipe From Center To Up With Offset]
+[Wait 3 Seconds]
+[Swipe Pixel From Center To Up]
+[Swipe From Center To Up With Offset]
+[Wait 3 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/main_resource_title'])[1]
+[Wait 3 Seconds]
+[Text Is Part Of] ���� &lt;-- ELEMENT [(//*[@RESOURCE-ID='COM.CMCC.ANDEDU_PHONE:ID/MAIN_RESOURCE_TITLE'])[1]] WAS NOT FOUND
+[Text Is Part Of] Not Contain!
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 192.168.132.101:5555
+[Params] UDID = 192.168.132.101:5555
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2560)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2560
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/main_message']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/main_message']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/main_message']
+[Click On] Waiting 1s for response.
+[Thread-7] Start to click.
+[Thread-7] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Click On] Waiting 1s for response.
+[Thread-8] Start to click.
+[Thread-8] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Click On Textview] --&gt; ����Ⱥ��
+[Assert Element Exists] By Label --&gt; ����Ⱥ��
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ����Ⱥ��
+[Click On] Waiting 1s for response.
+[Thread-9] Start to click.
+[Thread-9] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Click On Edittext] --&gt; group_edit
+[Assert Element Exists] By ID --&gt; group_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Click On] Locator --&gt; group_edit
+[Click On] Waiting 1s for response.
+[Thread-10] Start to click.
+[Thread-10] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Type Into] �Զ�������Ⱥ�� --&gt; group_edit
+[Assert Element Exists] By ID --&gt; group_edit
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/create_btn']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/create_btn']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/create_btn']
+[Click On] Waiting 1s for response.
+[Thread-11] Start to click.
+[Thread-11] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Click On Textview] --&gt; ȷ��
+[Assert Element Exists] By Label --&gt; ȷ��
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ȷ��
+[Click On] Waiting 1s for response.
+[Thread-12] Start to click.
+[Thread-12] Clicked!
+[Click On] Done!
+[Wait 5 Seconds]
+[Click On Textview] --&gt; ɨһɨ
+[Assert Element Exists] By Label --&gt; ɨһɨ
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ɨһɨ
+[Click On] Waiting 1s for response.
+[Thread-13] Start to click.
+[Thread-13] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_left']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_left']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_left']
+[Click On] Waiting 1s for response.
+[Thread-14] Start to click.
+[Thread-14] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Click On Textview] --&gt; ����
+[Assert Element Exists] By Label --&gt; ����
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ����
+[Click On] Waiting 1s for response.
+[Thread-15] Start to click.
+[Thread-15] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Click On Textview] --&gt; �ҵ�Ⱥ��
+[Assert Element Exists] By Label --&gt; �ҵ�Ⱥ��
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; �ҵ�Ⱥ��
+[Click On] Waiting 1s for response.
+[Thread-16] Start to click.
+[Thread-16] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@text='�Զ�������Ⱥ��']
+[Assert Element Exists] By XPATH --&gt; //*[@text='�Զ�������Ⱥ��']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //*[@text='�Զ�������Ⱥ��']
+[Click On] Waiting 1s for response.
+[Thread-17] Start to click.
+[Thread-17] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/ll_right_image']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/ll_right_image']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/ll_right_image']
+[Click On] Waiting 1s for response.
+[Thread-18] Start to click.
+[Thread-18] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/joinOutGroup']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/joinOutGroup']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/joinOutGroup']
+[Click On] Waiting 1s for response.
+[Thread-19] Start to click.
+[Thread-19] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Click On Textview] --&gt; ���Ľ�ɢ
+[Assert Element Exists] By Label --&gt; ���Ľ�ɢ
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ���Ľ�ɢ
+[Click On] Waiting 1s for response.
+[Thread-20] Start to click.
+[Thread-20] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Get Attr By Xpath] text --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/tv_push']
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 192.168.132.101:5555
+[Params] UDID = 192.168.132.101:5555
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Exception: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:163)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.56 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: f664b75a-f4cd-4fcf-b679-605f376d02e0
+[Screenshot Range] Set default range to full screen.
+[Wait 2 Seconds]
+[Click On Textview] --&gt; main_news_marquee_text
+[Assert Element Exists] By Label --&gt; main_news_marquee_text
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11.29 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: f664b75a-f4cd-4fcf-b679-605f376d02e0
+[Assert Element Exists] By ID --&gt; main_news_marquee_text
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Click On] Locator --&gt; main_news_marquee_text
+[Click On] Waiting 1s for response.
+[Thread-21] Start to click.
+[Thread-21] Clicked!
+[Click On] Done!
+[Wait 2 Seconds]
+[Get Text Of] --&gt; input_comment
+[Assert Element Exists] By ID --&gt; input_comment
+An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16.95 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: f664b75a-f4cd-4fcf-b679-605f376d02e0
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 192.168.132.101:5555
+[Params] UDID = 192.168.132.101:5555
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 96)
+[Size](1440, 2464)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,96)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2464
+[Open App In App Center With Bottom] &gt;&gt;&gt; ֱ������
+[swipeToFindTextViewAndClickOn(): Function In]
+[Assert Element Exists] By Label --&gt; ֱ������
+[Assert Element Exists] By Label &lt;-- FOUND!
+[swipeToFindTextViewAndClickOn(): End while]
+[Assert Element Exists] By Label --&gt; ֱ������
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ֱ������
+[Click On] Waiting 1s for response.
+[Thread-22] Start to click.
+[Thread-22] Clicked!
+[Click On] Done!
+[Wait 6 Seconds]
+[Switch To Webview]
+[Set Webview --&gt; WEBVIEW_com.cmcc.andedu_phone ]
+[Wait 3 Seconds]
+[Click On] --&gt; (//div[@class='projectIcon']//li)[2]//img
+[Assert Element Exists] By XPATH --&gt; (//div[@class='projectIcon']//li)[2]//img
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; (//div[@class='projectIcon']//li)[2]//img
+[Click On] Waiting 1s for response.
+[Thread-23] Start to click.
+[Thread-23] Clicked!
+[Click On] Done!
+[Wait 5 Seconds]
+[Click On] --&gt; //li[@control='3']
+[Assert Element Exists] By XPATH --&gt; //li[@control='3']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //li[@control='3']
+[Click On] Waiting 1s for response.
+[Thread-24] Start to click.
+[Thread-24] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Switch To Native]
+[Wait 3 Seconds]
+[Click On] --&gt; //android.view.View[@content-desc="��ѧ"]
+[Assert Element Exists] By XPATH --&gt; //android.view.View[@content-desc="��ѧ"]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //android.view.View[@content-desc="��ѧ"]
+[Click On] Waiting 1s for response.
+[Thread-25] Start to click.
+[Thread-25] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Switch To Webview]
+[Set Webview --&gt; WEBVIEW_com.cmcc.andedu_phone ]
+[Wait 3 Seconds]
+[Click On] --&gt; ((//div[@class='jp_cont_hang clearfix'])[2]/div)[1]/p[@class='p1']
+[Assert Element Exists] By XPATH --&gt; ((//div[@class='jp_cont_hang clearfix'])[2]/div)[1]/p[@class='p1']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; ((//div[@class='jp_cont_hang clearfix'])[2]/div)[1]/p[@class='p1']
+[Click On] Waiting 1s for response.
+[Thread-26] Start to click.
+[Thread-26] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Click On] --&gt; //div[@class='detail_buy js-buy']
+[Assert Element Exists] By XPATH --&gt; //div[@class='detail_buy js-buy']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //div[@class='detail_buy js-buy']
+[Click On] Waiting 1s for response.
+[Thread-27] Start to click.
+[Thread-27] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Click On] --&gt; //label[@class='js-label js_bill']
+[Assert Element Exists] By XPATH --&gt; //label[@class='js-label js_bill']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //label[@class='js-label js_bill']
+[Click On] Waiting 1s for response.
+[Thread-28] Start to click.
+[Thread-28] Clicked!
+[Click On] Done!
+[Wait 1 Seconds]
+[Click On] --&gt; //div[@class='payment_btns']
+[Assert Element Exists] By XPATH --&gt; //div[@class='payment_btns']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //div[@class='payment_btns']
+[Click On] Waiting 1s for response.
+[Thread-29] Start to click.
+[Thread-29] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Wait 8 Seconds]
+[Click On] --&gt; //div[@id='sure']
+[Assert Element Exists] By XPATH --&gt; //div[@id='sure']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //div[@id='sure']
+[Click On] Waiting 1s for response.
+[Thread-30] Start to click.
+[Thread-30] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+Waiting for [//button[@class='submit-btn J_sumbitPay submit-btn-ready']] is Visiable
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 192.168.132.101:5555
+[Params] UDID = 192.168.132.101:5555
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Exception: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:163)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 47 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 7a5981f3-9a03-42ab-9e7e-4c15cb37c96d
+[Screenshot Range] Set default range to full screen.
+[Open App In App Center With Bottom] &gt;&gt;&gt; ֱ������
+[swipeToFindTextViewAndClickOn(): Function In]
+[Assert Element Exists] By Label --&gt; ֱ������
+[Assert Element Exists] By Label &lt;-- FOUND!
+[swipeToFindTextViewAndClickOn(): End while]
+[Assert Element Exists] By Label --&gt; ֱ������
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ֱ������
+[Click On] Waiting 1s for response.
+[Thread-31] Start to click.
+[Thread-31] Clicked!
+[Click On] Done!
+[Wait 6 Seconds]
+[Switch To Webview]
+[Set Webview --&gt; WEBVIEW_com.cmcc.andedu_phone ]
+[Wait 3 Seconds]
+[Click On] --&gt; (//div[@class='projectIcon']//li)[2]//img
+[Assert Element Exists] By XPATH --&gt; (//div[@class='projectIcon']//li)[2]//img
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; (//div[@class='projectIcon']//li)[2]//img
+[Click On] Waiting 1s for response.
+[Thread-32] Start to click.
+[Click On] Waiting 2s for response.
+[Thread-32] Clicked!
+[Click On] Done!
+[Wait 5 Seconds]
+[Click On] --&gt; //li[@control='3']
+[Assert Element Exists] By XPATH --&gt; //li[@control='3']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //li[@control='3']
+[Click On] Waiting 1s for response.
+[Thread-33] Start to click.
+[Thread-33] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Switch To Native]
+[Click On] --&gt; //android.view.View[@content-desc="��ѧ"]
+[Assert Element Exists] By XPATH --&gt; //android.view.View[@content-desc="��ѧ"]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //android.view.View[@content-desc="��ѧ"]
+[Click On] Waiting 1s for response.
+[Thread-34] Start to click.
+[Thread-34] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Switch To Webview]
+[Set Webview --&gt; WEBVIEW_com.cmcc.andedu_phone ]
+[Click On] --&gt; ((//div[@class='jp_cont_hang clearfix'])[2]/div)[1]/p[@class='p1']
+[Assert Element Exists] By XPATH --&gt; ((//div[@class='jp_cont_hang clearfix'])[2]/div)[1]/p[@class='p1']
+no such element: Unable to locate element: {"method":"xpath","selector":"((//div[@class='jp_cont_hang clearfix'])[2]/div)[1]/p[@class='p1']"}
+  (Session info: chrome=44.0.2403.119)
+  (Driver info: chromedriver=2.18.343845 (73dd713ba7fbfb73cbb514e62641d8c96a94682a),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 798 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 7a5981f3-9a03-42ab-9e7e-4c15cb37c96d
+getCurrentDateStamp��[2018-11-28]
+getCurrentDateTimeWithoutFormat��[20181128230008]
+An unknown server-side error occurred while processing the command. Original error: Could not proxy. Proxy error: Could not proxy command to remote server. Original error: Error: ESOCKETTIMEDOUT (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 480.06 seconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 7a5981f3-9a03-42ab-9e7e-4c15cb37c96d
+[Wait Seconds] Step was skipped!
+[Click On] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Click On] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Click On] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Click On] Step was skipped!
+[Wait Seconds] Step was skipped!
+[Wait For Element Enabled] Step was skipped!
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 192.168.132.101:5555
+[Params] UDID = 192.168.132.101:5555
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Exception: io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: The element 'cd55eb1a-2aef-49fc-8d23-0d543b346868' does not exist in DOM anymore
+	at io.appium.uiautomator2.model.KnownElements.getElementFromCache(KnownElements.java:85)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:27)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.84 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 94f459a6-35d4-4611-ac8b-0eb23ccc7d92
+[Screenshot Range] Set default range to full screen.
+[Click On Textview] --&gt; ��У��Դ
+[Assert Element Exists] By Label --&gt; ��У��Դ
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ��У��Դ
+[Click On] Waiting 1s for response.
+[Thread-35] Start to click.
+[Thread-35] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Switch To Webview]
+[Set Webview --&gt; WEBVIEW_com.cmcc.andedu_phone ]
+[Wait 5 Seconds]
+[Click On] --&gt; //div[@class='index_box_f']//li[1]//a
+[Assert Element Exists] By XPATH --&gt; //div[@class='index_box_f']//li[1]//a
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //div[@class='index_box_f']//li[1]//a
+[Click On] Waiting 1s for response.
+[Thread-36] Start to click.
+[Thread-36] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Click On] --&gt; //ul[@class='sidebar-menu show tab1']//li[1]//span
+[Assert Element Exists] By XPATH --&gt; //ul[@class='sidebar-menu show tab1']//li[1]//span
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //ul[@class='sidebar-menu show tab1']//li[1]//span
+[Click On] Waiting 1s for response.
+[Thread-37] Start to click.
+[Thread-37] Clicked!
+[Click On] Done!
+[Wait 2 Seconds]
+[Click On] --&gt; //div[@class='resources_property_box_f']/span
+[Assert Element Exists] By XPATH --&gt; //div[@class='resources_property_box_f']/span
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] Locator --&gt; //div[@class='resources_property_box_f']/span
+[Click On] Waiting 1s for response.
+[Thread-38] Start to click.
+[Thread-38] Clicked!
+[Click On] Done!
+[Wait 4 Seconds]
+Waiting for [//body//iframe] is Visiable
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 192.168.132.101:5555
+[Params] UDID = 192.168.132.101:5555
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 96)
+[Size](1440, 2464)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,96)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2464
+[Click On Textview] --&gt; ��ʦ��ѧ
+[Assert Element Exists] By Label --&gt; ��ʦ��ѧ
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ��ʦ��ѧ
+[Click On] Waiting 1s for response.
+[Thread-39] Start to click.
+[Thread-39] Clicked!
+[Click On] Done!
+[Wait 4 Seconds]
+[Click On Textview] --&gt; �ر�
+[Assert Element Exists] By Label --&gt; �ر�
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; �ر�
+[Click On] Waiting 1s for response.
+[Thread-40] Start to click.
+[Thread-40] Clicked!
+[Click On] Done!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ȷ��
+[Assert Element Exists] By Label --&gt; ȷ��
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ȷ��
+[Click On] Waiting 1s for response.
+[Thread-41] Start to click.
+[Thread-41] Clicked!
+[Click On] Done!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ��ʦ��ѧ
+[Assert Element Exists] By Label --&gt; ��ʦ��ѧ
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ��ʦ��ѧ
+[Click On] Waiting 1s for response.
+[Thread-42] Start to click.
+[Thread-42] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Switch To Webview]
+[Set Webview --&gt; WEBVIEW_com.cmcc.andedu_phone ]
+[Wait 2 Seconds]
+[Get Text Of] --&gt; //div[@class='new_channel']//a
+[Assert Element Exists] By XPATH --&gt; //div[@class='new_channel']//a
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 192.168.132.101:5555
+[Params] UDID = 192.168.132.101:5555
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 96)
+[Size](1440, 2464)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,96)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2464
+[Click On Textview] --&gt; ���㾫��
+[Assert Element Exists] By Label --&gt; ���㾫��
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ���㾫��
+[Click On] Waiting 1s for response.
+[Thread-43] Start to click.
+[Thread-43] Clicked!
+[Click On] Done!
+[Wait 4 Seconds]
+[Click On Textview] --&gt; �ر�
+[Assert Element Exists] By Label --&gt; �ر�
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; �ر�
+[Click On] Waiting 1s for response.
+[Thread-44] Start to click.
+[Click On] Waiting 2s for response.
+[Thread-44] Clicked!
+[Click On] Done!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ȷ��
+[Assert Element Exists] By Label --&gt; ȷ��
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ȷ��
+[Click On] Waiting 1s for response.
+[Thread-45] Start to click.
+[Thread-45] Clicked!
+[Click On] Done!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ���㾫��
+[Assert Element Exists] By Label --&gt; ���㾫��
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ���㾫��
+[Click On] Waiting 1s for response.
+[Thread-46] Start to click.
+[Thread-46] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Switch To Webview]
+[Set Webview --&gt; WEBVIEW_com.cmcc.andedu_phone ]
+[Wait 2 Seconds]
+[Get Text Of] --&gt; (//div[@class='slide-nav-left'])[1]//span
+[Assert Element Exists] By XPATH --&gt; (//div[@class='slide-nav-left'])[1]//span
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 192.168.132.101:5555
+[Params] UDID = 192.168.132.101:5555
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Exception: io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: The element 'b4d7dfeb-5e33-4688-9d3e-6c2d43c65a99' does not exist in DOM anymore
+	at io.appium.uiautomator2.model.KnownElements.getElementFromCache(KnownElements.java:85)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:27)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.90 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 1994cc35-3e6b-4fa4-8795-868324911205
+[Screenshot Range] Set default range to full screen.
+[Click On Textview] --&gt; ��ʦ�ſ�
+[Assert Element Exists] By Label --&gt; ��ʦ�ſ�
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ��ʦ�ſ�
+[Click On] Waiting 1s for response.
+[Thread-47] Start to click.
+[Thread-47] Clicked!
+[Click On] Done!
+[Wait 4 Seconds]
+[Click On Textview] --&gt; �ر�
+[Assert Element Exists] By Label --&gt; �ر�
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; �ر�
+[Click On] Waiting 1s for response.
+[Thread-48] Start to click.
+[Thread-48] Clicked!
+[Click On] Done!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ȷ��
+[Assert Element Exists] By Label --&gt; ȷ��
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ȷ��
+[Click On] Waiting 1s for response.
+[Thread-49] Start to click.
+[Thread-49] Clicked!
+[Click On] Done!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ��ʦ�ſ�
+[Assert Element Exists] By Label --&gt; ��ʦ�ſ�
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Click On] Locator --&gt; ��ʦ�ſ�
+[Click On] Waiting 1s for response.
+[Thread-50] Start to click.
+[Thread-50] Clicked!
+[Click On] Done!
+[Wait 3 Seconds]
+[Switch To Webview]
+[Set Webview --&gt; WEBVIEW_com.cmcc.andedu_phone ]
+[Wait 2 Seconds]
+[Get Text Of] --&gt; (//div[@class='slide-nav-left'])[1]//span
+[Assert Element Exists] By XPATH --&gt; (//div[@class='slide-nav-left'])[1]//span
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+</stdOut>
+    <stdErr>org.openqa.selenium.StaleElementReferenceException: io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: The element '9ec3c39e-725f-4414-85f4-3235bc303667' does not exist in DOM anymore
+	at io.appium.uiautomator2.model.KnownElements.getElementFromCache(KnownElements.java:85)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:27)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 817 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: b8250af3-e0b5-4242-bf56-5ae63b3e2765
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.getLocation(RemoteWebElement.java:332)
+	at com.qt.AppDriver.Library.ScreenLibrary.setScreenshotRange(ScreenLibrary.java:234)
+	at com.qt.AppDriver.Core.AppiumHelper.setUp(AppiumHelper.java:63)
+	at com.qt.AppDriver.AppDriver.startApp(AppDriver.java:128)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:147)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:132)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:114)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:92)
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18)
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18)
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:130)
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:103)
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35)
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29)
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49)
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43)
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85)
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82)
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75)
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62)
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47)
+	at fitnesse.slim.SlimService.handle(SlimService.java:168)
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:176)
+	at fitnesse.slim.SlimService.accept(SlimService.java:138)
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:91)
+	at fitnesse.slim.SlimService.main(SlimService.java:56)
+org.openqa.selenium.StaleElementReferenceException: io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: The element 'b304fa0e-da68-4fd6-b5c6-4612fe2ae53f' does not exist in DOM anymore
+	at io.appium.uiautomator2.model.KnownElements.getElementFromCache(KnownElements.java:85)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:27)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.23 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 7dcfe425-6a04-4153-aa94-5605e0c341cc
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.getLocation(RemoteWebElement.java:332)
+	at com.qt.AppDriver.Library.ScreenLibrary.setScreenshotRange(ScreenLibrary.java:234)
+	at com.qt.AppDriver.Core.AppiumHelper.setUp(AppiumHelper.java:63)
+	at com.qt.AppDriver.AppDriver.startApp(AppDriver.java:128)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:147)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:132)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:114)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:92)
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18)
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18)
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:130)
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:103)
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35)
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29)
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49)
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43)
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85)
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82)
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75)
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62)
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47)
+	at fitnesse.slim.SlimService.handle(SlimService.java:168)
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:176)
+	at fitnesse.slim.SlimService.accept(SlimService.java:138)
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:91)
+	at fitnesse.slim.SlimService.main(SlimService.java:56)
+org.openqa.selenium.StaleElementReferenceException: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:163)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 48 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 1bd1c919-3984-42f0-820a-57e5b5243da9
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.getLocation(RemoteWebElement.java:332)
+	at com.qt.AppDriver.Library.ScreenLibrary.setScreenshotRange(ScreenLibrary.java:234)
+	at com.qt.AppDriver.Core.AppiumHelper.setUp(AppiumHelper.java:63)
+	at com.qt.AppDriver.AppDriver.startApp(AppDriver.java:128)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:147)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:132)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:114)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:92)
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18)
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18)
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:130)
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:103)
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35)
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29)
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49)
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43)
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85)
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82)
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75)
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62)
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47)
+	at fitnesse.slim.SlimService.handle(SlimService.java:168)
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:176)
+	at fitnesse.slim.SlimService.accept(SlimService.java:138)
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:91)
+	at fitnesse.slim.SlimService.main(SlimService.java:56)
+org.openqa.selenium.StaleElementReferenceException: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:163)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.96 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 71607f51-4187-4b8f-b37d-7dbce5c03689
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.getLocation(RemoteWebElement.java:332)
+	at com.qt.AppDriver.Library.ScreenLibrary.setScreenshotRange(ScreenLibrary.java:234)
+	at com.qt.AppDriver.Core.AppiumHelper.setUp(AppiumHelper.java:63)
+	at com.qt.AppDriver.AppDriver.startApp(AppDriver.java:128)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:147)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:132)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:114)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:92)
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18)
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18)
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:130)
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:103)
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35)
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29)
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49)
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43)
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85)
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82)
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75)
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62)
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47)
+	at fitnesse.slim.SlimService.handle(SlimService.java:168)
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:176)
+	at fitnesse.slim.SlimService.accept(SlimService.java:138)
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:91)
+	at fitnesse.slim.SlimService.main(SlimService.java:56)
+org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.75 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 7ab557f6-5c3c-4b8e-87f5-e64e30b6c8f8
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at com.qt.AppDriver.GUI.UIObject.getAttributeByXPATH(UIObject.java:321)
+	at com.qt.AppDriver.Library.DataLibrary.getAttrByXpath(DataLibrary.java:151)
+	at com.qt.AppDriver.AppDriver.getAttrByXpath(AppDriver.java:828)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:147)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:132)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:114)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:92)
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18)
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18)
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:130)
+	at fitnesse.slim.StatementExecutor.callAndAssign(StatementExecutor.java:113)
+	at fitnesse.slim.instructions.CallAndAssignInstruction.executeInternal(CallAndAssignInstruction.java:38)
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29)
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49)
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43)
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85)
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82)
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75)
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62)
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47)
+	at fitnesse.slim.SlimService.handle(SlimService.java:168)
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:176)
+	at fitnesse.slim.SlimService.accept(SlimService.java:138)
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:91)
+	at fitnesse.slim.SlimService.main(SlimService.java:56)
+org.openqa.selenium.StaleElementReferenceException: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:163)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.56 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: f664b75a-f4cd-4fcf-b679-605f376d02e0
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.getLocation(RemoteWebElement.java:332)
+	at com.qt.AppDriver.Library.ScreenLibrary.setScreenshotRange(ScreenLibrary.java:234)
+	at com.qt.AppDriver.Core.AppiumHelper.setUp(AppiumHelper.java:63)
+	at com.qt.AppDriver.AppDriver.startApp(AppDriver.java:128)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:147)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:132)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:114)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:92)
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18)
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18)
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:130)
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:103)
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35)
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29)
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49)
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43)
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85)
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82)
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75)
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62)
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47)
+	at fitnesse.slim.SlimService.handle(SlimService.java:168)
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:176)
+	at fitnesse.slim.SlimService.accept(SlimService.java:138)
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:91)
+	at fitnesse.slim.SlimService.main(SlimService.java:56)
+org.openqa.selenium.StaleElementReferenceException: android.support.test.uiautomator.StaleObjectException
+	at android.support.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:629)
+	at android.support.test.uiautomator.UiObject2.getVisibleBounds(UiObject2.java:210)
+	at io.appium.uiautomator2.model.UiObject2Element.getBounds(UiObject2Element.java:163)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:31)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 47 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 7a5981f3-9a03-42ab-9e7e-4c15cb37c96d
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.getLocation(RemoteWebElement.java:332)
+	at com.qt.AppDriver.Library.ScreenLibrary.setScreenshotRange(ScreenLibrary.java:234)
+	at com.qt.AppDriver.Core.AppiumHelper.setUp(AppiumHelper.java:63)
+	at com.qt.AppDriver.AppDriver.startApp(AppDriver.java:128)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:147)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:132)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:114)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:92)
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18)
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18)
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:130)
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:103)
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35)
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29)
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49)
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43)
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85)
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82)
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75)
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62)
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47)
+	at fitnesse.slim.SlimService.handle(SlimService.java:168)
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:176)
+	at fitnesse.slim.SlimService.accept(SlimService.java:138)
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:91)
+	at fitnesse.slim.SlimService.main(SlimService.java:56)
+ʮһ�� 28, 2018 11:02:08 ���� org.apache.http.impl.execchain.RetryExec execute
+��Ϣ: I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}-&gt;http://127.0.0.1:4723: The target server failed to respond
+
+ʮһ�� 28, 2018 11:02:08 ���� org.apache.http.impl.execchain.RetryExec execute
+��Ϣ: Retrying request to {}-&gt;http://127.0.0.1:4723
+
+org.openqa.selenium.StaleElementReferenceException: io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: The element 'cd55eb1a-2aef-49fc-8d23-0d543b346868' does not exist in DOM anymore
+	at io.appium.uiautomator2.model.KnownElements.getElementFromCache(KnownElements.java:85)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:27)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.84 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 94f459a6-35d4-4611-ac8b-0eb23ccc7d92
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.getLocation(RemoteWebElement.java:332)
+	at com.qt.AppDriver.Library.ScreenLibrary.setScreenshotRange(ScreenLibrary.java:234)
+	at com.qt.AppDriver.Core.AppiumHelper.setUp(AppiumHelper.java:63)
+	at com.qt.AppDriver.AppDriver.startApp(AppDriver.java:128)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:147)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:132)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:114)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:92)
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18)
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18)
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:130)
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:103)
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35)
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29)
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49)
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43)
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85)
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82)
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75)
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62)
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47)
+	at fitnesse.slim.SlimService.handle(SlimService.java:168)
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:176)
+	at fitnesse.slim.SlimService.accept(SlimService.java:138)
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:91)
+	at fitnesse.slim.SlimService.main(SlimService.java:56)
+org.openqa.selenium.StaleElementReferenceException: io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: The element 'b4d7dfeb-5e33-4688-9d3e-6c2d43c65a99' does not exist in DOM anymore
+	at io.appium.uiautomator2.model.KnownElements.getElementFromCache(KnownElements.java:85)
+	at io.appium.uiautomator2.handler.Location.safeHandle(Location.java:27)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+ (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.90 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=96, noReset=true, viewportRect={top=96, left=0, width=1440, height=2464}, deviceName=192.168.132.101:5555, platform=LINUX, deviceUDID=192.168.132.101:5555, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceName=192.168.132.101:5555, resetKeyboard=true}, platformVersion=6.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=192.168.132.101:5555, deviceManufacturer=Genymotion, deviceApiLevel=23, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=Samsung Galaxy S7 - 6.0.0 - API 23 - 1440x2560}]
+Session ID: 1994cc35-3e6b-4fa4-8795-868324911205
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.getLocation(RemoteWebElement.java:332)
+	at com.qt.AppDriver.Library.ScreenLibrary.setScreenshotRange(ScreenLibrary.java:234)
+	at com.qt.AppDriver.Core.AppiumHelper.setUp(AppiumHelper.java:63)
+	at com.qt.AppDriver.AppDriver.startApp(AppDriver.java:128)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.methodInvoke(DefaultInteraction.java:147)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.callMethod(DefaultInteraction.java:132)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.invokeMethod(DefaultInteraction.java:114)
+	at fitnesse.slim.fixtureInteraction.DefaultInteraction.findAndInvoke(DefaultInteraction.java:92)
+	at fitnesse.slim.MethodExecutor.findAndInvoke(MethodExecutor.java:18)
+	at fitnesse.slim.FixtureMethodExecutor.execute(FixtureMethodExecutor.java:18)
+	at fitnesse.slim.StatementExecutor.getMethodExecutionResult(StatementExecutor.java:130)
+	at fitnesse.slim.StatementExecutor.call(StatementExecutor.java:103)
+	at fitnesse.slim.instructions.CallInstruction.executeInternal(CallInstruction.java:35)
+	at fitnesse.slim.instructions.Instruction.execute(Instruction.java:29)
+	at fitnesse.slim.ListExecutor$Executive.executeStatement(ListExecutor.java:49)
+	at fitnesse.slim.ListExecutor$Executive.executeStatements(ListExecutor.java:43)
+	at fitnesse.slim.ListExecutor.execute(ListExecutor.java:85)
+	at fitnesse.slim.SlimServer.executeInstructions(SlimServer.java:82)
+	at fitnesse.slim.SlimServer.processOneSetOfInstructions(SlimServer.java:75)
+	at fitnesse.slim.SlimServer.tryProcessInstructions(SlimServer.java:62)
+	at fitnesse.slim.SlimServer.serve(SlimServer.java:47)
+	at fitnesse.slim.SlimService.handle(SlimService.java:168)
+	at fitnesse.slim.SlimService.acceptOne(SlimService.java:176)
+	at fitnesse.slim.SlimService.accept(SlimService.java:138)
+	at fitnesse.slim.SlimService.startWithFactory(SlimService.java:91)
+	at fitnesse.slim.SlimService.main(SlimService.java:56)
+</stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>9</right>
+    <wrong>5</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>1239522</totalRunTimeInMillis>
+</suiteResults>
+

@@ -1,0 +1,58 @@
+---
+Help: 优满分-免费试用、内部包月、点播
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-优满分免费试用、内部包月/点播
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证优满分免费试用、内部包月/点播功能正常
+
+!3 作者和日期
+王杰  20180326
+
+**!
+
+内部包月
+!|script|
+|set swipe speed|500       |
+|open app|优满分|in app center with bottom|最新推荐|
+|click on textview|免费试用   |
+|wait|10|seconds|
+|click on textview|关闭   |
+|click on textview|确定   |
+|click on textview|免费试用   |
+|wait|10|seconds|
+|switch to webview|
+|wait|3|seconds|
+|click on|${YMF兑换}|
+|wait for element|${YMF商品}|Enabled|
+|click on|${YMF商品}|
+|wait for element|${YMF立即兑换}|Enabled|
+|click on|${YMF立即兑换}|
+|wait|1|seconds|
+|click on|${YMF包月资费}|
+|wait|1|seconds|
+|click on|${YMF立即订购}|
+|AppBaoYueCheck|
+
+内部点播
+!|script|
+|ReturnThreeTimes|
+|click on|${YMF立即兑换}|
+|wait|1|seconds|
+|click on|${YMF点播资费}|
+|wait|1|seconds|
+|click on|${YMF立即订购}|
+|AppDianBoCheck|

@@ -1,0 +1,48 @@
+---
+Help: 首页
+---
+*****Bannners*****
+!define 查询招生专业高校 {//div[@class='seek']/span}
+
+
+*****名师导学*****
+!define MSDX_openNewChannel {//div[@class='new_channel']//a}
+
+*****考点精讲*****
+!define KDJJ_allGrade {(//div[@class='slide-nav-left'])[1]//span}
+
+*****直播课堂*****
+
+!define homePageLiveIMG {//*[@resource-id='com.cmcc.andedu_phone:id/main_live_image']}
+!define ZBKT_goodLive {(//div[@class='lateral'])[1]//span}
+高中筛选
+!define highSchool {(//div[@class='projectIcon']//li)[2]//img}
+学科筛选
+!define subjectSelect {//li[@control='3']}
+数学
+!define math {//android.view.View[@content-desc="数学"]}
+第一个直播课程
+!define firstLive {((//div[@class='jp_cont_hang clearfix'])[2]/div)[1]/p[@class='p1']}
+立即购买按钮
+!define buyLiveNow {//div[@class='detail_buy js-buy']}
+下一步按钮
+!define nextStep {//div[@class='payment_btns']}
+手机话费支付
+!define mobilePay {//label[@class='js-label js_bill']}
+按天付费
+!define payPerDay {//label[@class='js-label js-payday']}
+
+第三方支付按钮
+#!define AliPayRadio {//input[@billid='EDUGB999488']}
+!define AliPayRadio {//android.webkit.WebView[@content-desc="直播详情"]/android.widget.ListView[4]/android.view.View/android.view.View[6]}
+直播课堂业务包月按钮
+!define liveMonthly {//ul[@id='hears']/li[@class='monthly']/a}
+直播课堂业务第三方支付按钮
+#!define AliPayRadio {//input[@billid='EDUGB999488']}
+!define liveAppAliPayRadio {//android.webkit.WebView[@content-desc="直播详情"]/android.widget.ListView[4]/android.view.View/android.view.View[5]}
+
+*****资源专题*****
+!define ziyuanDate {(//li[@class='resourcesList'])[1]//span}
+
+*****应用推荐*****
+!define appRecoText {//*[@resource-id='com.cmcc.andedu_phone:id/tv_desc']}

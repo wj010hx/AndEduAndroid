@@ -1,0 +1,47 @@
+---
+Help: 我的群组-新建
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 我的群组-新建
+!3 测试步骤
+
+1.进入消息-好友-创建群组
+2.输入群名称，点击创建
+
+!3 期望结果
+
+1.创建成功toast
+
+!3 作者和日期
+王杰  2018129
+
+**!
+
+!|script|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/main_message']|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']|
+|wait|3|seconds|
+|click on textview|创建群组|
+|wait|3|seconds|
+|click on edittext|group_edit|
+|wait|3|seconds|
+|type  |自动化测试群组|into|group_edit|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/create_btn']|
+|wait|3|seconds|
+|click on textview|确定|
+|wait|5|seconds|
+|click on textview|扫一扫|
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_left']|
+|wait|3|seconds|
+|click on textview|好友|
+|wait|3|seconds|
+|click on textview|我的群组|
+|wait|3|seconds|
+|click on |//*[@text='自动化测试群组']    |

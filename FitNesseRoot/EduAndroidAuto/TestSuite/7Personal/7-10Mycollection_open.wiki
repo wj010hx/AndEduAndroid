@@ -1,0 +1,47 @@
+---
+Help: 我的收藏-查看
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 我的收藏-查看
+!3 测试步骤
+
+1.进入个人中心
+2.进入我的收藏
+3.点击某个课程收藏
+4.点击某个问答收藏
+
+!3 期望结果
+
+1.正确跳转至问答、课程的收藏详情页
+
+!3 作者和日期
+王杰  20180620
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='我的收藏']|
+|wait|3|seconds|
+|click on |//*[@text='课程']|
+|wait|3|seconds|
+|click on |(//*[@class='android.view.View'])[2]|
+|wait|3|seconds|
+|switch to webview|
+|wait|3|seconds|
+|check|get text of|//li[@class='tabbar-item']/span|课程列表|
+|switch to native |
+|wait|3|seconds|
+|click on |//*[@resource-id='com.cmcc.andedu_phone:id/common_title_left']   |
+|wait|3|seconds|
+|click on |//*[@text='问答']|
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/mine_item_next'])[1]    |
+|wait|3|seconds|
+|$answerNumber=|get attr|text   |by xpath|//*[@resource-id='com.cmcc.andedu_phone:id/tv_answernumber']|
+|check|text|回答|is part of|$answerNumber|true|

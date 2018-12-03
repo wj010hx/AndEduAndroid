@@ -1,0 +1,49 @@
+---
+Help: 洋葱数学-免费试用、内部包月、点播
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-洋葱数学免费试用、内部包月/点播
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证洋葱数学免费试用、内部包月/点播功能正常
+
+!3 作者和日期
+王杰  20180320
+
+**!
+
+内部包月
+!|script|
+|set swipe speed|600       |
+|open app|洋葱数学|in app center with bottom|最新推荐|
+|click on textview|免费试用   |
+|wait|10|seconds|
+|switch to webview|
+|wait|3|seconds|
+|click on|${YCSX立即订购}|
+|wait|1|seconds|
+|click on|${YCSX确定}|
+|AppBaoYueCheck|
+
+内部点播-点击不上点播资费
+!|script|
+|ReturnThreeTimes|
+|wait|2|seconds|
+|click on|${YCSX立即订购}|
+|wait|5|seconds|
+|click on|${YCSX点播}|
+|wait|1|seconds|
+|click on|${YCSX确定}|
+|AppDianBoCheck|

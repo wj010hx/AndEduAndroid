@@ -1,0 +1,6 @@
+---
+Help: 验证点播统一支付页面
+---
+''调用统一支付页面点播订购流程验证的Scenario''
+!|script|
+|DianboCheck|

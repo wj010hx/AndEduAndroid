@@ -1,0 +1,6 @@
+---
+Help: 教育资讯
+Suite
+---
+!1 Test suite X
+!contents -R -p -f -h

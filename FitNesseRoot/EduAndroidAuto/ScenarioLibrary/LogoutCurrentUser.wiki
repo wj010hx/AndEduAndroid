@@ -1,0 +1,16 @@
+---
+Help: 退出当前账户
+---
+!|scenario          |LogoutCurrentUser  |
+|click on radio|首页      |
+|wait|1|seconds|
+|click on imageview|center_person_image       |
+|wait|1|seconds|
+|click on textview|设置   |
+|wait|1|seconds|
+|click on textview|退出登录   |
+|wait|2|seconds|
+|click on textview|确定   |
+|wait|1|seconds|
+|click on textview|点击登录   |
+|wait|2|seconds|

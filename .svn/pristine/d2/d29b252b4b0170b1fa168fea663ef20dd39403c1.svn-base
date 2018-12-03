@@ -1,0 +1,31 @@
+---
+Help: 意见反馈-打开
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 设置-意见反馈
+!3 测试步骤
+
+1.点击设置
+2.点击意见反馈
+
+!3 期望结果
+
+2.正确显示意见反馈填写页面
+
+!3 作者和日期
+王杰  20180621
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='设置']|
+|wait|3|seconds|
+|click on |//*[@text='意见反馈']|
+|wait|3|seconds|
+|check|get attr|text   |by xpath|//*[@resource-id='com.cmcc.andedu_phone:id/input_edittext']|请输入遇到的问题或建议......|

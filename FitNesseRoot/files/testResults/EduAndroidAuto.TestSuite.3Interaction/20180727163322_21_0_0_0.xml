@@ -1,0 +1,1455 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>EduAndroidAuto.TestSuite.3Interaction</rootPath>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-00JiaXiaoHD_xxtLogin</name>
+    <date>2018-07-27T16:33:22+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-00JiaXiaoHD_xxtLogin?pageHistory&amp;resultDate=20180727163322</pageHistoryLink>
+    <counts>
+      <right>3</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>22556</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-01JiaXiaoHD_hlwLogin</name>
+    <date>2018-07-27T16:33:45+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-01JiaXiaoHD_hlwLogin?pageHistory&amp;resultDate=20180727163345</pageHistoryLink>
+    <counts>
+      <right>29</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>74346</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-10ClassCircle_creat_comment_zan</name>
+    <date>2018-07-27T16:34:59+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-10ClassCircle_creat_comment_zan?pageHistory&amp;resultDate=20180727163459</pageHistoryLink>
+    <counts>
+      <right>21</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>67938</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-14PublicNotice_send</name>
+    <date>2018-07-27T16:36:07+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-14PublicNotice_send?pageHistory&amp;resultDate=20180727163607</pageHistoryLink>
+    <counts>
+      <right>11</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>40629</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-15PublicNotice_open</name>
+    <date>2018-07-27T16:36:48+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-15PublicNotice_open?pageHistory&amp;resultDate=20180727163648</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>30964</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-16PublicNotice_delete</name>
+    <date>2018-07-27T16:37:19+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-16PublicNotice_delete?pageHistory&amp;resultDate=20180727163719</pageHistoryLink>
+    <counts>
+      <right>9</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>34171</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-17ClassPhotoAlbum_creat</name>
+    <date>2018-07-27T16:37:53+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-17ClassPhotoAlbum_creat?pageHistory&amp;resultDate=20180727163753</pageHistoryLink>
+    <counts>
+      <right>9</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>36928</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-18ClassPhotoAlbum_upload</name>
+    <date>2018-07-27T16:38:30+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-18ClassPhotoAlbum_upload?pageHistory&amp;resultDate=20180727163830</pageHistoryLink>
+    <counts>
+      <right>11</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>49532</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-19ClassPhotoAlbum_delete</name>
+    <date>2018-07-27T16:39:19+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-19ClassPhotoAlbum_delete?pageHistory&amp;resultDate=20180727163919</pageHistoryLink>
+    <counts>
+      <right>8</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>35530</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-20ClassNetdisk_open</name>
+    <date>2018-07-27T16:39:55+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-20ClassNetdisk_open?pageHistory&amp;resultDate=20180727163955</pageHistoryLink>
+    <counts>
+      <right>5</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>27122</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-21ExamManage_open</name>
+    <date>2018-07-27T16:40:22+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-21ExamManage_open?pageHistory&amp;resultDate=20180727164022</pageHistoryLink>
+    <counts>
+      <right>5</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>23245</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-23ScoreManage_open</name>
+    <date>2018-07-27T16:40:45+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-23ScoreManage_open?pageHistory&amp;resultDate=20180727164045</pageHistoryLink>
+    <counts>
+      <right>4</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>24881</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-24OfficialMsg_open</name>
+    <date>2018-07-27T16:41:10+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-24OfficialMsg_open?pageHistory&amp;resultDate=20180727164110</pageHistoryLink>
+    <counts>
+      <right>5</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>29775</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-25SendOfficialMsg</name>
+    <date>2018-07-27T16:41:40+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-25SendOfficialMsg?pageHistory&amp;resultDate=20180727164140</pageHistoryLink>
+    <counts>
+      <right>20</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>51637</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-3SendedMsg_open</name>
+    <date>2018-07-27T16:42:31+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-3SendedMsg_open?pageHistory&amp;resultDate=20180727164231</pageHistoryLink>
+    <counts>
+      <right>6</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>30217</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-4SendNoticeMsg</name>
+    <date>2018-07-27T16:43:02+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-4SendNoticeMsg?pageHistory&amp;resultDate=20180727164302</pageHistoryLink>
+    <counts>
+      <right>11</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>40024</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-5SendHomeworkMsg</name>
+    <date>2018-07-27T16:43:42+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-5SendHomeworkMsg?pageHistory&amp;resultDate=20180727164342</pageHistoryLink>
+    <counts>
+      <right>14</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>50792</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-6SendCommentMsg</name>
+    <date>2018-07-27T16:44:33+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-6SendCommentMsg?pageHistory&amp;resultDate=20180727164433</pageHistoryLink>
+    <counts>
+      <right>11</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>42694</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-7SendTimingMsg</name>
+    <date>2018-07-27T16:45:15+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-7SendTimingMsg?pageHistory&amp;resultDate=20180727164515</pageHistoryLink>
+    <counts>
+      <right>12</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>38039</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-8ClassLinkbook_open</name>
+    <date>2018-07-27T16:45:53+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-8ClassLinkbook_open?pageHistory&amp;resultDate=20180727164553</pageHistoryLink>
+    <counts>
+      <right>4</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>22723</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-9ClassSchedule_open</name>
+    <date>2018-07-27T16:46:16+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-9ClassSchedule_open?pageHistory&amp;resultDate=20180727164616</pageHistoryLink>
+    <counts>
+      <right>4</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>23372</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"D:\Program Files\Java\jdk1.8.0_65\bin\java" -cp D:\Automation\AndEduAndroid\lib\fitnesse-standalone.jar;D:/Automation/AndEduAndroid/lib/java-client-1.2.1.jar;D:/Automation/AndEduAndroid/lib/junit-4.10.jar;D:/Automation/AndEduAndroid/lib/selenium-java-2.44.0.jar;D:/Automation/AndEduAndroid/lib/selenium-server-standalone-2.44.0.jar;D:/Automation/AndEduAndroid/lib/AutomationDriver.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut>[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[7]
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Radio] --&gt; ��ҳ
+AssertUIObjectExistsByLabel --&gt; ��ҳ
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+AssertUIObjectEnabledByLabel --&gt; ��ҳ
+[Wait 1 Seconds]
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ����
+AssertUIObjectExistsByLabel --&gt; ����
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �˳���¼
+AssertUIObjectExistsByLabel --&gt; �˳���¼
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On Textview] --&gt; ȷ��
+AssertUIObjectExistsByLabel --&gt; ȷ��
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �����¼
+AssertUIObjectExistsByLabel --&gt; �����¼
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 2 Seconds]
+[Type Into] 18502590312 --&gt; edu_login_number
+AssertUIObjectExistsByID --&gt; edu_login_number
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] qwer1314 --&gt; edu_login_password
+AssertUIObjectExistsByID --&gt; edu_login_password
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; edu_login_number
+AssertUIObjectExistsByID --&gt; edu_login_number
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; edu_login_password
+AssertUIObjectExistsByID --&gt; edu_login_password
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Type Into] wnyzm --&gt; edu_login_picture_et
+AssertUIObjectExistsByID --&gt; edu_login_picture_et
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Button] --&gt; edu_login_button
+AssertUIObjectExistsByID --&gt; edu_login_button
+AssertUIObjectExistsByID &lt;-- FOUND!
+AssertUIObjectEnabledByID --&gt; edu_login_button
+[Wait 5 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] enabled --&gt; (//*[@class='android.view.View'])[1]
+[Click On Imageview] --&gt; common_title_left
+AssertUIObjectExistsByID --&gt; common_title_left
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ����
+AssertUIObjectExistsByLabel --&gt; ����
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �˳���¼
+AssertUIObjectExistsByLabel --&gt; �˳���¼
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On Textview] --&gt; ȷ��
+AssertUIObjectExistsByLabel --&gt; ȷ��
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; �����¼
+AssertUIObjectExistsByLabel --&gt; �����¼
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 2 Seconds]
+[Type Into] 15210210011 --&gt; edu_login_number
+AssertUIObjectExistsByID --&gt; edu_login_number
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] 123456 --&gt; edu_login_password
+AssertUIObjectExistsByID --&gt; edu_login_password
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; edu_login_number
+AssertUIObjectExistsByID --&gt; edu_login_number
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; edu_login_password
+AssertUIObjectExistsByID --&gt; edu_login_password
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] wnyzm --&gt; edu_login_picture_et
+AssertUIObjectExistsByID --&gt; edu_login_picture_et
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Button] --&gt; edu_choose_area_btn
+AssertUIObjectExistsByID --&gt; edu_choose_area_btn
+AssertUIObjectExistsByID &lt;-- FOUND!
+AssertUIObjectEnabledByID --&gt; edu_choose_area_btn
+[Wait 1 Seconds]
+[Click On Imageview] --&gt; common_title_left
+AssertUIObjectExistsByID --&gt; common_title_left
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Button] --&gt; edu_login_button
+AssertUIObjectExistsByID --&gt; edu_login_button
+AssertUIObjectExistsByID &lt;-- FOUND!
+AssertUIObjectEnabledByID --&gt; edu_login_button
+[Wait 5 Seconds]
+[Click On Imageview] --&gt; common_title_left
+AssertUIObjectExistsByID --&gt; common_title_left
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Click On Radio] --&gt; ��ҳ
+AssertUIObjectExistsByLabel --&gt; ��ҳ
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+AssertUIObjectEnabledByLabel --&gt; ��ҳ
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='�༶�ռ�']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='�༶�ռ�']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Click On] --&gt; //*[@text='����̬']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='����̬']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; edittext
+AssertUIObjectExistsByID --&gt; edittext
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Type Into] �༶�ռ���Զ�̬ --&gt; edittext
+AssertUIObjectExistsByID --&gt; edittext
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Imageview] --&gt; iv_icon
+AssertUIObjectExistsByID --&gt; iv_icon
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.meizu.media.camera:id/switch_camera_btn']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.meizu.media.camera:id/switch_camera_btn']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.meizu.media.camera:id/shutter_btn']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.meizu.media.camera:id/shutter_btn']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.meizu.media.camera:id/btn_done']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.meizu.media.camera:id/btn_done']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Is Toast With String] --&gt; ����̬�ɹ�
+[Get Toast Contains String] &lt;-- ����̬�ɹ�
+[Wait 3 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/iv_zan'])[1]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/iv_zan'])[1]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/tv_zan_num'])[1]
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@text='��Ҳ����һ��'])[1]
+AssertUIObjectExistsByXPATH --&gt; (//*[@text='��Ҳ����һ��'])[1]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; editText_send
+AssertUIObjectExistsByID --&gt; editText_send
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] test comment --&gt; editText_send
+AssertUIObjectExistsByID --&gt; editText_send
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ����
+AssertUIObjectExistsByLabel --&gt; ����
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Is Toast With String] --&gt; �������۳ɹ�
+[Get Toast Contains String] &lt;-- �������۳ɹ�
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��������']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��������']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/announcement_title']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/announcement_title']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] �Զ������Թ������ --&gt; announcement_title
+AssertUIObjectExistsByID --&gt; announcement_title
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/announcement_title']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/announcement_title']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] �Զ������Թ������� --&gt; announcement_edit
+AssertUIObjectExistsByID --&gt; announcement_edit
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/title'])[1]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/title'])[1]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/detail_create_content']
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/title'])[1]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/title'])[1]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/detail_create_content']
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/tv_ok']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/tv_ok']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/content'])[1]
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='���']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='���']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='�������']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='�������']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/album_name']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/album_name']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] �Զ������������ --&gt; album_name
+AssertUIObjectExistsByID --&gt; album_name
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='���']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='���']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_count'])[1]
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_cover'])[1]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_cover'])[1]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On Imageview] --&gt; common_title_right
+AssertUIObjectExistsByID --&gt; common_title_right
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 4 Seconds]
+[Click On] --&gt; //*[@resource-id='com.meizu.media.camera:id/shutter_btn']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.meizu.media.camera:id/shutter_btn']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.meizu.media.camera:id/btn_done']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.meizu.media.camera:id/btn_done']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 5 Seconds]
+[Click On Imageview] --&gt; common_title_left
+AssertUIObjectExistsByID --&gt; common_title_left
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 2 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_count'])[1]
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='���']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='���']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_name'])[1]
+[Wait 2 Seconds]
+[Long Touch Element] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_cover'])[1]
+[Long Touch By Xpath] (//*[@resource-id='com.cmcc.andedu_phone:id/album_cover'])[1]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_cover'])[1]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Long Touch By Xpath] Element was found.
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/iv_album_del']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/iv_album_del']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Textview] --&gt; ȷ��
+AssertUIObjectExistsByLabel --&gt; ȷ��
+AssertUIObjectExistsByLabel &lt;-- FOUND!
+[Wait 3 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/album_name'])[1]
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[4]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/cloud_load_cishu'])[1]
+[Wait 1 Seconds]
+[Text Is Part Of] �� &lt;-- 0������
+[Text Is Part Of] Contain!
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[5]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[5]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='�ѿ�']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='�ѿ�']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@class='android.widget.TextView'])[6]
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[6]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[6]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Get Attr By Xpath] text --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/item_t_result_name']
+[Wait 1 Seconds]
+[Text Is Part Of] ���� &lt;-- ѧ������
+[Text Is Part Of] Contain!
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[7]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[7]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='�ѷ�����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='�ѷ�����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/office_already_sms_status'])[1]
+[Wait 1 Seconds]
+[Text Is Part Of] ���� &lt;-- �ѷ���
+[Text Is Part Of] Contain!
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='�칫����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='�칫����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; notice_edit
+AssertUIObjectExistsByID --&gt; notice_edit
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] ���԰칫���ţ�����ظ��� --&gt; notice_edit
+AssertUIObjectExistsByID --&gt; notice_edit
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/choose_people'])[1]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/choose_people'])[1]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='���Ͷ���']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='���Ͷ���']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Is Toast With String] --&gt; ���ͳɹ�
+[Get Toast Contains String] &lt;-- ���ͳɹ���
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On Edittext] --&gt; notice_edit
+AssertUIObjectExistsByID --&gt; notice_edit
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] ���Զ�ʱ�칫���ţ�����ظ��� --&gt; notice_edit
+AssertUIObjectExistsByID --&gt; notice_edit
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/choose_people'])[1]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/choose_people'])[1]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/timing_checkbox']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/timing_checkbox']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='���Ͷ���']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='���Ͷ���']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Is Toast With String] --&gt; ���ͳɹ�
+[Get Toast Contains String] &lt;-- ���ͳɹ���
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[1]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[1]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_sms_date'])[1]
+[Text Is Part Of] �� &lt;-- 2018��07��27�� 14:55
+[Text Is Part Of] Contain!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='��ʱ����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��ʱ����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_sms_content'])[1]
+[Get Text Length] --&gt; NIHAO A
+[Get Text Length] &lt;-- Length is 7.
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��֪ͨ']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��֪ͨ']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 4 Seconds]
+[Click On Edittext] --&gt; notice_edit
+AssertUIObjectExistsByID --&gt; notice_edit
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] ����֪ͨ���ţ�����ظ��� --&gt; notice_edit
+AssertUIObjectExistsByID --&gt; notice_edit
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='���Ͷ���']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='���Ͷ���']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Is Toast With String] --&gt; ���Ͷ��ųɹ�
+[Get Toast Contains String] &lt;-- ���Ͷ��ųɹ���
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='����ҵ']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='����ҵ']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 4 Seconds]
+[Click On Edittext] --&gt; work_edit
+AssertUIObjectExistsByID --&gt; work_edit
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] ������ҵ���ţ�����ظ��� --&gt; work_edit
+AssertUIObjectExistsByID --&gt; work_edit
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/choose_subjects']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/choose_subjects']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/project_name'])[1]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/project_name'])[1]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='���Ͷ���']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='���Ͷ���']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Is Toast With String] --&gt; ���Ͷ��ųɹ�
+[Get Toast Contains String] &lt;-- ���Ͷ��ųɹ���
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='������']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='������']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 4 Seconds]
+[Click On Edittext] --&gt; comment_edit
+AssertUIObjectExistsByID --&gt; comment_edit
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] ����������ţ�����ظ��� --&gt; comment_edit
+AssertUIObjectExistsByID --&gt; comment_edit
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 2 Seconds]
+[Click On] --&gt; //*[@text='���Ͷ���']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='���Ͷ���']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Is Toast With String] --&gt; ���Ͷ��ųɹ�
+[Get Toast Contains String] &lt;-- ���Ͷ��ųɹ���
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='������']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='������']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 4 Seconds]
+[Click On Edittext] --&gt; comment_edit
+AssertUIObjectExistsByID --&gt; comment_edit
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Type Into] ����������ţ�����ظ��� --&gt; comment_edit
+AssertUIObjectExistsByID --&gt; comment_edit
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/add_class']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/timing_checkbox']
+AssertUIObjectExistsByXPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/timing_checkbox']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='���Ͷ���']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='���Ͷ���']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Is Toast With String] --&gt; ���Ͷ��ųɹ�
+[Get Toast Contains String] &lt;-- ���Ͷ��ųɹ���
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[2]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[2]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_address_item_name'])[1]
+[Get Text Length] --&gt; �仨��ˮ1��ʦ
+[Get Text Length] &lt;-- Length is 7.
+[Close App] Test End.
+[Start App] Test Start.
+[Setup] Set Up Env.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 10s.
+[Setup] Set Screen Shot Range.
+[Screenshot Range] Screenshot Range EL = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+AssertUIObjectExistsByID --&gt; center_person_image
+AssertUIObjectExistsByID &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH --&gt; //*[@text='��У����']
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 1 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[3]
+AssertUIObjectExistsByXPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[3]
+AssertUIObjectExistsByXPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@class='android.widget.TextView'])[3]
+[Close App] Test End.
+</stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>21</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>797646</totalRunTimeInMillis>
+</suiteResults>
+

@@ -1,0 +1,316 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>EduAndroidAuto.TestSuite.3Interaction</rootPath>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-00JiaXiaoHD_hlwEnter</name>
+    <date>2018-11-28T20:42:10+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-00JiaXiaoHD_hlwEnter?pageHistory&amp;resultDate=20181128204210</pageHistoryLink>
+    <counts>
+      <right>3</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>42377</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-01JiaXiaoHD_xxtEnter</name>
+    <date>2018-11-28T20:42:52+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-01JiaXiaoHD_xxtEnter?pageHistory&amp;resultDate=20181128204252</pageHistoryLink>
+    <counts>
+      <right>17</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>130798</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.3Interaction.3-10ClassCircle_creat_comment_zan</name>
+    <date>2018-11-28T20:45:03+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.3Interaction.3-10ClassCircle_creat_comment_zan?pageHistory&amp;resultDate=20181128204503</pageHistoryLink>
+    <counts>
+      <right>21</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>110078</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"D:\Program Files\Java\jdk1.8.0_65\bin\java" -cp D:\Automation\AndEduAndroid\lib\fitnesse-standalone.jar;D:/Automation/AndEduAndroid/lib/java-client-1.2.1.jar;D:/Automation/AndEduAndroid/lib/junit-4.10.jar;D:/Automation/AndEduAndroid/lib/selenium-java-2.44.0.jar;D:/Automation/AndEduAndroid/lib/selenium-server-standalone-2.44.0.jar;D:/Automation/AndEduAndroid/lib/AutomationDriver.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>1</exitCode>
+    <stdOut>=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 15s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 88)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 5 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 5 Seconds]
+[Get Attr By Xpath] enabled --&gt; (//*[@class='android.view.View'])[1]
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 15s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 88)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Radio] --&gt; ��ҳ
+[Assert Element Exists] By Label --&gt; ��ҳ
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Assert Enable] AssertUIObjectEnabledByLabel --&gt; ��ҳ
+[Wait 5 Seconds]
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 5 Seconds]
+[Click On Textview] --&gt; ����
+[Assert Element Exists] By Label --&gt; ����
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 5 Seconds]
+[Click On Textview] --&gt; �˳���¼
+[Assert Element Exists] By Label --&gt; �˳���¼
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 5 Seconds]
+[Click On Textview] --&gt; ȷ��
+[Assert Element Exists] By Label --&gt; ȷ��
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 5 Seconds]
+[Click On Textview] --&gt; �����¼
+[Assert Element Exists] By Label --&gt; �����¼
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 5 Seconds]
+[Click On] --&gt; //*[@text='�˺ŵ�¼']
+[Assert Element Exists] By XPATH --&gt; //*[@text='�˺ŵ�¼']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Type Into] 15210210011 --&gt; edu_login_number
+[Assert Element Exists] By ID --&gt; edu_login_number
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 3 Seconds]
+[Type Into] 123456 --&gt; edu_login_password
+[Assert Element Exists] By ID --&gt; edu_login_password
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On Edittext] --&gt; edu_login_number
+[Assert Element Exists] By ID --&gt; edu_login_number
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On Edittext] --&gt; edu_login_password
+[Assert Element Exists] By ID --&gt; edu_login_password
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 3 Seconds]
+[Type Into] wnyzm --&gt; edu_login_picture_et
+[Assert Element Exists] By ID --&gt; edu_login_picture_et
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On Button] --&gt; edu_login_button
+[Assert Element Exists] By ID --&gt; edu_login_button
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Assert Enable] AssertUIObjectEnabledByID --&gt; edu_login_button
+[Wait 20 Seconds]
+[Click On Imageview] --&gt; common_title_left
+[Assert Element Exists] By ID --&gt; common_title_left
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 5 Seconds]
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 5 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 5 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[7]
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 15s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 88)
+[Size](1440, 2472)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,88)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2472
+[Click On Imageview] --&gt; center_person_image
+[Assert Element Exists] By ID --&gt; center_person_image
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='��У����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@text='�༶�ռ�']
+[Assert Element Exists] By XPATH --&gt; //*[@text='�༶�ռ�']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 10 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Click On] --&gt; //*[@text='����̬']
+[Assert Element Exists] By XPATH --&gt; //*[@text='����̬']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On Edittext] --&gt; edittext
+[Assert Element Exists] By ID --&gt; edittext
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Type Into] �༶�ռ���Զ�̬ --&gt; edittext
+[Assert Element Exists] By ID --&gt; edittext
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On Imageview] --&gt; iv_icon
+[Assert Element Exists] By ID --&gt; iv_icon
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH --&gt; //*[@text='����']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.meizu.media.camera:id/switch_camera_btn']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.meizu.media.camera:id/switch_camera_btn']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.meizu.media.camera:id/shutter_btn']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.meizu.media.camera:id/shutter_btn']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.meizu.media.camera:id/btn_done']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.meizu.media.camera:id/btn_done']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On] --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH --&gt; //*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Is Toast With String] --&gt; ����̬�ɹ�
+[Get Toast Contains String] &lt;-- ����̬�ɹ�
+[Wait 3 Seconds]
+[Click On] --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/iv_zan'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/iv_zan'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Get Attr By Xpath] text --&gt; (//*[@resource-id='com.cmcc.andedu_phone:id/tv_zan_num'])[1]
+[Wait 3 Seconds]
+[Click On] --&gt; (//*[@text='��Ҳ����һ��'])[1]
+[Assert Element Exists] By XPATH --&gt; (//*[@text='��Ҳ����һ��'])[1]
+[Assert Element Exists] By XPATH &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On Edittext] --&gt; editText_send
+[Assert Element Exists] By ID --&gt; editText_send
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 3 Seconds]
+[Type Into] test comment --&gt; editText_send
+[Assert Element Exists] By ID --&gt; editText_send
+[Assert Element Exists] By ID &lt;-- FOUND!
+[Wait 3 Seconds]
+[Click On Textview] --&gt; ����
+[Assert Element Exists] By Label --&gt; ����
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 3 Seconds]
+[Is Toast With String] --&gt; �������۳ɹ�
+[Get Toast Contains String] &lt;-- �������۳ɹ�
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 15s.
+[Setup] Set Screen Shot Range.
+</stdOut>
+    <stdErr>ʮһ�� 28, 2018 8:49:15 ���� org.apache.http.impl.execchain.RetryExec execute
+��Ϣ: I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}-&gt;http://127.0.0.1:4723: The target server failed to respond
+
+ʮһ�� 28, 2018 8:49:15 ���� org.apache.http.impl.execchain.RetryExec execute
+��Ϣ: Retrying request to {}-&gt;http://127.0.0.1:4723
+
+</stdErr>
+    <exception>Could not send/receive data with SUT</exception>
+    <exception>fitnesse.testsystems.slim.SlimCommunicationException: Could not send/receive data with SUT</exception>
+  </executionLog>
+  <finalCounts>
+    <right>3</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>1</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>820373</totalRunTimeInMillis>
+</suiteResults>
+

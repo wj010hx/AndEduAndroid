@@ -1,0 +1,27 @@
+---
+Help: 查看首页某个推荐新闻
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 查看首页某个推荐新闻
+!3 测试步骤
+
+1. 点击查看首页某个推荐新闻
+
+
+!3 期望结果
+
+新闻跳转正常
+!3 作者和日期
+王杰  20180509
+
+**!
+
+!|script|
+|wait|5|seconds|
+|click on textview|main_news_marquee_text      |
+|wait|15|seconds|
+|check|get text of|input_comment|留下你的评论哦...|

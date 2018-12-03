@@ -1,0 +1,6 @@
+---
+Help: 登录页
+---
+!define QQ快捷登录 {(//*[@class='android.widget.ImageView'])[6]}
+!define QQ登录按钮 {//*[@text='登录']}
+!define 设置的id {com.cmcc.andedu_phone:id/mine_to_myset}

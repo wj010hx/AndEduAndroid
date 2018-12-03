@@ -1,0 +1,17 @@
+---
+Help: 启动app并进入应用中心
+---
+!2 import section
+
+|import          |
+|com.qt.AppDriver|
+
+!2 Setup App Driver
+
+!|script|App Driver|
+
+!|script                                                                   |
+|EnterAppCenter|
+
+
+

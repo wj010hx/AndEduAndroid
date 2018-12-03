@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>EduAndroidAuto.TestSuite.2HomePage</rootPath>
+  <pageHistoryReference>
+    <name>EduAndroidAuto.TestSuite.2HomePage.2-11ZiYuanZT_more</name>
+    <date>2018-11-28T15:04:50+08:00</date>
+    <pageHistoryLink>EduAndroidAuto.TestSuite.2HomePage.2-11ZiYuanZT_more?pageHistory&amp;resultDate=20181128150450</pageHistoryLink>
+    <counts>
+      <right>2</right>
+      <wrong>1</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>69275</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"D:\Program Files\Java\jdk1.8.0_65\bin\java" -cp D:\Automation\AndEduAndroid\lib\fitnesse-standalone.jar;D:/Automation/AndEduAndroid/lib/java-client-1.2.1.jar;D:/Automation/AndEduAndroid/lib/junit-4.10.jar;D:/Automation/AndEduAndroid/lib/selenium-java-2.44.0.jar;D:/Automation/AndEduAndroid/lib/selenium-server-standalone-2.44.0.jar;D:/Automation/AndEduAndroid/lib/AutomationDriver.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>1</exitCode>
+    <stdOut>=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 5s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2560)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2560
+[Wait 10 Seconds]
+[Click On Textview] --&gt; ����
+[Assert Element Exists] By Label --&gt; ����
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 5 Seconds]
+[Switch To Webview]
+[Set Webview --&gt; WEBVIEW_com.cmcc.andedu_phone ]
+[Get Text Of] --&gt; (//li[@class='resourcesList'])[1]//span
+[Assert Element Exists] By XPATH --&gt; (//li[@class='resourcesList'])[1]//span
+no such element: Unable to locate element: {"method":"xpath","selector":"(//li[@class='resourcesList'])[1]//span"}
+  (Session info: chrome=51.0.2704.110)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'LAPTOP-J4LST1G3', ip: '192.168.132.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{appPackage=com.cmcc.andedu_phone, statBarHeight=88, noReset=true, viewportRect={top=88, left=0, width=1440, height=2472}, deviceName=793QBDRJ2283V, platform=LINUX, deviceUDID=793QBDRJ2283V, desired={appPackage=com.cmcc.andedu_phone, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, recreateChromeDriverSessions=True, noReset=true, platformVersion=7.0, automationName=uiautomator2, browserName=, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, deviceName=793QBDRJ2283V, resetKeyboard=true}, platformVersion=7.0, webStorageEnabled=false, automationName=uiautomator2, takesScreenshot=true, browserName=, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, udid=793QBDRJ2283V, deviceManufacturer=Meizu, deviceApiLevel=24, resetKeyboard=true, deviceScreenSize=1440x2560, networkConnectionEnabled=true, recreateChromeDriverSessions=True, warnings={}, databaseEnabled=false, appActivity=com.cmcc.andedu_phone.activity.guide.SplashActivity, pixelRatio=4, locationContextEnabled=false, deviceScreenDensity=640, deviceModel=PRO 7 Plus}]
+Session ID: b4c93a44-4b98-4ace-b2ea-b5ef8ae9a082
+[Text Is Part Of] �� &lt;-- Element [(//li[@class='resourcesList'])[1]//span] was NOT FOUND
+[Text Is Part Of] Not Contain!
+[Close App]
+========================================= Test End ==========================================
+=============================================================================================
+=============================================================================================
+======================================== Test Start =========================================
+[Start App]
+[Setup] Environment Init.
+[Params] BrowserName = 
+[Params] PlatformName = Android
+[Params] DeviceName = 793QBDRJ2283V
+[Params] UDID = 793QBDRJ2283V
+[Params] PlatformVer = 7.0
+[Params] Package = com.cmcc.andedu_phone
+[Params] Activity = com.cmcc.andedu_phone.activity.guide.SplashActivity
+[Params] Automation = uiautomator2
+[Params] Appium URL = http://127.0.0.1:4723/wd/hub
+[Params] Test Suite: 
+[Params] Test Case: 
+[Setup] Start Appium.
+[Setup] Set ImplicitlyWait = 5s.
+[Setup] Set Screen Shot Range.
+[Start Point](0, 0)
+[Size](1440, 2560)
+[Screenshot Range] Screenshot Range Element = android:id/content
+[Screenshot Range] Screenshot Start At (0,0)
+[Screenshot Range] Screenshot Width = 1440
+[Screenshot Range] Screenshot Height = 2560
+[Wait 10 Seconds]
+[Wait 8 Seconds]
+[Swipe Pixel From Center To Up]
+[Swipe From Center To Up With Offset]
+[Wait 2 Seconds]
+[Click On Textview] --&gt; ����
+[Assert Element Exists] By Label --&gt; ����
+[Assert Element Exists] By Label &lt;-- FOUND!
+[Wait 8 Seconds]
+[Switch To Webview]
+[Set Webview &lt;-- Not FOUND!]
+[Wait 3 Seconds]
+</stdOut>
+    <stdErr></stdErr>
+    <exception>Could not send/receive data with SUT</exception>
+    <exception>fitnesse.testsystems.slim.SlimCommunicationException: Could not send/receive data with SUT</exception>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>1</wrong>
+    <ignores>0</ignores>
+    <exceptions>1</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>153035</totalRunTimeInMillis>
+</suiteResults>
+

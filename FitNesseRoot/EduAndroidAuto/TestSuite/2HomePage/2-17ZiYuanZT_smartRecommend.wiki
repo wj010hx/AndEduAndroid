@@ -1,0 +1,37 @@
+---
+Help: 资源专题-个性化推荐
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 资源专题-个性化推荐
+!3 测试步骤
+
+1.进入客户端首页
+2.查看用户所属年级
+3.查看资源专题推荐资源的年级是否正确
+
+!3 期望结果
+
+推荐的资源专题为用户所在年级
+
+!3 作者和日期
+王杰  20180620
+
+**!
+
+!|script|
+|wait|5|seconds|
+|swipe |1500|pixel from center to up  |
+|wait|3|seconds|
+|swipe |1500|pixel from center to up  |
+|wait|3|seconds|
+|swipe |1500|pixel from center to up  |
+|wait|3|seconds|
+|swipe up         |
+|wait|2|seconds|
+|$content=|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/main_resource_title'])[1]|
+|wait|3|seconds|
+|check|text|初二|is part of|$content|true|

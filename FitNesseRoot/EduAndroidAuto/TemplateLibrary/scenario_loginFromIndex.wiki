@@ -1,0 +1,8 @@
+---
+Help: 从首页登录
+Test
+---
+''从门户首页登录''
+|login from index|
+|username|password|
+|${autUsername}|${autPassword}|

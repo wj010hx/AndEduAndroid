@@ -1,0 +1,4 @@
+---
+Help: 设置截屏的路径
+---
+|set screenshot file path||

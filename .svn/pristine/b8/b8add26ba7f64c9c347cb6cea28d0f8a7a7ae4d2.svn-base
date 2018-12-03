@@ -1,0 +1,44 @@
+---
+Help: 成长帮手免费试用、内部包月/点播
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-成长帮手免费试用、内部包月/点播
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证成长帮手免费试用、内部包月/点播功能正常
+
+!3 作者和日期
+王杰  20180320
+
+**!
+
+内部包月
+!|script|
+|swipFindAppAndTry|成长帮手|
+|click on|${exchangeBtn}|
+|wait|5|seconds|
+|click on|${joinVip}|
+|wait|2|seconds|
+|click on|${openNow}|
+|AppBaoYueCheck|
+
+内部点播
+!|script|
+|ReturnThreeTimes|
+|click on|${CZBS点播}|
+|wait|1|seconds|
+|click on|${openNow}|
+|AppDianBoCheck|
+

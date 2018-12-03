@@ -1,0 +1,210 @@
+---
+Help: 应用中心
+---
+*****加博分级阅读*****
+!define JBFJ_functionPage {(//span[@class='am-navbar-label'])[1]}
+
+*****全课通三款教师版*****
+!define  YZT_readHomework {//button[@class='set-work']}
+!define  XTSX_class {//a[@id='nav_classInfo']}
+!define  HDZW_newHomework {//a[@class='b_btn orange_box fl']}
+
+*****全课通三款学生版*****
+!define  XTSX_funnyMath {(//nav/a)[4]}
+!define  QKT_gotoPay {//button[@class='orange']}
+!define  QKT_dianBoFee {(//dd[@id='billChoosecc']/a)[2]}
+!define  HDZW_writer {//span[@class='fun_pic fun_pic_2']}
+!define  HDZW_changeLife {//div[@class='lecture_banner_tit']}
+!define  YZT_xuWeiEnglish {//ul[@class='web-nav']/li[2]/a}
+!define  YZT_gotoPay {//button[@id='jtBtn2']}
+!define  YZT_dianBoFee {(//dl[@class='order-group']//a)[2]}
+
+*****妙笔作文*****
+!define  MBZW_vip {//div[@id="tab_03"]//a[@class='btn font-color-black font-size-12 payType_03']}
+!define  MBZW_play {(//div[@id="tab_03"]//i[contains(@class,'video')])[1]}
+!define  MBZW_sure {//button[@id='mainConfirmModalOk']}
+!define  MBZW_sureBuy {//button}
+!define  MBZW_dianBoFee {//div[@class='itemWrap'][2]//span[1]}
+
+
+*****名师导学*****
+※名师导学首页-开启频道
+!define openChannelBtn {//div[@class='new_channel']//a}
+!define  MSDX_1openedChannel {(//p[@class='ms_answer'])[1]//img}
+!define  MSDX_1kemu {(//div[@class='xdlb_1'])[1]/span[@class='name']}
+!define  MSDX_1kecheng {(//div[@class='chapter js-chapter3'])[1]/span[@class='name']}
+!define  MSDX_1buyBtn {(//a[@class='free js_buy'])[1]}
+!define  MSDX_5yuanBaoyue {(//ul[@class='payUl']/li)[1]}
+!define  MSDX_5yuanDianbo {(//ul[@class='payUl']/li)[2]}
+!define  MSDX_surePay {//div[@class='ok']}
+
+*****E辅导*****
+!define  EFD_photo {//div[@id='sm_round']/img}
+!define  EFD_sure {//div[@id='sure']}
+!define  EFD_dianbo {(//span[@class='icon'])[2]}
+
+*****洋葱数学*****
+!define  YCSX_bugNow {//ul[@class='onion-btns-ul']//button}
+!define  YCSX_sure {(//div[@class='onion-dialog-btns btns-two']/button)[2]}
+!define  YCSX_dianbo {(//label[@class='onion-radio'])[2]}
+
+*****快乐学堂*****
+!define  KLXT_baoyue {(//div[@id='bjhjyxf1']/div)[1]}
+!define  KLXT_dianbo {(//div[@id='bjhjyxf1']/div)[2]}
+!define  KLXT_buy {//button[@id='buyvip']}
+
+*****掌上高考*****
+掌上高考弹框-选择省份“江苏”
+!define jiangsuBtn {//div[@class='cityBox clearfix']/div[@id='32']}
+※掌上高考首页，验证是否显示“江苏”
+!define selectedProvince {//div[@class='n-city']/span}
+
+*****优满分*****
+!define  YMF_duihuan {//span[@class='J-menu-icon home-menu icon_home home_exchange']}
+!define  YMF_shangpin {(//div[@class='item'])[1]//img}
+!define  YMF_duihuanNow  {//a[@class='J-exchange-button']}
+!define  YMF_baoyue  {//a[@data-type='0']}
+!define  YMF_dianbo  {//a[@data-type='1']}
+!define  YMF_buyNow  {//a[@class='J-pay-btn']}
+
+*****家长学堂*****
+!define JZXT_discover {//div[@id='foot_nav']/dl[2]//dd}
+!define JZXT_firstVoice {(//div[@class='audioImg'])[1]/img}
+!define JZXT_play {(//div[@class='mask'])[1]}
+!define JZXT_buyNow {(//input[@class='pay_btn'])[2]}
+!define JZXT_5yuanBaoyue {//li[@class='active']}
+!define JZXT_open {//h4[@class='open_this dib active_this']}
+!define JZXT_dianboFee {//*[@id="order-main"]/div[3]/dl[2]/dd/ul/li[1]}
+
+*****口袋问答*****
+!define  KDWD_firstTeacher {(//div[@class='teacherList']//div[@class='teacher_pic'])[1]/img}
+!define  KDWD_wantAsk {(//span[@class='toflow'])[2]/a}
+!define  KDWD_buy {//div[@class='login_btn']}
+!define  KDWD_dianbo {//div[@price='30']}
+
+*****爱熊宝家长端*****
+!define AXB_oneKey {//p[@class='lock_btn lock_off']}
+!define AXB_buyNow {//div[@class='yes']}
+!define AXB_dianbo {//li[@id='EDUGB1148623']/span}
+
+*****报哪儿*****
+报哪儿-一站填志愿
+!define tianZhiYuan {(//p[@style='position:relative;']/img)[1]}
+报哪儿-确认按钮
+!define confirmBtn {(//div[@class='pup_con1']/div[@class='btn']/span)[2]}
+
+*****成长帮手*****
+立即兑换
+!define CZBS_exchangeBtn {//*[@id="creditId"]/span[3]}
+10元点播
+!define CZBS_dianbo {//*[@id="mSelect"]/div[2]/h4}
+加入vip
+!define CZBS_joinVip {//img[@class='join-vip']}
+马上开通
+!define CZBS_openNow {//button[@id='openBtn']}
+
+*****华腾同步课堂*****
+!define  HT_my  {//a[@href='/h5/setting/setting.vm']}
+!define  HT_wantBuy  {(//div[@class='weui_cell_bd weui_cell_primary'])[6]}
+!define  HT_tongbuKetang  {(//div[@class='weui_cell_bd weui_cell_primary'])[3]//span}
+!define  HT_buy  {//div[@class='weui_btn_area']/a}
+
+*****优佳成长通*****
+!define  YJ_myYJ {//div[@class='o-hidden icon icon4 margin-auto']}
+!define  YJ_bugNow {//div[@onclick='toOrderBusiness()']}
+!define  YJ_sure {//button[@class='btn bg-green white w100']}
+!define  YJ_dianbo {(//div[@class='col-xs-6 mb10'])[2]}
+
+
+***********************************以下元素目前未使用*********************************************
+
+
+
+
+*****名师优课\考点精讲*****
+!define  下拉按钮 {//span[@id='slideicon']}
+!define  数学学科 {//span[@rel='43']}
+!define  第一个收费视频父元素 {//div[@class='swipe-wrap']}
+!define  第一个收费视频 {//*[@id="wrapperList"]/section/section/p[2]/a}
+
+#!define  第一个课程 {(//div[@class='live-cover-wrap'])[1]/img}
+!define  第一个课程 {(//p[@class='live-study'])[1]/span}
+
+#!define  第一个课程 {(//div[@class='live-right'])[1]//h3[@class='live-title']}
+#!define  新东方订阅 {(//*[@text='订阅'])[1]}
+#!define  新东方订阅 {((//ul[@id='courses-list']//ul[@class='sub-menu'])[1]//span[@class='btn active'])[2]}
+!define  新东方订阅 {(//span[@class='btn active'])[2]}
+!define  XDF五元包月 {(//ul[@class='payUl']/li)[1]}
+!define  XDF五元点播 {(//ul[@class='payUl']/li)[2]}
+!define  XDF确定订购 {//div[@class='ok']}
+
+
+
+
+
+*****在线课程*****
+
+
+在线课程-第一个课程
+!define firstKC {//a[@unitid='477']//img}
+!define firstKC2 {//*[@id="div_九年级下学期人教版"]/ul[1]/a/li[1]}
+!define firstKC3 {(p[@class='fleft'])[1]}
+!define firstKC4 {ul[@courseid='2850']//li[@id='title_18079']}
+
+!define  ZXKC订购课程 {//*[@id="index_section"]/header/p[3]/span[2]}
+在线课程-10元包月
+!define ZXKCBaoyue {//div[@paytype='1']}
+在线课程-10元点播
+!define ZXKCDianbo {//div[@billingday='30']}
+在线课程-立即订购按钮
+!define payNowBtn {button[@class='hjy-video-button']}
+
+
+
+
+
+*****家长之友*****
+!define  今日必读 {//li[@id='head1']/a}
+
+
+*****学习百分百*****
+!define  XXBFB数学 {(//img[@class='am-img-responsive'])[2]}
+!define  XXBFB知识点讲解 {//a[@class='point']}
+!define  XXBFB成为VIP {//h1[@class='vip-content-text']}
+!define  XXBFB包月 {//p[@target='by']}
+!define  XXBFB点播 {//p[@target='db30']}
+
+
+*****学易学堂*****
+!define  XYXT去订购 {//span[@type='1']}
+!define  XYXT点播 {(//span[@class='labelauty-unchecked'])[2]}
+
+
+*****和卫士*****
+!define  HWS立即订购 {//div[@class='item active']/a/img}
+!define  HWS确认订购 {//div[@class='btn-buy']/img}
+
+*****名校资源*****
+!define  第一个学校 {//div[@class='index_box_f']//li[1]//a}
+!define  第一个资源 {//ul[@class='sidebar-menu show tab1']//li[1]//span}
+!define  预览 {//div[@class='resources_property_box_f']/span}
+!define  iframe {//body//iframe}
+
+
+*****华腾同步课堂*****
+!define  HT我的  {//a[@href='/h5/setting/setting.vm']}
+!define  HT我要订购  {(//div[@class='weui_cell_bd weui_cell_primary'])[6]}
+!define  HT华腾同步课堂  {(//div[@class='weui_cell_bd weui_cell_primary'])[3]//span}
+!define  HT订购  {//div[@class='weui_btn_area']/a}
+
+*****口语易*****
+!define  KYY包月  {(//ul[@id='productList']/li)[1]}
+!define  KYY点播  {(//ul[@id='productList']/li)[2]}
+!define  KYY去订购  {(//a[@class='goandorderDtn']}
+
+*****思鹿校园*****
+!define  SL点播资费 {(//li[@class='item item-checkbox'])[3]//input}
+!define  SL立即订购 {//button[@id='orderBtn']}
+
+*****创恒同步课堂教师版*****
+!define  CH我 {//i[@class='icon-wo']}

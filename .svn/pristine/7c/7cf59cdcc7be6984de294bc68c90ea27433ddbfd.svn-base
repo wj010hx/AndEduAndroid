@@ -1,0 +1,39 @@
+---
+Help: 和卫士-免费试用、内部包月
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-和卫士免费试用、内部包月
+
+!3 测试步骤
+
+1. 
+2. 
+3. 
+
+
+!3 期望结果
+
+验证和卫士免费试用、内部包月
+无配套硬件信息，内部订购流程不完整
+
+!3 作者和日期
+王杰  20180322
+
+**!
+
+内部包月
+!|script|
+|set swipe speed|550       |
+|open app|和卫士|in app center with bottom|最新推荐|
+|click on textview|免费试用   |
+|wait|5|seconds|
+|switch to webview|
+|click on|${HWS立即订购}|
+|wait|2|seconds|
+|click on|${HWS确认订购}|
+
+

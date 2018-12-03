@@ -1,0 +1,27 @@
+---
+Help: 家校互动
+---
+家校互动-发短信-选择班级按钮
+!define classSelectBtn {//*[@resource-id='com.cmcc.andedu_phone:id/add_class']}
+家校互动-发短信-班级checkbox
+!define classCheckbox {(//*[@resource-id='com.cmcc.andedu_phone:id/classCheckBox'])[1]}
+家校互动-发短信-班级选择后的确定按钮
+!define classSelectConfirm {//*[@resource-id='com.cmcc.andedu_phone:id/common_title_right']}
+家校互动-发短信短信-短信内容编辑框的id
+!define msgEditbox {notice_edit}
+
+家校互动-发作业短信-短信内容编辑框的id
+!define workMsgEditbox {work_edit}
+家校互动-发作业短信-学科选择按钮
+!define chooseSubjects {//*[@resource-id='com.cmcc.andedu_phone:id/choose_subjects']}
+家校互动-发作业短信-第一个学科
+!define firstSubject {(//*[@resource-id='com.cmcc.andedu_phone:id/project_name'])[1]}
+
+家校互动-发评语短信-短信内容编辑框的id
+!define commentMsgEditbox {comment_edit}
+
+家校互动-发定时短信-定时checkbox
+!define timingCheckbox {//*[@resource-id='com.cmcc.andedu_phone:id/timing_checkbox']}
+
+家校互动-发办公短信-收信人checkbox
+!define choicePeopleCheckbox {(//*[@resource-id='com.cmcc.andedu_phone:id/choose_people'])[1]}

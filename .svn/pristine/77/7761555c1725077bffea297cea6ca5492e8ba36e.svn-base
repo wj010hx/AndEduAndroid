@@ -1,0 +1,31 @@
+---
+Help: 服务条款-打开
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 设置-服务条款
+!3 测试步骤
+
+1.点击设置
+2.点击服务条款
+
+!3 期望结果
+
+2.正确显示服务条款
+
+!3 作者和日期
+王杰  20180621
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='设置']|
+|wait|3|seconds|
+|click on |//*[@text='服务条款']|
+|wait|3|seconds|
+|check|get attr|enabled   |by xpath|(//*[@class='android.view.View'])[1]|TRUE|

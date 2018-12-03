@@ -1,0 +1,34 @@
+---
+Help: 掌上高考-免费试用
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 应用中心-掌上高考免费试用
+
+!3 测试步骤
+
+1. 进入掌上高考
+2. 选择生源地江苏
+3. 验证首页是否显示“江苏”
+
+
+!3 期望结果
+
+验证掌上高考免费试用
+
+!3 作者和日期
+王杰  20180319
+
+**!
+
+免费试用
+!|script|
+|swipFindApp|掌上高考|
+|click on textview|进入应用   |
+|wait|15|seconds|
+|switch to webview|
+|click on|${jiangsuBtn}|
+|check|get text of|${selectedProvince}|江苏|

@@ -1,0 +1,43 @@
+---
+Help: 家校互动-查看已发短信
+Test
+---
+!** Summary, Goal and Test Steps.
+
+!3 测试目的
+
+该用例用于测试 查看已发短信列表
+!3 测试步骤
+
+1.校讯通用户进入家校互动首页
+2.点击短信
+3.点击“定时短信”
+
+!3 期望结果
+
+1.显示已发短信列表（验证发送时间内包含‘年’）
+2.显示定时短信列表（验证定时短信内容长度不等于0）
+
+
+!3 作者和日期
+王杰  20180619
+
+**!
+
+!|script|
+|click on imageview|center_person_image       |
+|wait|3|seconds|
+|click on |//*[@text='家校互动']|
+|wait|3|seconds|
+|click on |(//*[@resource-id='com.cmcc.andedu_phone:id/home_fragmet_item_tv'])[1]|
+|wait|10|seconds|
+|$date=|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/home_sms_date'])[1]|
+|check |text   |年|is part of|$date|true|
+|wait|3|seconds|
+|click on |//*[@text='定时短信']|
+|wait|3|seconds|
+|$msg=|get attr|text   |by xpath|(//*[@resource-id='com.cmcc.andedu_phone:id/home_sms_content'])[1]|
+|check not|get text length|$msg|0|
+
+
+
